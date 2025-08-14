@@ -1,0 +1,528 @@
+## USB Steering Wheel Driver  
+  
+tested with the patched Pole Position Game (download, see Sourceforge File Area. [http://sourceforge.net/projects/microusb/files/](http://sourceforge.net/projects/microusb/files/) ) and the  Thrustmaster Nascar Pro Digital 2 Steering Wheel.  
+  
+Source is in Bibo-Assembler Format.  
+  
+```
+01000          .LI OFF
+01010 **************************
+01020 ** 6502 USB DEVELOPMENT **
+01030 ** (C) 2004 BY ABBUC    **
+01040 ** REGINALGRUPPE FFM    **
+01050 ** STEERING WHEEL DRIVER**
+01060 ** FOR USB SL811HS      **
+01070 ** VERSION 1.1 20041030 **
+01080 ** POLEPOSITION PATCH   **
+01090 **************************
+01100 ;
+01110          .OR $2500
+01120          .OF "D:USBWHEEL.COM"
+01130 ;
+01140 ; SL811 MEMORY ADDRESSES
+01150 ; CHANGE ACCORDING TO YOUR
+01160 ; CONFIGURATION
+01170 ;
+01180 USBSEL   = $D500
+01190 USBDTA   = $D501
+01200 ;
+01210 ; USB DEVICE WAIT
+01220 ; CHANGE IF NEEDED
+01230 ;
+01240 USBWAIT  = $20
+01250 ;
+01260 ; USB REGISTER SL811
+01270 ;
+01280 CTL      = $00 ; USBA HOST CTL
+01290 BUFADR   = $01 ; BUFFER ADDRESS
+01300 BUFLEN   = $02 ; BUFFER LEN
+01310 PIDEP    = $03 ; HOST PID
+01320 PKSTAT   = $03 ; PAKET STATUS
+01330 FNADDR   = $04 ; USB ADDR (WO)
+01340 MCNTRL   = $05 ; MAIN CONTROL
+01350 CDTASET  = $0E
+01360 SOFCNT   = $0F ; CNTRL 2 REG
+01370 SOFLOW   = $0E ; SOF LOW
+01380 INTSTAT  = $0D ; IRQ STATUS
+01390 ;
+01400 ; USB CONSTANTS
+01410 ;
+01420 ; INTENA AND INTSTAT MASKS
+01430 EP0DONE  = $01
+01440 EP1DONE  = $02
+01450 EP2DONE  = $04
+01460 EP3DONE  = $08
+01470 DMADONE  = $10
+01480 SOFRECV  = $20
+01490 USBRSET  = $40
+01500 DMASTAT  = $80
+01510 ;
+01520 ; ENDPOINT CONTROL REG
+01530 ;
+01540 EPC0     = $00 ; ENDPOINT 0
+01550 EPC1     = $10 ; ENDPOINT 1
+01560 EPC2     = $20 ; ENDPOINT 2
+01570 EPC3     = $30 ; ENDPOINT 3
+01580 ;
+01590 ; ENDPOINT REGISTER OFFSET
+01600 ;
+01610 EPC      = $00 ; CONTROL
+01620 EPBA     = $01 ; BASE ADDRESS
+01630 EPBL     = $02 ; BASE LENGTH
+01640 EPPS     = $03 ; PACKET STATUS
+01650 EPTC     = $04 ; TRANSFERCOUNT
+01660 ;
+01670 ; PID VALUES
+01680 ;
+01690 SOFPID   = $05 ; SOF PID
+01700 INPID    = $90 ; PACKET ID
+01710 SETPID   = $D0 ; SET ADDRESS REQ
+01720 ;
+01730 ; SET ADDRESS PACKET
+01740 ;
+01750 SETADDR  .HX 0005010000000000
+01760 ;
+01770 ; SET CONFIG PACKET
+01780 ;
+01790 SETCONF  .HX 0009010000000000
+01800 ;
+01810 ; ATARI MEMORY LOCATIONS
+01820 STICK0   = $600 ; $278
+01830 STRIG0   = $601 ; $284
+01840 VCOUNT   = $D40B
+01850 ;
+01860 ------------------------------
+01870 ; RESET THE SL811HS USB
+01880 ; CONTROLLER
+01890 ;
+01900 USBRESET
+01910          LDA #$AE ; SET SOF
+01920          LDX #SOFCNT ; HIGH COUNT
+01930          JSR REGSTORE
+01940 ;
+01950          LDA #$08    ; RESET USB
+01960          LDX #MCNTRL ; FULLSPEED
+01970          JSR REGSTORE
+01980 ;
+01990          LDA #USBWAIT
+02000          JSR PAUSE
+02010 ;
+02020          LDA #00
+02030          LDX #MCNTRL
+02040          JSR REGSTORE
+02050 ;
+02060          RTS
+02070 ------------------------------
+02080 ; OUT: A=0 NO USB RESET
+02090 ;    A!=0 USBRESET
+02100 ;
+02110 ; CHECK IF AN USB RESET
+02120 ; OCCURED
+02130 ;
+02140 QUERYUSBRESET
+02150          LDX #INTSTAT
+02160          JSR REGFETCH
+02170          AND #USBRSET
+02180          RTS
+02190 ------------------------------
+02200 ; CLEAR USB IRQ MASKS
+02210 ;
+02220 CLEARIRQ
+02230          LDA #$FF
+02240          LDX #INTSTAT
+02250          JMP REGSTORE
+02260 ------------------------------
+02270 ; DETECT USB DEVICE SPEED
+02280 ;
+02290 ; OUT: A=0 LOW SPEED DEVICE
+02300 ;      A!=0 HIGH SPEED DEVICE
+02310 ;           OR ERROR
+02320 ;
+02330 SPEED    JSR USBRESET
+02340          JSR CLEARIRQ
+02350          LDA #USBWAIT
+02360          JSR PAUSE
+02370          JSR QUERYUSBRESET
+02380          BEQ .1 ; NO RESET
+02390          JSR CLEARIRQ
+02400          LDA #$FF
+02410          RTS
+02420 ;
+02430 .1       LDX #INTSTAT
+02440          JSR REGFETCH
+02450          AND #DMASTAT
+02460          BNE .2
+02470 ;
+02480 ; LOW SPEED
+02490 ;
+02500          LDA #$AE
+02510          LDX #SOFCNT
+02520          JSR REGSTORE
+02530 ;
+02540          LDA #$E0
+02550          LDX #CDTASET
+02560          JSR REGSTORE
+02570 ;
+02580          LDA #$05
+02590          LDX #MCNTRL
+02600          JSR REGSTORE
+02610 ;
+02620          JSR SETUPUSB
+02630          LDA #$00
+02640 ;
+02650 ; FULL SPEED OR ERROR
+02660 ;
+02670 .2
+02680          RTS
+02690 ------------------------------
+02700 ; SET UP USB CONTROLLER FOR
+02710 ; DEVICE COMMUNICATION
+02720 ;
+02730 SETUPUSB
+02740          LDA #$50
+02750          LDX #EPC0+EPPS
+02760          JSR REGSTORE
+02770 ;
+02780          LDA #$00
+02790          LDX #EPC0+EPTC
+02800          JSR REGSTORE
+02810 ;
+02820          LDA #$01
+02830          LDX #EPC0
+02840          JSR REGSTORE
+02850 ;
+02860          LDA #USBWAIT
+02870          JSR PAUSE
+02880 ;
+02890          JSR CLEARIRQ
+02900          RTS
+02910 ------------------------------
+02920 ; ASSIGN USB ADDRESS 1 TO
+02930 ; DEVICE, SELECT CONFIGURATION
+02940 ; PROFILE 1
+02950 ;
+02960 INITWHEEL
+02970          LDA #08
+02980          LDX #MCNTRL
+02990          JSR REGSTORE
+03000 ;
+03010          LDA #USBWAIT
+03020          JSR PAUSE
+03030 ;
+03040          LDA #$21
+03050          LDX #MCNTRL
+03060          JSR REGSTORE
+03070 ;
+03080          LDA #$10    ; $10 ADDR
+03090          LDX #BUFADR ; DATABUF
+03100          JSR REGSTORE
+03110 ;
+03120          LDA #$8     ; 8 BYTE
+03130          LDX #BUFLEN ; DATABUF
+03140          JSR REGSTORE
+03150 ;
+03160          LDA #$E0    ; 1MS EOP
+03170          LDX #SOFLOW
+03180          JSR REGSTORE
+03190 ;
+03200          LDA #$EE
+03210          LDX #SOFCNT
+03220          JSR REGSTORE
+03230 ;
+03240 ; SET BUFFER FOR SETUP-ADDRESS
+03250 ; REQUEST = 1
+03260 ;
+03270          LDY #8
+03280 .1       TYA
+03290          CLC
+03300          ADC #$F  ; BUF ADDR
+03310          TAX
+03320          LDA SETADDR-1,Y
+03330          JSR REGSTORE
+03340          DEY
+03350          BNE .1
+03360 ;
+03370          LDA #00     ; WE USE
+03380          LDX #FNADDR ; ADDR 0
+03390          JSR REGSTORE
+03400 ;
+03410          LDA #SETPID
+03420          LDX #PIDEP
+03430          JSR REGSTORE
+03440 ;
+03450 .2       LDA #07
+03460          JSR PROCESS
+03470          AND #04
+03480          BNE .2
+03490 ;
+03500          LDA #USBWAIT
+03510          JSR PAUSE
+03520 ;
+03530          LDA #INPID
+03540          LDX #PIDEP
+03550          JSR REGSTORE
+03560 ;
+03570          LDA #03
+03580          JSR PROCESS
+03590 ;
+03600 ; SELECT CONFIGURATION 1
+03610 ;
+03620          LDY #8
+03630 .3       TYA
+03640          CLC
+03650          ADC #$F
+03660          TAX
+03670          LDA SETCONF-1,Y
+03680          JSR REGSTORE
+03690          DEY
+03700          BNE .3
+03710 ;
+03720          LDA #01
+03730          LDX #FNADDR ; NEW ADDR
+03740          JSR REGSTORE
+03750 ;
+03760          LDA #SETPID
+03770          LDX #PIDEP
+03780          JSR REGSTORE
+03790 ;
+03800 .4       LDA #07
+03810          JSR PROCESS
+03820          AND #04
+03830 ;
+03840          BNE .4
+03850 ;
+03860          LDA #INPID
+03870          LDX #PIDEP
+03880          JSR REGSTORE
+03890 ;
+03900          LDA #03
+03910          JSR PROCESS
+03920 ;
+03930          LDA #INPID
+03940          ORA #01
+03950          LDX #PIDEP
+03960          JSR REGSTORE
+03970 ;
+03980          RTS
+03990 ------------------------------
+04000 ; TEXTOUTPUT WITH THE HELP
+04010 ; OF THE STACK. TEXT IS
+04020 ; STORED NEXT TO THE JSR TO
+04030 ; THIS ROUTINE. TEXT-END MARKER
+04040 ; IS '@'
+04050 ;
+04060 PRINT    PLA       ; Return Adress
+04070          STA $D0   ; from Stack
+04080          PLA       ; and store
+04090          STA $D1   ; as pointer
+04100 ;
+04110 INCP     INC $D0   ; increase
+04120          BNE .1    ; pointer
+04130          INC $D1
+04140 .1       LDX #0    ; read char
+04150          LDA ($D0,X); from RAM
+04160          CMP #'@   ; End?
+04170          BEQ ENDPR ; yes=>
+04180          JSR PUTCHAR ; Print Char
+04190          JMP INCP  ; back to loop
+04200 *
+04210 ENDPR    LDA $D1   ; store pointer
+04220          PHA       ; as new Return
+04230          LDA $D0   ; address on
+04240          PHA       ; Stack
+04250          RTS       ; continue Program
+04260 ;            after text
+04270 ------------------------------
+04280 ; Print one char
+04290 ; in: A= Char to print
+04300 ;
+04310 PUTCHAR  TAX         Print
+04320          LDA $E407   char
+04330          PHA         with OS
+04340          LDA $E406   Routine on
+04350          PHA         Stack
+04360          TXA
+04370          RTS         JUMP
+04380 ------------------------------
+04390 ; wait for HID Device to be
+04400 ; plugged into the USB Cart
+04410 ;
+04420 WAITWHEEL
+04430          JSR PRINT
+04440          .HX 9B
+04450          .AS "ATARI USB STEERING WHEEL DRIVER"
+04460          .HX 9B
+04470          .AS "FOR POLEPOSITION"
+04480          .HX 9B
+04490          .AS "(c) 2004 ABBUC e.V."
+04500          .HX 9B
+04510          .AS "H. Reminder, T. Grasel, C. Strotmann"
+04520          .HX 9B9B
+04530          .AS "WAIT FOR DEVICE..."
+04540          .HX 9B40
+04550 .1       JSR SPEED
+04560          CMP #0
+04570          BNE .1
+04580          JSR PRINT
+04590          .AS "LOW SPEED DEVICE DETECTED!"
+04600          .HX 9B40
+04610 ;
+04620          JSR INITWHEEL
+04630          JSR PRINT
+04640          .AS "WHEEL INITILIZED."
+04650          .HX 9B40
+04660          CLC
+04670          RTS
+04680 ------------------------------
+04690 ; RESIDENT PART OF THE DRIVER
+04700 ; THIS WILL STAY IN MEMORY
+04710 ; AND SHOULD NOT BE OVERWRITTEN
+04720 ;
+04730 RESPART  .OR $7F00
+04740 ------------------------------
+04750 ; GET JOYSTICK VALUES
+04760 ;
+04770 GETSTICK
+04780          TXA
+04790          PHA      ; SAVE XREG
+04800          JSR QUERYWHEEL
+04810          LDY STICK0
+04820          PLA
+04830          TAX      ; REST XREG
+04840          RTS
+04850 ------------------------------
+04860 ; GET JOYSTICK TRIGGER
+04870 ;
+04880 GETTRIG
+04890          TXA
+04900          PHA      ; SAVE XREG
+04910          TYA
+04920          PHA      ; SAVE YREG
+04930          JSR QUERYWHEEL
+04940          PLA
+04950          TAY      ; REST YREG
+04960          PLA
+04970          TAX      ; REST XREG
+04980          LDA STRIG0
+04990          RTS
+05000 ------------------------------
+05010 ; FETCH AN USB REGISTER VALUE
+05020 ; IN:  X=USB REGISTER
+05030 ; OUT: A=USB DATA
+05040 ;
+05050 REGFETCH STX USBSEL
+05060          LDA USBDTA
+05070          RTS
+05080 ------------------------------
+05090 ; STORE AN USB REGISTER VALUE
+05100 ; IN:  A=USB DATA
+05110 ;      X=USB REGISTER
+05120 ;
+05130 REGSTORE STX USBSEL
+05140          STA USBDTA
+05150          RTS
+05160 ------------------------------
+05170 ; PAUSE FOR 1/50 SECONDS
+05180 ; IN:  A=NUMBER OF 1/50 SEC
+05190 ;
+05200 PAUSE    TAX
+05210 .1       LDA VCOUNT
+05220          BNE .1
+05230          DEX
+05240          BNE .1
+05250          RTS
+05260 ------------------------------
+05270 ; QUERY WHEEL DEVICE
+05280 ;
+05290 QUERYWHEEL
+05300 ;
+05310          LDA #03 ; POLL USB
+05320          JSR PROCESS
+05330          AND #01
+05340          BEQ .2  ; NO DATA
+05350 ;
+05360          LDX #$10      LOAD
+05370          JSR REGFETCH  TRIGGER
+05380          STA TRIGGER
+05390          LDX #$12      LOAD
+05400          JSR REGFETCH  WHEEL
+05410          STA WHEEL
+05420          LDX #$13      LOAD
+05430          JSR REGFETCH  PEDAL
+05440          STA PEDAL
+05450          JSR USB2ATA
+05460 .2       RTS
+05470 ------------------------------
+05480 TRIGGER  .HX 00      ; TRIGGER
+05490 WHEEL    .HX 00      ; WHEEL
+05500 PEDAL    .HX 00      ; PEDAL
+05510 ------------------------------
+05520 ; SEND USB COMMAND
+05530 ; IN:  A=USB COMMAND
+05540 ; OUT: A=RETURNCODE
+05550 PROCESS  PHA
+05560          LDA #01
+05570          LDX #INTSTAT
+05580          JSR REGSTORE
+05590 ;
+05600          PLA
+05610          LDX #CTL
+05620          JSR REGSTORE
+05630 ;
+05640 .1       LDX #INTSTAT
+05650          JSR REGFETCH
+05660          AND #$01
+05670          BEQ .1
+05680 ;
+05690          LDX #PKSTAT
+05700          JSR REGFETCH
+05710          RTS
+05720 ------------------------------
+05730 ; CONVERT USB WHEEL VALUES
+05740 ; TO ATARI STICK/STRIG VALUES
+05750 ; FOR POLEPOSITION
+05760 ;
+05770 USB2ATA
+05780          LDA #15     ; STORE
+05790          STA STICK0  ; DEFAULT
+05800          LDA #1      ; VALUES
+05810          STA STRIG0
+05820 ;
+05830 SHIFT    LDA TRIGGER ; TRIGGER
+05840          AND #3      ; SHIFT?
+05850          BEQ STEER   ; NO!
+05860          LDA TRIGGER
+05870          AND #1
+05880          BEQ .1
+05890          LDA #13     ; SHIFT LOW
+05900 .2       STA STICK0
+05910          RTS
+05920 .1       LDA #14     ; SHIFT HIGH
+05930          BNE .2
+05940 STEER    LDA WHEEL   ; LOAD WHEEL
+05950          BPL .1      ; NEG?
+05960          EOR #$FF    ; YES->INVERT
+05970 .1       AND #$F8    ; +/-8 TRESHOLD
+05980          BEQ PEDL    ; NO STEERING
+05990          LDA WHEEL
+06000          BMI .2  ; LEFT
+06010          LDA #7
+06020          BNE .3
+06030 .2       LDA #11 ; RIGHT
+06040 .3       STA STICK0
+06050 ;
+06060 PEDL     LDA PEDAL   ; PEDAL?
+06070          BPL .1      ; BREAKS?
+06080          LDA #0      ; YES->BREAK!
+06090          STA STRIG0
+06100 .1
+06110          RTS
+06120 ------------------------------
+06130 ; INIT VECTOR
+06140          .OR $2E2
+06150          .DA WAITWHEEL
+06160 ------------------------------
+
+```
+  
+  

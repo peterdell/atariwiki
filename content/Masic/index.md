@@ -1,0 +1,44 @@
+# MASIC - Die Musik-Programmiersprache - Copyright (C) 1987 by R & E Software  
+MASIC ist eine Musik-Programmiersprache  
+  
+## ATX images  
+in Bearbeitung...  
+  
+## ATR images  
+in Bearbeitung...  
+  
+## Handbuch  
+in Bearbeitung...  
+  
+## BASIC-Programm zum laden von Musik  
+```
+10 GOSUB 31000:REM MUSIKPROGRAMM LADEN
+20 AD=XXX:GOSUB 31500:REM FUER 'XXX' DIE INIT-ADRESSE EINSETZEN
+30 POKE STADR,1:REM MUSIKPROGRAMM STARTEN...
+50 GOTO 50
+31000 DIM DISK$(35)
+31010 RESTORE 7500:FOR I=1 TO 35:READ A:DISK$(I,I)=CHR$(A):NEXT I
+31030 DATA 162,16,104,104,104,157,66,3,104,157,69,3,104,157,68,3
+31040 DATA 104,157,73,3,104,157,72,3,32,86,228,152,133,212,169,0,133,213,96
+31050 REM MUSIKSTUECK LADEN
+31060 CLOSE #1:OPEN #1,4,0,"D:MUSIK.OBJ":REM FILENAMEN VOM MUSIKPROGRAMM HIER EINTRAGEN!
+31070 GET #1,A:GET #1,A
+31080 GET #1,A:GET #1,B:STADR=A+B*256
+31090 GET #1,A:GET #1,B:EN=A+B*256
+31100 LA=EN-STADR+1
+31110 A=USR(ADR(DISK$),7,STADR,LA)
+31120 CLOSE #1
+31130 RETURN 
+31500 POKE 1024,104:POKE 1025,76:POKE 1027,INT(AD/256):POKE 1026,AD-PEEK(1027)*256
+31510 Q=USR(1024):RETURN 
+```
+  
+## Bilder  
+![](attachments/Cover.jpg)  
+Vorderseite der MASIC-Box  
+  
+![](attachments/Back2.jpg)  
+Rückseite der MASIC-Box  
+  
+![](attachments/Diskette2.jpg)  
+Diskette der MASIC-Software  

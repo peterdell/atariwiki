@@ -1,0 +1,186 @@
+# Action! Workshop 1 organized by [ABBUC](https://abbuc.de)  
+  
+24th October 2010 "[Unperfekthaus](https://www.unperfekthaus.de/)" Essen  
+  
+![](attachments/IMG_0009.jpg)![](attachments/IMG_0011.jpg)  
+  
+## The MENUE Program  
+```
+BYTE NUMPLAYER, LEVEL
+BYTE CONSOL=53279
+BYTE CRSINH=752
+
+PROC PRINTPOS(CARD X, BYTE Y, BYTE ARRAY STR)
+          
+  BYTE ROWCRS=$54   
+  CARD COLCRS=$55
+  
+  ROWCRS=Y
+  COLCRS=X
+  PRINT(STR)
+RETURN
+
+PROC PRINTBPOS(CARD X, BYTE Y, BYTE VALUE)
+         
+  BYTE ROWCRS=$54   
+  CARD COLCRS=$55
+  
+  ROWCRS=Y
+  COLCRS=X
+  PRINTB(VALUE)
+RETURN
+    
+     
+PROC CLS()
+  PUT(125)
+RETURN  
+       
+PROC RAINBOW()
+BYTE VCOUNT=$D40B,
+     WSYNC=$D40A,
+     COLPF2=$D018,
+     RTCLK=20,
+     I,J
+  FOR J=1 TO 192
+DO
+  FOR I=1 TO 192
+  DO
+    WSYNC=0
+    COLPF2 = VCOUNT+RTCLK
+  OD
+OD
+RETURN
+
+              
+PROC HIGHLIGHT(BYTE LINE)
+  BYTE VCOUNT=$D40B
+  BYTE WSYNC =$D40A
+  BYTE COLPF2=$D018   ;HINTERGRUND
+  BYTE COLOR2=710
+  BYTE I
+  LINE==LSH 2
+  LINE==+15        
+
+  DO
+  UNTIL VCOUNT=LINE
+  OD
+  WSYNC=0  
+  WSYNC=0
+  COLPF2=$CC
+  
+  FOR I=0 TO 7
+  DO
+    WSYNC=0
+  OD             
+  COLPF2=COLOR2
+RETURN
+
+PROC MAIN()
+  BYTE SCONSOL, LINE
+  BYTE ARRAY BALKEN=[$C0
+                     $C2
+                     $C6
+                     $C8
+                     $C8
+                     $C6
+                     $C2
+                     $C0] 
+  CRSINH=1
+  CLS()
+  NUMPLAYER=1
+  LEVEL=1
+  PRINTPOS(5,10,"ANZAHL SPIELER:")
+  PRINTPOS(5,12,"LEVEL:")       
+  PRINTPOS(5,16,"SPIEL STARTEN!")
+  DO
+      PRINTBPOS(20,10,NUMPLAYER)
+      PRINTBPOS(20,12,LEVEL)  
+
+      DO
+        SCONSOL=CONSOL
+        UNTIL SCONSOL#7
+      OD
+
+      IF SCONSOL=5 THEN
+        LEVEL==&7
+        LEVEL==+1   
+        LINE= 12
+    
+      ELSEIF SCONSOL=3 THEN
+        NUMPLAYER==&1
+        NUMPLAYER==+1
+        LINE=10
+      FI            
+      DO            
+        HIGHLIGHT(LINE)
+        UNTIL CONSOL=7
+      OD
+
+  UNTIL SCONSOL=6
+  OD
+  RAINBOW()     
+  CRSINH=0
+
+RETURN      
+```
+  
+## The DLI  
+  
+```
+; DLI
+
+CARD SDLSTL=$230
+CARD VSDLST=$200
+BYTE NMIEN =$D40E
+CARD DLI2V
+       
+DEFINE PLA="$68"
+DEFINE PHA="$48"
+DEFINE TXA="$8A"
+DEFINE TYA="$98"
+DEFINE TAX="$AA"
+DEFINE TAY="$A8"
+DEFINE RTI="$40"
+
+PROC SETDLI(BYTE LINE)
+  BYTE POINTER P
+  P = SDLSTL+LINE+5
+  P^==%$80         
+RETURN
+  
+PROC DLI()
+  BYTE WSYNC=$D40A
+  BYTE COLPF2=$D018
+
+  [PHA TXA PHA TYA PHA]    
+
+  WSYNC=0
+  COLPF2=$CC
+  VSDLST=DLI2V
+
+  [PLA TAY PLA TAX PLA RTI]  
+
+RETURN
+
+PROC DLI2()
+  BYTE WSYNC=$D40A
+  BYTE COLPF2=$D018
+
+  [PHA TXA PHA TYA PHA]    
+
+  WSYNC=0
+  COLPF2=$50 
+  VSDLST=DLI
+
+  [PLA TAY PLA TAX PLA RTI]  
+
+RETURN
+
+PROC MAIN()
+  SETDLI(8)
+  DLI2V=DLI2
+  VSDLST=DLI  
+  SETDLI(12)
+  NMIEN==%$80
+RETURN
+```

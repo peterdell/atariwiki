@@ -1,0 +1,3 @@
+# Synapse SynFile ; Copyright (C) Synapse Software Corp. and ...  
+Please see Atarimania for the file and manual: [Synfile](http://www.atarimania.com/utility-atari-400-800-xl-xe-synfile_15764.html)  
+Further, Wade's incredible site about SynFile: [SynFile](http://inverseatascii.info/2014/12/16/s1e6-synapse-synfile/)  

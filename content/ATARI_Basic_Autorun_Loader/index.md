@@ -1,0 +1,201 @@
+Two Autorun Routines that can start Atari Basic Programs  
+  
+## Version 1  
+  
+```
+10 ;LIST #D:AUTOBAS.SRC
+20 ;
+30 ;for creating AUTORUN.SYS
+40 ;
+50 ;MAC65 source code with
+60 ;conversions to Atari Assembler
+65 ;Editor
+70 ;
+80 ;Equates:
+90 HATABS =  $031A
+0100 TEMP =  $CB
+0110 ;
+0120	  *=  $4000	;or anywhere
+0130 ;
+0140 ;Modify the Handler table
+0150 MAIN
+0160	  LDX #36	  ;search from END
+0165 ;					 of table
+0170 ELOOP LDA HATABS,X
+0180	  CMP #'E	  ;for 'E:' handler
+0190	  BEQ CHANGE
+0200	  DEX
+0210	  DEX 
+0220	  DEX 
+0230	  BPL ELOOP
+0240 CHANGE ;		  the table address
+0250	  INX 
+0260	  STX EDEX	 ;save HATABS loc
+0270	  LDA HATABS,X ;and E: vector
+0280	  STA TEMP
+0290	  LDA # <NEWTAB ;or NEWTAB&$FF
+0300	  STA HATABS,X
+0310	  INX 
+0320	  LDA HATABS,X
+0330	  STA TEMP+1
+0340	  LDA # >NEWTAB ;or NEWTAB/256
+0350	  STA HATABS,X
+0360 ;now transfer ROM table to RAM
+0370	  LDY #$00
+0380	  STY YSAV
+0390 XLOOP LDA (TEMP),Y
+0400	  STA NEWTAB,Y
+0410	  INY 
+0420	  CPY #$10	 ;16 BYTES
+0430	  BCC XLOOP	;branch if <16
+0440 ;now setup new getbyte routine
+0450	  LDA # <NEWGET-1
+0455	  ;			  or (NEWGET-1)&$FF
+0460	  STA GETBYTE
+0470	  LDA # >NEWGET-1
+0475	  ;			  or (NEWGET-1)/256
+0480	  STA GETBYTE+1
+0490	  RTS 
+0500 ;Handler table space
+0510 NEWTAB
+0520 OPEN .WORD 0	 ;see Atari OS
+0530 CLOSE .WORD 0	;Manual,
+0540 GETBYTE .WORD 0 ;DeRe Atari, or
+0550 PUTBYTE .WORD 0 ;Mappng the Atari
+0560 STATUS .WORD 0
+0570 SPECIAL .WORD 0
+0580 JUMP .BYTE 0,0,0
+0590	  .BYTE 0,0	;16th byte
+0595	  ;			  & insurance
+0600 YSAV .BYTE 0
+0610 EDEX .BYTE 0
+0620 ;
+0629 ;Our new GETBYTE routine
+0630 NEWGET
+0640	  LDY YSAV
+0650	  LDA CMDLIN,Y ;get 1 char
+0660	  CMP #$9B	 ;if C/R then done
+0670	  BEQ DONE
+0680	  INC YSAV	 ;indx next char
+0690	  LDY #$01	 ;tell O.S. OK
+0700	  RTS 
+0710 DONE
+0720	  PHA			;save C/R
+0730	  TXA			;save X register
+0740	  PHA 
+0750	  LDX EDEX	 ;find 'E:' entry
+0760	  LDA TEMP	 ;in HATABS
+0770	  STA HATABS,X ;replace our
+0775	  ;			  routine
+0780	  INX			;with the real
+0785	  ;			  vector
+0790	  LDA TEMP+1
+0800	  STA HATABS,X
+0810	  PLA			;restore X reg
+0820	  TAX 
+0830	  PLA			;restore C/R to A
+0840	  LDY #$01	 ;set status OK
+0850	  RTS 
+0860 ;
+0870 CMDLIN ;		  passed to BASIC
+0880	  .BYTE "? ",$22,"Loading... MYPROG",$22
+0890	  .BYTE ":RUN ",$22,"D:myprog.bas",$22
+0900	  .BYTE $9B	; C/R!!
+0910 ;
+0920 ;set to execute when loaded
+0930	  *=  $02E2
+0940	  .WORD MAIN
+```
+  
+## Version 2  
+  
+```
+10 ; Routine for AUTORUN.SYS
+20 HATABS =  $031A
+30 TEMP  =	$CB
+40		 *=  $4000
+50 ;Modify the Handler table
+60 MAIN
+70		 LDA #$00	 ;turn off antic
+80		 STA 559	  ;and set the
+90		 LDA #192	 ;screen color.
+0100	  STA 710	  ;
+0110	  STA 712	  ;
+0120	  LDX #36
+0130 ELOOP LDA HATABS,X
+0140	  CMP #'E
+0150	  BEQ CHANGE
+0160	  DEX 
+0170	  DEX 
+0180	  DEX 
+0190	  BPL ELOOP
+0200 CHANGE
+0210	  INX 
+0220	  STX EDEX
+0230	  LDA HATABS,X
+0240	  STA TEMP
+0250	  LDA # <NEWTAB
+0260	  STA HATABS,X
+0270	  INX 
+0280	  LDA HATABS,X
+0290	  STA TEMP+1
+0300	  LDA # >NEWTAB
+0310	  STA HATABS,X
+0320 ;Move Rom to Ram
+0330	  LDY #$00
+0340	  STY YSAV
+0350 XLOOP LDA (TEMP),Y
+0360	  STA NEWTAB,Y
+0370	  INY 
+0380	  CPY #$10
+0390	  BCC XLOOP
+0400	  LDA # <NEWGET-1
+0410	  STA GETBYTE
+0420	  LDA # >NEWGET-1
+0430	  STA GETBYTE+1
+0440	  RTS 
+0450 ;Handler table
+0460 NEWTAB
+0470 OPEN .WORD 0
+0480 CLOSE .WORD 0
+0490 GETBYTE .WORD 0
+0500 PUTBYTE .WORD 0
+0510 STATUS .WORD 0
+0520 SPECIAL .WORD 0
+0530 JUMP .BYTE 0,0,0
+0540	  .BYTE 0,0
+0550 YSAV .BYTE 0
+0560 EDEX .BYTE 0
+0570 ;New Getbyte rutine
+0580 NEWGET
+0590	  LDY YSAV
+0600	  LDA CMDLIN,Y
+0610	  CMP #$9B
+0620	  BEQ DONE
+0630	  INC YSAV
+0640	  LDY #$01
+0650	  RTS 
+0660 DONE
+0670	  PHA 
+0680	  TXA 
+0690	  PHA 
+0700	  LDX EDEX
+0710	  LDA TEMP
+0720	  STA HATABS,X
+0730	  INX 
+0740	  LDA TEMP+1
+0750	  STA HATABS,X
+0760	  PLA 
+0770	  TAX 
+0780	  PLA 
+0790	  LDY #$01
+0800	  RTS 
+0810 ;The command line
+0820 CMDLIN
+0830	  .BYTE "? ",$22,"Loading.",$22
+0840	  .BYTE ":RUN ",$22,"D:MENU",$22
+0850	  .BYTE $9B
+0860 ;
+0870	  *=  $02E2
+0880	  .WORD MAIN
+```

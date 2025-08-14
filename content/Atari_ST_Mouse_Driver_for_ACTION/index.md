@@ -1,0 +1,312 @@
+# Atari ST Mouse Driver for ACTION!  
+  
+General Information  
+  
+Author: Carsten Strotmann   
+Assembler: Bibo Assembler   
+Published: 07/24/91   
+  
+High Level ACTION Module  
+```
+;********************************
+;**			       **
+;** Phoenix SoftCrew ACTION!   **
+;** Programme und Tips f. 8Bit **
+;**                            **
+;** Carsten Strotmann	       **
+;**			       **
+;********************************
+
+; Programname:MOUSE-MODUL
+; done by:Carsten Strotmann
+; Filename:MOUSE.ACT
+; first Version:30.03.90
+; last change:20.07.91
+; Mouse Routine
+; Comment:
+; needs MOUSE.COM
+;
+
+;INCLUDE "D:DIVERS.ACT"
+
+
+PROC Mouse=$0600 (BYTE color,x,y)
+;PROC Mouse=$A000 (BYTE color,x,y)
+
+PROC M_Put (BYTE chr)
+
+ BYTE xm=$3FD,ym=$3FE,x,y
+
+ x=xm/4
+ y=ym/8
+
+ Position (x,y)
+ Put (chr)
+
+RETURN
+
+BYTE FUNC M_Get ()
+
+ BYTE xm=$3FD,ym=$3FE,chr,x,y
+
+ x=xm/4
+ y=ym/8
+
+ chr=Scan (x,y)
+
+RETURN (chr)
+
+BYTE FUNC M_TRIGGER ()
+
+  BYTE paddl0=$270,
+		 stick0=$278, res
+
+  res=0
+
+  IF stick0=0 THEN
+	res=1
+  FI
+
+  IF paddl0 < 10 THEN
+	res=2
+  FI
+
+RETURN (res)
+```
+  
+  
+here is the Assembler Code part  
+```
+00010			 .LI OFF
+00020 ******************************
+00030 *				   *
+00040 * PROGRAMM:MOUSE ROUTINE	   *
+00050 * AUTOR	:CARSTEN STROTMANN *
+00060 * DATUM	:24.07.91	   *
+00070 * VERSION :04.03		   *
+00080 * FUER	 :ACTION!	   *
+00090 *				   *
+00100 ******************************
+00110 ;
+00120 ; SYSTEM REGISTER
+00130 ;
+00140 XM		 =	$03FD
+00150 YM		 =	$03FE
+00160 MT		 =	$03FF
+00170 SETVBV	=	$E45C
+00180 SYSVBV	=	$E45F
+00190 XITVBV	=	$E462
+00200 SDMCTL	=	$022F
+00210 PMBASE	=	$D407
+00220 VCOUNT	=	$D40B
+00230 GRACTL	=	$D01D
+00240 PORTA	 =	$D300
+00250 PADDL2	=	$0272
+00260 STICK0	=	$0278
+00270 STRIG0	=	$0284
+00280 STRIG1	=	$0285
+00290 HPOS0	 =	$D000
+00300 PCOL0	 =	$02C0
+00310 GPRIOR	=	$026F
+00320 ;
+00330 ;
+00340			 .OR $0600
+00350			 .OF D:MOUSE3.COM"
+00360 ;
+00370 ;
+00380 ACTION
+00390			 STX XM
+00400			 STY YM
+00410			 STA PCOL0
+00420 X		  LDA #$78
+00430			 STA PMBASE
+00440			 LDA #$3A
+00450			 STA SDMCTL
+00460			 LDA #2
+00470			 STA GRACTL
+00480			 STA GPRIOR
+00490			 LDX /PLAYVBI
+00500			 LDY #PLAYVBI
+00510			 LDA #7
+00520			 JSR SETVBV
+00530 LOOP	  JMP RUN
+00540 ------------------------------
+00550 PLAYVBI
+00560			 LDA XM
+00570			 CLC
+00580			 ADC #49
+00590			 STA HPOS0
+00600			 LDX #0
+00610			 TXA
+00620 .1		 STA $7C00,X
+00630			 INX
+00640			 BNE .1
+00650			 LDX YM
+00660			 LDY #0
+00670 .2		 LDA PLAYTAB,Y
+00680			 STA $7C20,X
+00690			 INX
+00700			 INY
+00710			 CPY #11
+00720			 BNE .2
+00730			 JMP XITVBV
+00740 ------------------------------
+00780 PLAYTAB
+00790			 .HX 0080C0E0F0E0E0B0
+00800			 .HX 101000
+00810 XT		 .HX 0020301000
+00820 YT		 .HX 80C0400080
+00830 REG		.HX 00
+00840 REG2	  .HX 00
+00850 XX		 .HX 00
+00860 YY		 .HX 00
+00870 ------------------------------
+00880 STICK
+00890			 LDA STICK0
+00900			 TAY
+00910			 CMP #15
+00920			 BEQ .5
+00930			 TYA
+00940			 AND #2
+00950			 BEQ .1
+00960			 LDA YM
+00970			 BEQ .1
+00980			 DEC YM
+00990 .1
+01000			 TYA
+01010			 AND #1
+01020			 BEQ .2
+01030			 LDA YM
+01040			 CMP #191
+01050			 BEQ .2
+01060			 INC YM
+01070 .2
+01080			 TYA
+01090			 AND #8
+01100			 BEQ .3
+01110			 LDA XM
+01120			 BEQ .3
+01130			 DEC XM
+01140 .3
+01150			 TYA
+01160			 AND #4
+01170			 BEQ .4
+01180			 LDA XM
+01190			 CMP #159
+01200			 BEQ .4
+01210			 INC XM
+01220 .4
+01230			 LDA VCOUNT
+01240			 BNE .4
+01250 .5
+01260			 RTS
+01270 ------------------------------
+01280			 .OR $0400
+01290 RUN
+01300			 JSR STRIG
+01310			 LDA PORTA
+01320			 AND #$30
+01330			 STA REG
+01340			 JSR XFRAG
+01350			 JSR XALG
+01360			 LDA PORTA
+01370			 AND #$C0
+01380			 STA REG2
+01390			 JSR YFRAG
+01400			 JSR YALG
+01410			 JMP RUN
+01420 XALG
+01430			 JSR STICK
+01440			 JSR STRIG
+01450			 LDA PORTA
+01460			 AND #$30
+01470			 CMP REG
+01480			 BEQ YALG
+01490			 LDX XX
+01500			 INX
+01510			 CMP XT,X
+01520			 BNE .1
+01530			 LDA XM
+01540			 CMP #159
+01550			 BEQ .2
+01560			 INC XM
+01570			 JMP .2
+01580 .1		 LDX XX
+01590			 DEX
+01600			 CMP XT,X
+01610			 BNE .2
+01620			 LDA XM
+01630			 BEQ .2
+01640			 DEC XM
+01650 .2		 RTS
+01660 YALG
+01670			 JSR STICK
+01680			 JSR STRIG
+01690			 LDA PORTA
+01700			 AND #$C0
+01710			 CMP REG2
+01720			 BEQ XALG
+01730			 LDX YY
+01740			 INX
+01750			 CMP YT,X
+01760			 BNE .1
+01770			 LDA YM
+01780			 CMP #191
+01790			 BEQ .2
+01800			 INC YM
+01810			 JMP .2
+01820 .1		 LDX YY
+01830			 DEX
+01840			 CMP YT,X
+01850			 BNE .2
+01860			 LDA YM
+01870			 BEQ .2
+01880			 DEC YM
+01890 .2		 RTS
+01900 ------------------------------
+01910 XFRAG
+01920			 LDX #4
+01930 .1		 LDA XT,X
+01940			 CMP REG
+01950			 BEQ .2
+01960			 DEX
+01970			 BNE .1
+01980 .2		 STX XX
+01990			 RTS
+02000 ------------------------------
+02010 YFRAG
+02020			 LDX #4
+02030 .1		 LDA YT,X
+02040			 CMP REG2
+02050			 BEQ .2
+02060			 DEX
+02070			 BNE .1
+02080 .2		 STX YY
+02090			 RTS
+02100 ------------------------------
+02110 STRIG
+02120			 LDA STRIG0
+02130			 BNE .1
+02140			 LDA #1
+02150			 STA MT
+02160			 PLA
+02170			 PLA
+02180			 RTS
+02190 .1		 LDA STRIG1
+02200			 BNE .2
+02210			 LDA #1
+02220			 STA MT
+02230			 PLA
+02240			 PLA
+02250			 RTS
+02260 .2		 LDA PADDL2
+02270			 CMP #10
+02280			 BMI .3
+02290			 LDA #2
+02300			 STA MT
+02310			 PLA
+02320			 PLA
+02330			 RTS
+02340 .3		 RTS
+02350 ------------------------------
+```

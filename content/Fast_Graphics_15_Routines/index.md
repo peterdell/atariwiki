@@ -1,0 +1,557 @@
+# Fast Graphics 15 Routines  
+  
+General Information  
+  
+Author: 	Carsten Strotmann   
+Language: 	ACTION!   
+Compiler/Interpreter: 	ACTION!   
+Published: 	12.04.90   
+  
+### Fast Graphics 15 Routines  
+  
+```
+00010			 .LI OFF
+00020 ******************************
+00030 *									 *
+00040 * PROGRAMM:GR15GRAFIK		  *
+00050 * AUTOR	:CARSTEN STROTMANN *
+00060 * DATUM	:						*
+00070 * VERSION :						*
+00080 * FUER	 :ACTION!			  *
+00090 *									 *
+00100 ******************************
+00110 ;
+00120 ROWAC	 =	$70
+00130 COLAC	 =	$72
+00140 BITMSK	=	$6E
+00150 SHFAMT	=	$6F
+00160 SAVMSC	=	$58
+00170 XNEU	  =	$5A
+00180 YNEU	  =	$5B
+00190 XALT	  =	$55
+00200 YALT	  =	$54
+00210 ZAEHLER  =	$E4
+00220 DELTAX	=	$76
+00230 DELTAY	=	$77
+00240 XFLAG	 =	$74
+00250 YFLAG	 =	$75
+00251 HLP		=	$E6
+00260 HILFA	 =	$E9
+00270 HILFB	 =	$EB
+00280 HILFT	 =	$ED
+00290 FILLDAT  =	$2FD
+00300 ;
+00310 ;
+00320			 .OR $0600
+00330			 .OF "D:GR15MOD.COM"
+00340 ;
+00350 ;
+00360 PLOT
+00370			 AND #3
+00380			 STA BITMSK
+00390			 STX XALT
+00400			 STY YALT
+00410			 LDA #0
+00420			 STA HLP
+00430			 STA HLP+1
+00440			 STA HLP+2
+00450			 TYA
+00460			 ASL
+00470			 ROL HLP
+00480			 ASL
+00490			 ROL HLP
+00500			 ASL
+00510			 ROL HLP	 Y*8
+00520			 STA HLP+1
+00530			 LDX HLP
+00540			 STX HLP+2
+00550			 ASL
+00560			 ROL HLP
+00570			 ASL
+00580			 ROL HLP
+00590			 CLC
+00600			 ADC HLP+1
+00610			 STA HLP+1
+00620			 LDA HLP+2
+00630			 ADC HLP
+00640			 STA HLP+2
+00650			 CLC
+00660			 LDA SAVMSC
+00670			 ADC HLP+1
+00680			 STA ROWAC
+00690			 LDA SAVMSC+1
+00700			 ADC HLP+2
+00710			 STA ROWAC+1
+00720			 LDA XALT
+00730			 AND #3	 ;X MOD 4
+00740			 STA SHFAMT
+00750			 LDA XALT
+00760			 LSR	 ;X/4
+00770			 LSR
+00780			 CLC
+00790			 ADC ROWAC
+00800			 STA ROWAC
+00810			 BCC .3
+00820			 INC ROWAC+1
+00830 .3		 LDX BITMSK
+00840			 LDA COLR,X
+00850			 LDX SHFAMT
+00860			 AND OFFS,X
+00870			 STA BITMSK
+00880			 LDY #0
+00890			 LDA (ROWAC),Y
+00900			 AND OFF2,X
+00910			 ORA BITMSK
+00920			 STA (ROWAC),Y
+00930			 RTS
+00940 ------------------------------
+00950 OFFS	  .HX C0300C03
+00960 OFF2	  .HX 3FCFF3FC
+00970 COLR	  .HX 00AA55FF
+00990 ------------------------------
+01000			 .OR $7000
+01010 ;
+01020 LINE
+01030			 STX XNEU
+01040			 STY YNEU
+01050			 STA FILLDAT
+01060			 LDX XALT
+01070			 LDY YALT
+01080			 JSR PLOT
+01090			 LDA #0
+01100			 STA XFLAG
+01110			 STA YFLAG
+01120			 LDX XNEU
+01130			 LDY YNEU
+01140 ;
+01150			 CPX XALT
+01160			 BNE .1
+01170			 CPY YALT
+01180			 BNE .1
+01190			 RTS
+01200 ;
+01210 .1		 CPX XALT
+01220			 BCC DRX
+01230			 INC XFLAG
+01240			 TXA
+01250			 SBC XALT
+01260			 JMP DR2
+01270 ;
+01280 DRX
+01290			 DEC XFLAG
+01300			 SEC
+01310			 LDA XALT
+01320			 SBC XNEU
+01330 ;
+01340 DR2
+01350			 STA DELTAX
+01360			 CPY YALT
+01370			 BCC DRY
+01380			 INC YFLAG
+01390			 TYA
+01400			 SBC YALT
+01410			 JMP DR3
+01420 ;
+01430 DRY
+01440			 DEC YFLAG
+01450			 SEC
+01460			 LDA YALT
+01470			 SBC YNEU
+01480 ;
+01490 DR3
+01500			 STA DELTAY
+01510			 LDA XALT
+01520			 STA XNEU
+01530			 LDA YALT
+01540			 STA YNEU
+01550			 LDA DELTAX
+01560			 CMP DELTAY
+01570			 BCC DRYSTEP
+01580 ;
+01590			 LDA DELTAY
+01600			 ASL
+01610			 STA HILFA
+01620			 LDA #0
+01630			 ROL
+01640			 STA HILFA+1
+01650 ;
+01660			 SEC
+01670			 LDA HILFA
+01680			 SBC DELTAX
+01690			 STA HILFT
+01700			 LDA HILFA+1
+01710			 SBC #0
+01720			 STA HILFT+1
+01730 ;
+01740			 SEC
+01750			 LDA HILFT
+01760			 SBC DELTAX
+01770			 STA HILFB
+01780			 LDA HILFT+1
+01790			 SBC #0
+01800			 STA HILFB+1
+01810 ;
+01820			 LDA DELTAX
+01830			 STA ZAEHLER
+01840 ;
+01850 DXSCHL
+01860			 CLC
+01870			 LDA XNEU
+01880			 ADC XFLAG
+01890			 STA XNEU
+01900			 LDA HILFT+1
+01910			 BPL DRX5
+01920 ;
+01930			 CLC
+01940			 LDA HILFT
+01950			 ADC HILFA
+01960			 STA HILFT
+01970			 LDA HILFT+1
+01980			 ADC HILFA+1
+01990			 STA HILFT+1
+02000 ;
+02010			 JMP DRX4
+02020 ;
+02030 DRX5
+02040			 CLC
+02050			 LDA HILFT
+02060			 ADC HILFB
+02070			 STA HILFT
+02080			 LDA HILFT+1
+02090			 ADC HILFB+1
+02100			 STA HILFT+1
+02110 ;
+02120			 CLC
+02130			 LDA YNEU
+02140			 ADC YFLAG
+02150			 STA YNEU
+02160 ;
+02170 DRX4
+02180			 LDX XNEU
+02190			 LDY YNEU
+02200			 LDA FILLDAT
+02210			 JSR PLOT
+02220			 DEC ZAEHLER
+02230			 BNE DXSCHL
+02240			 JMP DREND
+02250 ;
+02260 DRYSTEP
+02270			 LDA DELTAX
+02280			 ASL
+02290			 STA HILFA
+02300			 LDA #0
+02310			 ROL
+02320			 STA HILFA+1
+02330 ;
+02340			 SEC
+02350			 LDA HILFA
+02360			 SBC DELTAY
+02370			 STA HILFT
+02380			 LDA HILFA+1
+02390			 SBC #0
+02400			 STA HILFT+1
+02410 ;
+02420			 SEC
+02430			 LDA HILFT
+02440			 SBC DELTAY
+02450			 STA HILFB
+02460			 LDA HILFT+1
+02470			 SBC #0
+02480			 STA HILFB+1
+02490 ;
+02500			 LDA DELTAY
+02510			 STA ZAEHLER
+02520 ;
+02530 DYSCHL
+02540			 CLC
+02550			 LDA YNEU
+02560			 ADC YFLAG
+02570			 STA YNEU
+02580			 LDA HILFT+1
+02590			 BPL DRY5
+02600 ;
+02610			 CLC
+02620			 LDA HILFT
+02630			 ADC HILFA
+02640			 STA HILFT
+02650			 LDA HILFT+1
+02660			 ADC HILFA+1
+02670			 STA HILFT+1
+02680 ;
+02690			 JMP DRY4
+02700 ;
+02710 DRY5
+02720			 CLC
+02730			 LDA HILFT
+02740			 ADC HILFB
+02750			 STA HILFT
+02760			 LDA HILFT+1
+02770			 ADC HILFB+1
+02780			 STA HILFT+1
+02790			 CLC
+02800			 LDA XNEU
+02810			 ADC XFLAG
+02820			 STA XNEU
+02830 DRY4
+02840			 LDX XNEU
+02850			 LDY YNEU
+02860			 LDA FILLDAT
+02870			 JSR PLOT
+02880			 DEC ZAEHLER
+02890			 BNE DYSCHL
+02900 ;
+02910 DREND
+02920			 LDX XNEU
+02930			 LDY YNEU
+02940			 STX XALT
+02950			 STY YALT
+02960			 RTS
+02970 ------------------------------
+
+```
+  
+---
+  
+### ACTION Routinen  
+  
+```
+;********************************
+;**									 **
+;** Phoenix SoftCrew ACTION!	**
+;** Programme und Tips f. 8Bit **
+;**									 **
+;** Carsten Strotmann			 **
+;**									 **
+;********************************
+
+; Programmname:Gr.15 Fast Modul
+; done by:Carsten Strotmann
+; Filename:GR15MOD.ACT
+; first Version:12.04.90
+; last change:12.04.90
+; fast gr 15 routines
+;
+
+;
+
+PROC FPlot=$0600 (BYTE color,x,y)
+PROC FLine=$7000 (BYTE color,x,y)
+
+PROC Pixel (CARD x,y)
+
+ IF x>=0 AND x<160 AND y>=0 AND y<192 THEN
+  FPlot (color,x,y)
+ FI
+
+RETURN
+  
+PROC LineTo (BYTE x1,y1,x2,y2)
+
+ Pixel (x1,y1)
+ FLine (color,x2,y2)
+
+RETURN
+
+CARD FUNC Abs (INT val)
+
+ IF val<0 THEN
+  val=-val
+ FI
+
+RETURN (val)
+
+{code}
+
+----
+
+1.1.1 Demo Program
+
+{code}
+
+;********************************
+;**									 **
+;** Phoenix SoftCrew ACTION!	**
+;** Programme und Tips f. 8Bit **
+;**									 **
+;** Carsten Strotmann			 **
+;**									 **
+;********************************
+
+; Programname:BOX15.ACT
+; done by:BJOERN ISREAL/CARSTEN STROTMANN
+; Filename:BOX15.ACT
+; first Version:22.04.90
+; last change:22.04.90
+; DEMO
+;
+
+INCLUDE "GR15MOD.ACT"
+
+PROC Kiste ()
+
+ BYTE hcol=710,pcol=709,rcol=712,
+		za,c,pza,
+		xpos1,xpos2,px1,px2,
+		ypos1,ypos2,py1,py2,
+		x2pos1,x2pos2,px21,px22,
+		y2pos1,y2pos2,py21,py22,
+		rra,rri,obra,obri,ura,uri,lra,lri
+
+ rra=150
+ rri=140
+ obra=3
+ obri=13
+ ura=190
+ uri=180
+ lra=3
+ lri=13
+
+ xpos1=10
+ ypos1=10
+ xpos2=30
+ ypos2=20
+ 
+ x2pos1=10
+ y2pos1=10
+ x2pos2=30
+ y2pos2=20
+
+ px1=3
+ px2=3 
+ py1=3
+ py2=3
+
+ px21=3
+ px22=3
+ py21=3
+ py22=3
+
+ c=1
+
+ pza=0
+ za=0
+
+ Graphics (31)
+
+ hcol=12
+ pcol=2
+ rcol=14
+
+ color=2
+
+ LineTo (0,0,159,0)
+ LineTo (159,0,159,191)
+ LineTo (159,191,0,191)
+ LineTo (0,191,0,0)
+
+ DO
+  xpos1==+px1
+  xpos2==+px2
+  ypos1==+py1
+  ypos2==+py2
+
+  IF xpos1>rra THEN
+	px1=-3
+  FI
+
+  IF xpos1<lra THEN
+	px1=3
+  FI
+
+  IF xpos2>rri THEN
+	px2=-3
+  FI
+
+  IF xpos2<lri THEN
+	px2=3
+  FI
+
+;
+;******
+;
+
+  IF ypos1>ura THEN
+	py1=-3
+  FI
+
+  IF ypos1<obra THEN
+	py1=3
+  FI
+
+  IF ypos2>uri THEN
+	py2=-3
+  FI
+
+  IF ypos2<obri THEN
+	py2=3
+  FI
+
+;
+;****
+;
+
+  color=1
+
+  LineTo (xpos1,ypos1,xpos2,ypos2)
+ 
+  IF pza=0 THEN
+	za==+1
+  FI
+
+  IF za=30 THEN
+	pza=1
+
+	x2pos1==+px21
+	x2pos2==+px22
+	y2pos1==+py21
+	y2pos2==+py22
+
+	IF x2pos1>rra THEN
+	 px21=-3
+	FI
+
+	IF x2pos1<lra THEN
+	 px21=3
+	FI
+
+	IF x2pos2>rri THEN
+	 px22=-3 
+	FI
+
+	IF x2pos2<lri THEN
+	 px22=3
+	FI
+
+;
+;****
+;
+
+	IF y2pos1>ura THEN
+	 py21=-3
+	FI
+
+	IF y2pos1<obra THEN
+	 py21=3
+	FI
+
+	IF y2pos2>uri THEN
+	 py22=-3
+	FI
+
+	IF y2pos2<obri THEN
+	 py22=3
+	FI
+
+;
+;****
+;
+
+	color=0
+
+	LineTo (x2pos1,y2pos1,x2pos2,y2pos2)
+  FI
+ OD
+
+RETURN
+
+```

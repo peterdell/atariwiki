@@ -1,0 +1,18 @@
+# VolksForth logic words  
+  
+- [true](../true/index.md)  
+- [false](../false/index.md)  
+- [0=](../Zero-equals/index.md)  
+- [0<>](../Zero-noequal/index.md)  
+- [0<](../zero-less/index.md)  
+- [0>](../zero-greater/index.md)  
+- [=](../equals/index.md)  
+- [<](../less-than/index.md)  
+- [>](../greater-than/index.md)  
+- [u<](../u-less-than/index.md)  
+- [u>](../u-greater-than/index.md)  
+- [and](../and/index.md)  
+- [or](../or/index.md)  
+- [xor](../xor/index.md)  
+- [uwithin](../uwithin/index.md)  
+- [case?](../case-question/index.md)  
