@@ -1,3 +1,6 @@
+---
+title: CSM_ASM_Teil7
+---
 # 6502 Programmieren - Teil 7  
 ### von Uwe Röder  
   

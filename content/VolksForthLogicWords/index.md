@@ -1,3 +1,6 @@
+---
+title: VolksForthLogicWords
+---
 # VolksForth logic words  
   
 - [true](../true/index.md)  

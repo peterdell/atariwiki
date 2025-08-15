@@ -1,3 +1,6 @@
+---
+title: Forth Code Size
+---
 # Forth Code Size  
   
 from A.N.A.L.O.G. 11/83  

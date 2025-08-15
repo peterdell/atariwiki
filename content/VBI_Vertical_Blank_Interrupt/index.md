@@ -1,3 +1,6 @@
+---
+title: VBI Vertical Blank Interrupt
+---
 [NMIEN](../NMIEN/index.md) enable/disable non maskable interrupts (NMI's)  
   
 [SETVBV](../SETVBV/index.md) sets an interrupt vector or system timer vector  

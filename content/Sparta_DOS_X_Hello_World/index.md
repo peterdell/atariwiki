@@ -1,3 +1,6 @@
+---
+title: Sparta DOS X Hello World
+---
 # SDX Hello World  
   
 General Information  

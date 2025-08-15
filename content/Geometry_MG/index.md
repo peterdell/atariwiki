@@ -1,3 +1,6 @@
+---
+title: Geometry MG
+---
 # Dorsett Atari Mathematics (Geometry) MG ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Mathematics (Geometry) MG](https://archive.org/details/DorsettAtariMathematicsGeometry)  

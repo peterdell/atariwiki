@@ -1,3 +1,6 @@
+---
+title: LispEditor
+---
 General Information  
   
 Author: 	Datasoft   

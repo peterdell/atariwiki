@@ -1,3 +1,6 @@
+---
+title: ProForth
+---
 # ProForth for the Apple II (6502 Source, could be adapted to the Atari 8bit)  
   
 NAME: EDASM macro used by FDICT.S  

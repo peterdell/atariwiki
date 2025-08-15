@@ -1,3 +1,6 @@
+---
+title: VFHandbuchKapitel4
+---
 # Programm-Strukturen  
   
   
@@ -402,7 +405,7 @@ Bei den bisherigen Lösungen wurden immer eine Reihe von Vergleichen zwischen ei
   
 Wenn FORTH-Worte in Tabellen abgelegt werden sollen, stellt sich das Problem, daß ein FORTH-Wort bei seinem Aufruf normalerweise die einkompilierten Worte ausführt. Bei einer Tabelle ist das nicht erwünscht; dort ist sinnvollerweise gefordert, daß die Startadresse der Tabelle übergeben wird, um den Fall-Index als Offset in diese Tabelle zu nutzen.  
   
-Dies läßt sich in volksFORTH entweder auf die traditionelle Weise mit ~] und ~ oder dem volksFORTH-spezifischen __Create:__ lösen:  
+Dies läßt sich in volksFORTH entweder auf die traditionelle Weise mit ~] und ~[ oder dem volksFORTH-spezifischen __Create:__ lösen:  
   
 ```
 Create Glas

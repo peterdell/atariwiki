@@ -1,3 +1,6 @@
+---
+title: Clear Screen
+---
 # Clear Screen  
   
 General Information  

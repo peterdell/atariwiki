@@ -1,3 +1,6 @@
+---
+title: Maximum
+---
 __MAX__ "maximum" ( n1 n2 -- n3 )  
   
   

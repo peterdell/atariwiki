@@ -1,3 +1,6 @@
+---
+title: GRAFP2
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53263 |$D00F|GRAFP2|Graphics Shape for Player 2|both  
 |Read| 53263 |$D00F|P3PL|Collision Player 3 with Player|both  

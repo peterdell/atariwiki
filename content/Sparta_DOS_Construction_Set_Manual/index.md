@@ -1,3 +1,6 @@
+---
+title: Sparta DOS Construction Set Manual
+---
 ```
                                  THE COMPLETE
                           SPARTADOS CONSTRUCTION SET

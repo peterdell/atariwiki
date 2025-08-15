@@ -1,3 +1,6 @@
+---
+title: Turbo1050 Upgrades
+---
 # Turbo 1050  
   
 Turbo-1050 is a german Floppy-Driver speed and double density extension by Bernhard Engl.  

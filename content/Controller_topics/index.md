@@ -1,3 +1,6 @@
+---
+title: Controller_topics
+---
 # Controllers  
   
 CX30 Paddles [PADDL0](../PADDL0/index.md)-[PADDL7](../PADDL7/index.md) [PTRIG0](../PTRIG0/index.md)-[PTRIG7](../PTRIG7/index.md) [POT0](../POT0/index.md)-[POT7](../POT7/index.md) [ALLPOT](../ALLPOT/index.md) [POTGO](../POTGO/index.md) [SKCTL](../SKCTL/index.md)  

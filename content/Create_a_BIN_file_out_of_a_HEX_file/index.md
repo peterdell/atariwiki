@@ -1,3 +1,6 @@
+---
+title: Create a BIN file out of a HEX file
+---
 # create a BIN file out of a HEX file  
 This is an example on how to do it with Mac OS X in the app Terminal:  
   

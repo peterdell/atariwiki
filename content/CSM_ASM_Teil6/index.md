@@ -1,3 +1,6 @@
+---
+title: CSM_ASM_Teil6
+---
 # 6502 Programmieren - Teil 6  
 ### von Reinhard Wilde  
 Hallo Fans. Ich begrüße Euch nach kurzer Pause zum neuen Teil des Maschinensprache-Lehrgangs. Heute wollen wir uns weitere Maschinenbefehle anschauen.  

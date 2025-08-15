@@ -1,3 +1,6 @@
+---
+title: SDLSTL
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS||SHADOW OF  
 |read/write |560,561 |$230,$231|SDLSTL, SDLSTH|Start Address of the Display List|both|[DLISTL](../DLISTL/index.md), [DLISTH](../DLISTL/index.md)  
   

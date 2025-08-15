@@ -1,3 +1,6 @@
+---
+title: Digital Joypad Driver
+---
 # Digital Joypad Driver  
   
 Tested with a Logitec Wingman Precision USB. Other digital Joypad might work. Please send feedback.  

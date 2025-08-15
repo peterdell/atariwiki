@@ -1,3 +1,6 @@
+---
+title: Kermit in ACTION
+---
 ### Kermit in ACTION!  
   
 General Information   

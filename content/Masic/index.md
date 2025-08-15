@@ -1,3 +1,6 @@
+---
+title: Masic
+---
 # MASIC - Die Musik-Programmiersprache - Copyright (C) 1987 by R & E Software  
 MASIC ist eine Musik-Programmiersprache  
   

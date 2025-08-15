@@ -1,3 +1,6 @@
+---
+title: SPLASH in ACTION
+---
 ### General Information  
 Author:	Paul Chabot  
 Language: ACTION!  

@@ -1,3 +1,6 @@
+---
+title: DMACTL
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS||SHADOW||DEFAULT  
 |read/write|54272|$D400 |DMACTL|Direct Memory Access (DMA) Control|all|[SDMCTL](../SDMCTL/index.md)|34/$22  
   

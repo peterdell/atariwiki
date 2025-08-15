@@ -1,3 +1,6 @@
+---
+title: ATARI Bildschirmtext (BTX)
+---
 # ATARI Bildschirmtext (BTX)  
   
 ## ATR-Image:  

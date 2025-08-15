@@ -1,3 +1,6 @@
+---
+title: GTIA
+---
 ''__copied from "Mapping the ATARI" as an example only! Needs to be re-written or completely written from scratch!__''  
   
 GTIA (or CTIA) is a special television interface chip designed exclusively for the Atari to process the video signal. ANTIC controls most of the C/GTIA chip functions. The GTIA shifts the display by one-half color clock off what the CTIA displays, so it may display a different color than the CTIA in the same piece of software. However, this shift allows players and playfields to overlap perfectly.  

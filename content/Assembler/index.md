@@ -1,3 +1,6 @@
+---
+title: Assembler
+---
 # Assembler  
 Given the slow performance of [Atari_BASIC](../Atari_BASIC/index.md), the go-to language for programmers writing games or other speed-critical programs was 6502 assembler. The 6502 was somewhat infamous for its simplified design, but this also meant its assembler was very simple and easy to learn. As an introduction to assembler, there are few machines better than the Atari 8-bit.  
   

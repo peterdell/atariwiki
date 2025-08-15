@@ -1,3 +1,6 @@
+---
+title: SKREST
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||OS  
 |Read|53770|$D20A|RANDOM|random number generator|all  
 |Write|53770|$D20A|SKREST|serial status register reset|all  

@@ -1,3 +1,6 @@
+---
+title: Atari 815 DUAL DISK CONTROLLER
+---
 # Atari 815 DUAL DISK CONTROLLER by Bob Warne with additional comments, lables & equates by Dave Staugas  
 Thanks to Curt Vendel and his Atari museum [atarimuseum.com](http://www.atarimuseum.com) for publishing the source code at [AtariAge](https://atariage.com/forums/topic/78379-atari-815-controller-source/?tab=comments#comment-956255) and kheller2 from [AtariAge](https://atariage.com/forums/topic/78379-atari-815-controller-source/?do=findComment&comment=4122495) for post production of the source code. Thank you very much to both of you from the Atari community.  
   

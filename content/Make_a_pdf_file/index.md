@@ -1,3 +1,6 @@
+---
+title: Make a pdf file
+---
 # make a pdf file  
 If you would like to help the Atari Wiki with a pdf file, please use the following parameters for scanning:  
   

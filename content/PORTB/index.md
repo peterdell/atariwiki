@@ -1,3 +1,6 @@
+---
+title: PORTB
+---
 # For 400, 800 (OS A)  
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |54017|$D301|PORTB| | [STICK2](../STICK2/index.md) [STICK3](../STICK3/index.md) [PTRIG4](../PTRIG4/index.md) [PTRIG5](../PTRIG5/index.md) [PTRIG6](../PTRIG6/index.md) [PTRIG7](../PTRIG7/index.md)| 400/800  

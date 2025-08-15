@@ -1,3 +1,6 @@
+---
+title: Golf-Balkenrechnen
+---
 # Golf-Balkenrechnen DXG 5703 (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
   
 ## ATR-Image  

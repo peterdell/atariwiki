@@ -1,3 +1,6 @@
+---
+title: HSCROL
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |write only|54276|$D404|HSCROL|Horizontal Fine Scrolling|both  
   

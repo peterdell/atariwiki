@@ -1,3 +1,6 @@
+---
+title: ProjUSBConvOnePic
+---
 # USB Programming Session in Frankfurt, 9th August 2003  
   
 On Saturday, 9th August 2003, Harry Reminder, Thomas Grasel and Carsten Strotmann met for a USB Coding Session in Frankfurt. It was a very hot day (40 C outside), and 5 Computers, big TV-Sets and Floppy-Drives gave a really warm feeling.  

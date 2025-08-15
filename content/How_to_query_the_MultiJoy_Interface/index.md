@@ -1,3 +1,6 @@
+---
+title: How to query the MultiJoy Interface
+---
 # How to query the MultiJoy Interface  
   
   

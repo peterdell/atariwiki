@@ -1,3 +1,6 @@
+---
+title: AUDC3
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53765|$D205|POT5|Pot/paddle 5|629|all  
 |Write|53765|$D205|AUDC3| Audio channel 3 control|none|all  

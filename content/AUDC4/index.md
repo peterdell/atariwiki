@@ -1,3 +1,6 @@
+---
+title: AUDC4
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53767|$D207|POT7|Pot/paddle 7|631|all  
 |Write|53767|$D207|AUDC4| Audio channel 4 control|none|all  

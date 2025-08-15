@@ -1,3 +1,6 @@
+---
+title: Atari Demonstration Program
+---
 # Atari Demonstration Program ; Copyright (C) 1984 Atari, Inc.  
   
 ## XEX file  

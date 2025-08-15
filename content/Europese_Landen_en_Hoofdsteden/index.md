@@ -1,3 +1,6 @@
+---
+title: Europese Landen en Hoofdsteden
+---
 # Europese Landen en Hoofdsteden (Cassette: TXN 4114)  
 Europese Landen en Hoofdsteden is the Dutch translation of European Countries and Capitals and was published by Atari (Benelux) B.V. in 1983. Side 1 of the cassette includes on screen instructions. Side 2 does not contain the instructions. Both sides use the dual audio format.  
   

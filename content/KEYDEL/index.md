@@ -1,3 +1,6 @@
+---
+title: KEYDEL
+---
 ||Adr||hex||Name||Description||OS  
 |753|$02F1|KEYDEL|key delay flag|all  
   

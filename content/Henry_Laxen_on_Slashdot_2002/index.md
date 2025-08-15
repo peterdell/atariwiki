@@ -1,3 +1,6 @@
+---
+title: Henry Laxen on Slashdot 2002
+---
 Hi guys (and gals),  
   
 Reading this collection of comments about Forth certainly brings back  

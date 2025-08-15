@@ -1,3 +1,6 @@
+---
+title: Atari BASIC
+---
 # Atari BASIC  
 ### Background  
 Atari BASIC is the "standard" BASIC dialect for the 8-bit series. It was originally sold separately as a (relatively expensive) 8k ROM cartridge. Starting with the 600XL/800XL, the ROMs were included inside the machine. There are three versions, the original version, retroactively known as Revision A, and the updated Revision B and C which fixed various bugs.  

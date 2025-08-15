@@ -1,3 +1,6 @@
+---
+title: Atari Macro Assembler
+---
 # Atari Macro Assembler and Program-Text Editor CX8121  
 ## ATR- and ATX-Images  
 - [Atari Macro Assembler V1.0A and Program-Text Editor 1.0 and Editor Customizing Manager 0.0 (Basic) - Original Diskette in an ATX image](attachments/Atari_Macro_Assembler_and_Program_Text_Editor.atx)  

@@ -1,3 +1,6 @@
+---
+title: Catch and Throw Error Handling
+---
 # Catch and Throw Error Handling  
   
 General Information  

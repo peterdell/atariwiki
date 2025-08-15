@@ -1,3 +1,6 @@
+---
+title: Sweet16Apple2
+---
 # Sweet 16 Apple2  
   
 General Information  

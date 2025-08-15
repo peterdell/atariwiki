@@ -1,3 +1,6 @@
+---
+title: VFHandbuch6502Assembler
+---
 # VolksForth 6502 Assembler  
   
 (work in progress, translation pending)  
@@ -28,7 +31,7 @@ cc steht fur "condition code" . <ausdruck1> wird ausgeführt, wenn cc zutrifft, 
 ```
 kann auch weggelassen werden. Das Analogon in Forth ist	IF ELSE ... THEN  
   
-Beachten Sie bitte, das vor {{{?}}} immer(!) ein conditioncode stehen muß. Außerdem findet keine Prüfung auf korrekte Verschachtelung der Kontrollstrukturen statt.  
+Beachten Sie bitte, das vor {{{?[}}} immer(!) ein conditioncode stehen muß. Außerdem findet keine Prüfung auf korrekte Verschachtelung der Kontrollstrukturen statt.  
   
 Weitere Kontrollstrukturen sind:  
 ```

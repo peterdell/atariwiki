@@ -1,3 +1,6 @@
+---
+title: Atari Learning System Software
+---
 # Atari Learning System Software ; Copyright (C) Atari and Minnesota Educational Computing Consortium (MECC)  
 AtariWiki would like to thank all the users who upload these program packages and [Atarimania](http://www.atarimania.com) for hosting the files. Thank you all so much, we really appreciate your help, as always. :-)  
   

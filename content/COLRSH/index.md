@@ -1,3 +1,6 @@
+---
+title: COLRSH
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |79|$004F|COLRSH|Color shift mask|none|All  
   

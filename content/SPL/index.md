@@ -1,3 +1,6 @@
+---
+title: SPL
+---
 # SPL  
   
 a Forth-style concatenative stack language. The compiler is (currently) written in Python and emits 6502 assembly code.  

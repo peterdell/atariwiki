@@ -1,3 +1,6 @@
+---
+title: Even
+---
 __EVEN__ "even" ( u1 -- u2 )  
   
   

@@ -1,3 +1,6 @@
+---
+title: Atari SCRAM - A Nuclear Power Plant Simulation
+---
 # Atari SCRAM-A Nuclear Power Plant Simulation CX4123 (Basic) by Chris Crawford  
   
 ## Please take into account how visionary this program was in 1981(!)  

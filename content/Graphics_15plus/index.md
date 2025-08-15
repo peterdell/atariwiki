@@ -1,3 +1,6 @@
+---
+title: Graphics 15plus
+---
 # Graphics 15+  
   
 This is a small example on how to use Graphics 15+ with CC65  

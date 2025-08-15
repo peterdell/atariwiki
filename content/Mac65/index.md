@@ -1,3 +1,6 @@
+---
+title: Mac65
+---
 # MAC/65 Macro Assembler; Copyright Stephen D. Lawrow; OSS, Inc.; ICD, Inc. & FTe  
   
 MAC/65 is a 6502 macro assembler written by Stephen D. Lawrow and originally sold by [Optimized Systems Software](https://en.wikipedia.org/wiki/Optimized_Systems_Software) for the Atari 8-bit computers. It was first released on disk in 1982, then later on a 16 KiB bank-switched 'SuperCartridge'.  

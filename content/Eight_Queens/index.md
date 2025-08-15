@@ -1,3 +1,6 @@
+---
+title: Eight Queens
+---
 ### General Information  
   
 Author: 	Dave Oblad   

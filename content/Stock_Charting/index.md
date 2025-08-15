@@ -1,3 +1,6 @@
+---
+title: Stock Charting
+---
 # Stock Charting CX8108 (C) 1980 Atari, Inc. under license from Control Data Corporation  
 With Atari Stock Charting you can track and study selected stocks and their market performance. You can also retrieve, list and graph data on a daily basis. The graph includes a six day oscillator, closing quotes, volume and ten-day moving average. You can compare and see growth, price performance and dividend-payout in relation to earning over a specified period of time. With the variety of charts, moving averages, oscillators, volume data, high-low and close figures, you can make predictions on the market as a whole or on individual stocks. It can graphically provide a picture of several stocks in a portfolio. Stock Charting is an excellent tool for investigating stocks prior to purchase! Includes one Stock Charting Program Diskette, one 10 page manual and one CX8111 formatted diskette with one Atari diskette holder (3 ring binder type).  
   

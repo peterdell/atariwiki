@@ -1,3 +1,6 @@
+---
+title: DDT
+---
 # Dunion's Debugging Tool (DDT) Rev. 1.0, Copyright (C) 1982, 1983 by James J. Dunion and Optimized Systems Software, Inc.  
 ## ATR-Image:  
 - [DDT-Dunions_Debugging_Tool.atr](attachments/DDT-Dunions_Debugging_Tool.atr) ATR-Image of the Debugger  

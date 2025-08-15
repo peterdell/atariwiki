@@ -1,3 +1,6 @@
+---
+title: Fast Screen IO
+---
 # Fast Screen IO  
   
 ```

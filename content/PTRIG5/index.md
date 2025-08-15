@@ -1,3 +1,6 @@
+---
+title: PTRIG5
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |641| $0281|PTRIG5|Paddle 6 Trigger| [PORTB](../PORTB/index.md) |OS A and B  
 0 when trigger pressed  

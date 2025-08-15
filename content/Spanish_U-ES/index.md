@@ -1,3 +1,6 @@
+---
+title: Spanish U-ES
+---
 # Dorsett Atari Spanish-English U-ES ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Spanish-English U-ES](https://archive.org/details/DorsettAtariBilingualReadingSpanishEnglish)  

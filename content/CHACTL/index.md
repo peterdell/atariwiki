@@ -1,3 +1,6 @@
+---
+title: CHACTL
+---
 ||R/W||Adr||Hex||Name||Description||OS||Shadow  
 |W|54273|$D401|CHACTL|Cursor- und Zeichendarstellung|all|[CHACT](../CHACT/index.md) 755/$2F3  
   

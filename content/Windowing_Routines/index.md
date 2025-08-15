@@ -1,3 +1,6 @@
+---
+title: Windowing Routines
+---
 # Windowing Routines  
   
 General Information  

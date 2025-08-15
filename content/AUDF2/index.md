@@ -1,3 +1,6 @@
+---
+title: AUDF2
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53762|$D202|POT2|Pot/paddle 2|626|all  
 |Write|53762|$D202|AUDF2| Audio channel 2 frequency |none|all  

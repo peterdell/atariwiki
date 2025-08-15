@@ -1,3 +1,6 @@
+---
+title: AUDCTL
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||OS  
 |Read|53768|$D208|ALLPOT|Audio control|all  
 |Write|53768|$D208|AUDCTL|Pot Port State|all  

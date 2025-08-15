@@ -1,3 +1,6 @@
+---
+title: Times-divide
+---
 __*/__ "times-divide" ( n1 n2 n3 -- n4 )  
   
   

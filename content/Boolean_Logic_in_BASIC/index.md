@@ -1,3 +1,6 @@
+---
+title: Boolean Logic in BASIC
+---
   
   
 # Boolean Logic in BASIC  

@@ -1,3 +1,6 @@
+---
+title: File Compare
+---
 # File Compare in ACTION!  
   
 General Information  

@@ -1,3 +1,6 @@
+---
+title: Memory Map
+---
   
 [Differences Atari 400/800 - 1200XL - 600/800XL](../DiffOldOs2XL/index.md)  
   

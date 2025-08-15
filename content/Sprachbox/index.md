@@ -1,3 +1,6 @@
+---
+title: Sprachbox
+---
 # Atari Sprachbox DXG5721  
   
 Die ATARI Sprachbox ist eine für den ATARI angepasste Version der "VoiceBox" von "TheAlienGroup" die es auch für andere Computersysteme gab. Sie wird über ein SIO-Kabel an den ATARI angeschlossen und über ein Netzteil mit Spannung versorgt.  

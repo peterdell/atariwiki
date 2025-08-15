@@ -1,3 +1,6 @@
+---
+title: Stefan Haubenthal
+---
 ![](attachments/Koala.png)  
 Meine Hardware: [XEP80](../XEP80/index.md), [CX21](http://atariki.krap.pl/index.php/CX21), [CX75](http://www.atariarchives.org/ecp/chapter_6.php) [https://www.atariarchives.org/creativeatari/Build_Your_Own_Light_Pen.php](https://www.atariarchives.org/creativeatari/Build_Your_Own_Light_Pen.php)  
   

@@ -1,3 +1,6 @@
+---
+title: Programmieren leicht gemacht TXG4110
+---
 # Programmieren leicht gemacht - Lernen Sie BASIC mit [Dagmar Berghoff](https://de.wikipedia.org/wiki/Dagmar_Berghoff) - TXG4110  
   
   

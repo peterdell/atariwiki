@@ -1,3 +1,6 @@
+---
+title: COLOR3
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |711|$02C7|COLOR3|Color Register 3|70 ($46)|[COLPF3](../COLPF3/index.md) |all  
 Farbregister für Anzeigefeld 3.  

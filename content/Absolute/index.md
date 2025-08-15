@@ -1,3 +1,6 @@
+---
+title: Absolute
+---
 __ABS__ "abs" ( n -- u )  
   
   

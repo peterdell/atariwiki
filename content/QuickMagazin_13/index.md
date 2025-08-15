@@ -1,3 +1,6 @@
+---
+title: QuickMagazin 13
+---
 # Quick Magazin 13  
   
 ### Articles  

@@ -1,3 +1,6 @@
+---
+title: HITCLR
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |write|53278|$D01E|HITCLR|clear all collision registers|all  
   

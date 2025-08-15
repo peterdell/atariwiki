@@ -1,3 +1,6 @@
+---
+title: Bugfix for the Cassette Handler
+---
   
   
 Fixes bugs in tape handler (except when in DOS menu-- but you can't use C: there --DOS checks for that)  

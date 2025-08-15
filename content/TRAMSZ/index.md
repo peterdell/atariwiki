@@ -1,3 +1,6 @@
+---
+title: TRAMSZ
+---
 ||ADR||HEXADR||NAME||Description||OS  
 |6|$0006|TRAMSZ|Temporary Register for RAM size|both  
   

@@ -1,3 +1,6 @@
+---
+title: PADDL3
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |627|$0273|PADDL3|Paddle 4|[POT3](../POT3/index.md) |all  
 # Values  

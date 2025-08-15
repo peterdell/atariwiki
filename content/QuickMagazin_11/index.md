@@ -1,3 +1,6 @@
+---
+title: QuickMagazin 11
+---
 # Quick Magazin 11  
   
 ### Article  

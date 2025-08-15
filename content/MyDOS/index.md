@@ -1,3 +1,6 @@
+---
+title: MyDOS
+---
 # MyDOS  
   
 MyDOS is modelled after Atari DOS 2.0S/2.5, but provides subdirectory and hard-drive support, along with many other "high-end" features.  

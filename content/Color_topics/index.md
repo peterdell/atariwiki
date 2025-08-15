@@ -1,3 +1,6 @@
+---
+title: Color_topics
+---
 # Color topics  
   
 [Standard_colors](../Standard_colors/index.md)  

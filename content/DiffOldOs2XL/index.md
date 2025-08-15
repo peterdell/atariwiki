@@ -1,3 +1,6 @@
+---
+title: DiffOldOs2XL
+---
 # OS Diffs Atari 800 <-> Atari XL/XE Series  
   
 __Answers-Tips-and-Relevant Information__  

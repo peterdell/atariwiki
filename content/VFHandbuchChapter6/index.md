@@ -1,3 +1,6 @@
+---
+title: VFHandbuchChapter6
+---
 # Strings (strings) in state-FORTH  
   
 Here are the basic routines for string processing. Above all, words were added that allow the handling of those required by some operating systems 0-terminated strings. FORTH has here over C has the disadvantage that FORTH-strings start with a default count byte that contains the length of the string. A final mark (eg a null byte) is therefore unnecessary. If the operating system but was written in C (Atari TOS, MS-DOS), have strings are converted accordingly.  
@@ -41,15 +44,15 @@ No string variable? - Use:
 - [> Type ](../_to-type/index.md)  
 - [Place](../Place/index.md)  
 - [Attach](../Attach/index.md)  
-- ] Append  
+- [] Append  
 - [Detract](../Detract/index.md)  
-- ] Match  
+- [] Match  
 - [Search](../Search/index.md)  
   
 ## The Dictionary  
   
 - [(Find ](../_paren-find/index.md)  
-- ] Find  
+- [] Find  
   
 ### 0-terminated strings  
   

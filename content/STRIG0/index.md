@@ -1,3 +1,6 @@
+---
+title: STRIG0
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |644| $0284|STRIG0|Stick 1 Trigger| [TRIG0](../GRAFP3/index.md) |all  
 0 when trigger pressed  

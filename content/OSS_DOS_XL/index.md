@@ -1,3 +1,6 @@
+---
+title: OSS DOS XL
+---
 # OSS DOS XL  
   
 OSS DOS XL is a Disk Operating System (DOS) written by Paul Laughton, Mark Rose, Bill Wilkinson and Mike Peters and produced by Optimized Systems Software (OSS) for Atari 8-bit microcomputers. It was designed to be compatible with Atari DOS which came shipped with Atari's disk-drives.  

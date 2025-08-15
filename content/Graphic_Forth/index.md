@@ -1,3 +1,6 @@
+---
+title: Graphic Forth
+---
 # Grafik FORTH  
   
 A ANTIC / Fig-FORTH 1.4s Version with special Graphics Extensions.  

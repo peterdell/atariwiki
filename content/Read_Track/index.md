@@ -1,3 +1,6 @@
+---
+title: Read Track
+---
 # Speedy 1050 example -- read tack  
   
 ```

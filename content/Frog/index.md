@@ -1,3 +1,6 @@
+---
+title: Frog
+---
 # Frog from Antic Vol. 6 #10 February 1988  
 Frog is a game from the Antic magazine, published in February 1988  
   

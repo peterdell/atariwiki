@@ -1,3 +1,6 @@
+---
+title: Local Variables
+---
 # Collection of Source on local variables  
   
 The concept of local variables involves assigning parameter names to  

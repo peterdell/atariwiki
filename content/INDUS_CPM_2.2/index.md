@@ -1,3 +1,6 @@
+---
+title: INDUS CPM 2.2
+---
 # INDUS CPM 2.2  
   
 This  document explains the specifics of your Indus GT based  CPM 2.2  system.   The  CPM system runs in the Indus GT  disk  drive,  which  contains a Z80 microprocessor,  and 64K of ram (thanks  to  the  ram charger).   The Indus drive in turn,  communicates  with  your Atari computer.   Most of the time,  the Atari computer acts  as a terminal,  but is also used to send data to the printer, and  also  to operate a second disk drive.   The basic nature of  this  environment  is that the Indus is the boss,  and the Atari is the  slave processor in a network based system.  

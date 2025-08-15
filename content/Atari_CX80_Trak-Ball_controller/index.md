@@ -1,3 +1,6 @@
+---
+title: Atari CX80 Trak-Ball controller
+---
 # Atari Trak-Ball controller CX80  
 - Introduced June 1983 (for home computers and international markets)  
 - Shipped internationally only  

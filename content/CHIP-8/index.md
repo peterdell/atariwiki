@@ -1,3 +1,6 @@
+---
+title: CHIP-8
+---
 # CHIP-8  
   
 Joseph Weisbecker introduced CHIP-8 in BYTE magazine in December 1978, and from 1976 to 1979 COSMAC VIP computers were shipped with CHIP-8 and many sample programs and games. But against Apple II, Atari 400/800, Commodore PET and Tandy TRS80 the COSMAC VIP had no chance on the market and disappeared from the scene, and with it CHIP-8.  

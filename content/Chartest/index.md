@@ -1,3 +1,6 @@
+---
+title: Chartest
+---
 # Chartest  
   
 a group of routines which perform various functions and tests on characters.  

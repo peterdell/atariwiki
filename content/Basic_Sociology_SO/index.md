@@ -1,3 +1,6 @@
+---
+title: Basic Sociology SO
+---
 # Dorsett Atari Basic Sociology SO ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Atari Basic Sociology SO](https://archive.org/details/DorsettAtariBasicSociology)  

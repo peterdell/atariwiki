@@ -1,3 +1,6 @@
+---
+title: Negate
+---
 __NEGATE__ "negate" ( n1 -- n2 )  
   
   

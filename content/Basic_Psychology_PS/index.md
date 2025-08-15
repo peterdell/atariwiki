@@ -1,3 +1,6 @@
+---
+title: Basic Psychology PS
+---
 # Dorsett Atari Basic Psychology PS ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Atari Basic Psychology PS](https://archive.org/details/DorettAtariBasicPsychology)  

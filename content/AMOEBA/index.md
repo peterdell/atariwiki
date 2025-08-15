@@ -1,3 +1,6 @@
+---
+title: AMOEBA
+---
 # AMOEBA 3.0 (C) Atari and Amy Chen  
 AMOEBA is an Atari internal prototype debugger. It is incredible good, it shows even the actual status flags, has trace capabilities and so on. Please discover on your own and maybe, you write a manual for it? We would really appreciate your help in this.  
   

@@ -1,3 +1,6 @@
+---
+title: String Library PSC
+---
 # String Library  
   
 (c) 1991 Carsten Strotmann  

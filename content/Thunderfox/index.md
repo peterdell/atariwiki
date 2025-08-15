@@ -1,3 +1,6 @@
+---
+title: Thunderfox
+---
 # Thunderox ; Copyright (C) 1987 by Atari Corp. UK  
 Thunderfox is a shoot'em up game released by Atari Corp. UK on cassette tape in 1987. The game was developed by Aztec Design and programmed by Noel Daniel. The music was written by Orall Cornellius. In 1988 Atari Corp. (US) released this game on cartridge.  
   

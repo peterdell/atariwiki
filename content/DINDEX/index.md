@@ -1,3 +1,6 @@
+---
+title: DINDEX
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |87|$0057|DINDEX|Display mode/current screen mode|none|All  
   

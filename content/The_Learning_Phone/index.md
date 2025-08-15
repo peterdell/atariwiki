@@ -1,3 +1,6 @@
+---
+title: The Learning Phone
+---
 # The Learning Phone RX8080  
   
 LEARNING PHONE  

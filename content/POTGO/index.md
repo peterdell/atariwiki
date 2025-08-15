@@ -1,3 +1,6 @@
+---
+title: POTGO
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||OS  
 |Write|53771|$D20B|POTGO|Start Pot reading sequence|all  
   

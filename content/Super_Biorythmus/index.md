@@ -1,3 +1,6 @@
+---
+title: Super Biorythmus
+---
 # Super Biorythmus  
 Bis zum heutigen Tage (2018) ist keine deutsche Version von Super Biorythmus aufgetaucht. Die Hoffnung, das Programm eines Tages zu finden oder schlimmstenfalls aus dem französischem zu übersetzen, bleibt jedoch bestehen.  
   

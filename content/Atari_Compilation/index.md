@@ -1,3 +1,6 @@
+---
+title: Atari Compilation
+---
 # Atari Compilation (TX 9043)  
 Atari Corp UK released this compilation cassette in 1987. This cassette contains rereleases of the games Typo Attack, Tennis, Missile Command, Centipede and Star Raiders. Each game features a loading screen by Atari Corp UK which states the copyright date of 1987. The version on this tape of Centipede is not the regular 400/800 version but the version which was made for the 5200.  
   

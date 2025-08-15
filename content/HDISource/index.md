@@ -1,3 +1,6 @@
+---
+title: HDISource
+---
 # High Density Interface (PC FLoppy Interface with Speedy like OS)  
   
 General Information  

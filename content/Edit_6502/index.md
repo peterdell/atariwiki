@@ -1,3 +1,6 @@
+---
+title: Edit 6502
+---
 # Edit 6502 ; Copyright (C) 1981 LJK Enterprises, Inc.  
   
 Very fast Assembler, Editor and Monitor for Atari 400 and 800 under OS B  

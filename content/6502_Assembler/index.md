@@ -1,3 +1,6 @@
+---
+title: 6502 Assembler
+---
 # 6502 Assembler for VolksForth  
   
 See [6502_Assembler_in_Forth](../6502_Assembler_in_Forth/index.md) for the original FIG-Forth version of this assembler  

@@ -1,3 +1,6 @@
+---
+title: Two-plus
+---
 __2+__ "two-plus" ( n1 | u1 -- n2 | u2 )  
   
   

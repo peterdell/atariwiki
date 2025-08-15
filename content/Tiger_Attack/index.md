@@ -1,3 +1,6 @@
+---
+title: Tiger Attack
+---
 # Tiger Attack TX 9045 ; Copyright (C) 1988 by Atari Corp. UK  
 Tiger Attack is an shoot 'm up game developed by Arena Developments and released by Atari Corp. UK in 1988. This game is based on the arcade game Flying Shark.  
   

@@ -1,3 +1,6 @@
+---
+title: RTCLOK
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |18-20|$12-$14|RTCLOK|Interne Uhr| | |all  
   

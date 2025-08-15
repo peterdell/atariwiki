@@ -1,3 +1,6 @@
+---
+title: COLPM0
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |W|53266|$D012|COLPM0|Color of Player and Missile 0|0|[PCOLR0](../PCOLR0/index.md)|all  
 |R|53266|$D012|TRIG2|Trigger Joystick 2|n/a|[STRIG2](../STRIG2/index.md)|all  

@@ -1,3 +1,6 @@
+---
+title: Trails
+---
 # Trails from Analog #50 January 1987  
 Trails is a tool for using the KoalaPad with ACTION!  
   

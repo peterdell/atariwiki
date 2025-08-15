@@ -1,3 +1,6 @@
+---
+title: OSS Integer Basic
+---
 # OSS Integer Basic ; Copyright (C) 1983-1986 by Stephen D. Lawrow & OSS, Inc.  
 From Tomasz 'Kr0tki' Krasuski from AtariAge:  
   

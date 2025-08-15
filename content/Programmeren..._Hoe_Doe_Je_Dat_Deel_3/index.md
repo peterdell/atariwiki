@@ -1,3 +1,6 @@
+---
+title: Programmeren... Hoe Doe Je Dat (Deel 3)
+---
 # Programmeren... Hoe Doe Je Dat (Deel 3)  
 Programmeren... Hoe Doe Je Dat (Deel 3) is the Dutch translation of An Invitation To Programming (Part 3) and was published by Atari International (Benelux) B.V. in 1980. The cassette uses the dual audio format.  
   

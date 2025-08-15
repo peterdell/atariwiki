@@ -1,3 +1,6 @@
+---
+title: XEP80
+---
   
 ## Manual  
 - [Atari_XEP80_Interface_Module_Owners_Manual.pdf](attachments/Atari_XEP80_Interface_Module_Owners_Manual.pdf) ; size: 2 MB ; Original Atari XEP80 Manual (C) 1987 Atari  

@@ -1,3 +1,6 @@
+---
+title: Huishoud-Boek
+---
 # Huishoud-Boek (Disk: DXN 421)  
 ## Disk-Image:  
 [Huishoudboek_DXN_421.zip](attachments/Huishoudboek_DXN_421.zip)  

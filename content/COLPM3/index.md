@@ -1,3 +1,6 @@
+---
+title: COLPM3
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |53269|$D015|COLPM3|Color of Player and Missile 3|0|[PCOLR3](../PCOLR3/index.md)|all  
   

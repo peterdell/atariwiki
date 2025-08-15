@@ -1,3 +1,6 @@
+---
+title: ForthRecurseDefinition
+---
 # Recurse - calling a word recursively  
   
 Vierte Dimension 1/1985 by DR. med.dent. Greiner  

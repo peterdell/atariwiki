@@ -1,3 +1,6 @@
+---
+title: Beeil Dich-Verdreht
+---
 # Beeil Dich-Verdreht TXG 9501 (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
   
 ## Handbuch  

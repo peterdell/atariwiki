@@ -1,3 +1,6 @@
+---
+title: Atari DOS 1
+---
 # Atari DOS 1  
   
 This is the first Atari DOS from 1979. It should only be used with rare programs, that were developed under this specific DOS.  

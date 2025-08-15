@@ -1,3 +1,6 @@
+---
+title: GRAFP0
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53261 |$D00D|GRAFP0|Graphics Shape for Player 0|both  
 |Read| 53261 |$D00D|P1PL|Collision Player 1 with Player|both  

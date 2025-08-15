@@ -1,3 +1,6 @@
+---
+title: Big Symbol Table for ACTION
+---
 General Information   
 Author: 	Action Computer Services   
 Language: 	ACTION!   

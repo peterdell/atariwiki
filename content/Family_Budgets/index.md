@@ -1,3 +1,6 @@
+---
+title: Family Budgets
+---
 # Family Budgets (APX-20108) (C) 1982 Jerry Falkenhan and Atari, Inc.  
 Family Budgets was first published via APX and later distributed from Atart itself. Please see Family Finances II (Budget) from [Family_Finances](../Family_Finances/index.md) for further infos.  
 ## ATR-Image:  

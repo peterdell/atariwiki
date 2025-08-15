@@ -1,3 +1,6 @@
+---
+title: LCOUNT
+---
 ||DEC||HEX||NAME||OS  
 |563|$233|LCOUNT|only X  
   

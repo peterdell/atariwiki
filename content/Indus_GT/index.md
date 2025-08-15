@@ -1,3 +1,6 @@
+---
+title: Indus GT
+---
 # Indus GT DD Floppy Drive  
   
 ### Turn your Atari into a Ferrari  

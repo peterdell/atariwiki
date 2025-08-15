@@ -1,3 +1,6 @@
+---
+title: Mode, Setcolor, Color Table
+---
 # Mode, Setcolor, Color Table  
   
 This is the corrected version of: 'Mode, Setcolor, Color Table' taken from the Atari Basic Errata  

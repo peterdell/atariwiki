@@ -1,3 +1,6 @@
+---
+title: Compilation B
+---
 # Compilation B (TXP7101)  
 Atari Corp UK released this compilation cassette in 1987. This cassette contains rereleases of the games Tennis, Chop Suey, Football, Basketball and Chess. Each game features a loading screen by Atari Corp UK which states the copyright date of 1987, except Chop Suey which was a game made by English Software.  
   

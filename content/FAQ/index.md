@@ -1,3 +1,6 @@
+---
+title: FAQ
+---
 # Atari Wiki FAQ  
   
 __Without any doubt the very best FAQ for Atari was made by Prof. Michael Current: [The ATARI 8 Bit FAQ](../atari8bitfaq/index.md) ; highly recommended by AtariWiki! ; Thank you so much Michael, you are really of great help.__  

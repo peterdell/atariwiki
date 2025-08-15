@@ -1,3 +1,6 @@
+---
+title: Blackjack
+---
 # Blackjack  
 Blackjack is the Dutch translation of the US version of Blackjack and was published by Atari International (Benelux) B.V. in 1983.  
   

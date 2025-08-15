@@ -1,3 +1,6 @@
+---
+title: Super Biorhythmus
+---
 # Atari Super Biorhythmus  
 Zu Atari Super Biorhythmus fehlt bislang jede Spur, lediglich ein Bild aus Frankreich ist vorhanden, s. u.. Das Bild lässt vermuten, dass sowohl eine Kassetten-, als auch eine Disketten-Version in Frankreich existiert hat. Hierbei benötigt die Kassetten-Version bereits schon 16 KB und die Disketten-Version sogar 48 KB. Jede Hilfe, diese spezielle deutsche Version zu bekommen, ist stets willkommen. :-)))  
   

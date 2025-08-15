@@ -1,3 +1,6 @@
+---
+title: ProjUSBCartTwoPic
+---
 # The new USB Host/Slave Cartridge  
   
 Pictures by Harry Reminder  

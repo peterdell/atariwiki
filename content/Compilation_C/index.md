@@ -1,3 +1,6 @@
+---
+title: Compilation C
+---
 # Compilation C (TXP7000)  
 Atari Corp UK released this compilation cassette in 1987. This cassette contains rereleases of the games Savage Pond, Up Up And Away, Cloak Of Death, Leaper and Quest for Eternity. In contrast to the other Atari UK compilation tapes, this tape contains only games which were originally published by Bug Byte.  
   

@@ -1,3 +1,6 @@
+---
+title: SIZEP3
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53259 |$D00B|SIZEP3|Size Player 3|both  
 |Read| 53259 |$D00B|M3PL|Collision Missile 3 with Player|both  

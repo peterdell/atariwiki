@@ -1,3 +1,6 @@
+---
+title: Physics CX6008
+---
 # Physics CX6008  
 ## Boxcover:  
 ![](attachments/Physics+CX6008-Cover.jpg)  

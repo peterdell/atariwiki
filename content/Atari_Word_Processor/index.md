@@ -1,3 +1,6 @@
+---
+title: Atari Word Processor
+---
 # The Atari Word Processor CX404 and The Atari Word Processor Demonstration Data Kit CX8128  
 ## Package Content of CX404:  
 - Easel-Back Notebook CA017717  
@@ -36,7 +39,7 @@ The Atari Word Processor Audio Master Cassette CX4122 Side 1
   
 __KEY: 	 FUNCTION:__  
   
-CTRL   ALIGN LEFT  
+CTRL [[  ALIGN LEFT  
 CTRL ] 	 ALIGN RIGHT  
 CTRL Y 	 CENTER LINE  
 CTRL N 	 START BLOCK MARK  

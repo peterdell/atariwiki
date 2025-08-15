@@ -1,3 +1,6 @@
+---
+title: Fast Graphics 8 Routines
+---
 # Fast Graphics 8  
   
 General Information  

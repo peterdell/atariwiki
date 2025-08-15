@@ -1,3 +1,6 @@
+---
+title: VFHandbookChapter3
+---
 ### Arithmetic  
   
   
@@ -61,7 +64,7 @@ This Syeicherplatz savings and reduces the execution time.
 - [2 / ](../_two-divide/index.md)  
 - [3 + ](../_three-plus/index.md)  
 - [Abs ](../_absolute/index.md)  
-- ] Not  
+- [] Not  
 - [Negate](../Negate/index.md)  
 - [Even](../Even/index.md)  
 - [Max ](../_maximum/index.md)  
@@ -99,7 +102,7 @@ This Syeicherplatz savings and reduces the execution time.
   
 ### People Forth 32bit words  
   
-- ] Extend  
+- [] Extend  
 - [Dabs ](../_d-absolute/index.md)  
 - [Dnegate ](../_d-negate/index.md)  
 - [D + ](../_d-plus/index.md)  

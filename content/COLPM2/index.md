@@ -1,3 +1,6 @@
+---
+title: COLPM2
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |W|53268|$D014|COLPM2|Color of Player and Missile 2|0|[PCOLR2](../PCOLR2/index.md)|all  
 |R|53268|$D014|PAL|Determine TV System|see below|none|all  

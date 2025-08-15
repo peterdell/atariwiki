@@ -1,3 +1,6 @@
+---
+title: Voice and Data Cassettes
+---
 The goal of this chapter is to provide the user with information regarding the capabilities of Atari to mix Voice & Data on Cassettes.  
 Below are given some examples of how Atari has done this.  
 If you intend to record cassettes from Atari, please use the __wav-format, 16-bit stereo and 44.1 kHz__. With those parameters we do have the best experiences.  

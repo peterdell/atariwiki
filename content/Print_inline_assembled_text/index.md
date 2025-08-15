@@ -1,3 +1,6 @@
+---
+title: Print inline assembled text
+---
 General Information   
 Author: CompyShop   
 Assembler: Bibo Assembler   

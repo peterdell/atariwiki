@@ -1,3 +1,6 @@
+---
+title: Sound2
+---
 # Sound and storing  
   
 Heute geht es wieder um Geräusche. Aber auch um die Umsetzung von Data-Zeilen nach Forth.  

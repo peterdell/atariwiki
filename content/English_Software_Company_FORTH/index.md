@@ -1,3 +1,6 @@
+---
+title: English Software Company FORTH
+---
 # English Software Company FORTH  
   
 Seems to be based an FIG-FORTH, but with some unique "Words". Requires an Atari 400/800 OS (non-XL) or Oldrunner Disk. In The Netherlands EsForth was released by Aackosoft, who distributed many titles from English Software. This cassette version runs also on XL/XE models.  

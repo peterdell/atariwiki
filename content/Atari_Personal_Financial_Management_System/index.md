@@ -1,3 +1,6 @@
+---
+title: Atari Personal Financial Management System
+---
 # Atari Personal Financial Management System (P.F.M.S.) CX406 Copyright (C) 1981 Atari, Inc.  
 # Also as part in 'The Home Manager Kit' or 'The Home Manager' CX418 version 1  
 Please check [atari8bitads.blogspot.de](http://atari8bitads.blogspot.de/2017/03/a-welcome-addition.html) from Bill Lange, which solves the mystery around the box. Great work Bill! Please go ahead, we really appreciate your help. :-)))  

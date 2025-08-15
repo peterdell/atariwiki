@@ -1,3 +1,6 @@
+---
+title: Display_list_instruction_table
+---
 # Display List Instructions  
 There are 3 kinds of instructions  
 - $x0 blank lines  

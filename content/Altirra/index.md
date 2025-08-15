@@ -1,3 +1,6 @@
+---
+title: Altirra
+---
 # Altirra (C) Avery 'Phaeron' Lee  
 Altirra is without any doubt the(!) standard for Atari emulators as of 2018. Phaeron did such an outstanding and marvelous job with this emulator.  
   

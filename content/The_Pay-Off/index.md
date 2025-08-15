@@ -1,3 +1,6 @@
+---
+title: The Pay-Off
+---
 # The Pay-Off ; Copyright (C) 1984 by Atari Corp. UK  
 The pay-Off is a text adventure released by Atari Corp. UK in 1984. The game was re-released by Bug-Byte on cassette tape in 1987.  
   

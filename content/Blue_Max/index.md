@@ -1,3 +1,6 @@
+---
+title: Blue Max
+---
 # Blue Max from Bob Polin ; Copyright (C) Bob Polin all versions, 1983 Synapse Software (US), 1984 Synsoft Software, 1984 US Gold (GB), 1987 Atari (US)  
 # Blue Max 2001 from Bob Polin ; Copyright (C) Bob Polin all versions, 1984 Synapse Software Corporation (US), 1984 US Gold (GB)  
 Blue Max from Bob Polin is one of the most oustanding games in the Atari era.  

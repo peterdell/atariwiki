@@ -1,3 +1,6 @@
+---
+title: Kyan Pascal
+---
 ## Kyan Pascal  
 Copyright (C) 1985 Kyan Software  
   

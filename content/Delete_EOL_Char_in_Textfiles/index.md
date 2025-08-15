@@ -1,3 +1,6 @@
+---
+title: Delete EOL Char in Textfiles
+---
 # Delete EOL Char in Textfiles  
   
 General Information  

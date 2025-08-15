@@ -1,3 +1,6 @@
+---
+title: PTIMOT
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |28|$001C|PTIMOT|Printer timeout|none|A  
 Printer timeout, called every printer status request. Initialized to 30, which represents 32 seconds (the value is 64 seconds per 60 increments in this register); typical timeout for the Atari 825 printer is five seconds. The value is set by your printer handler software. It is updated after each printer status request operation. It gets the specific timeout status from location 748 ($2EC), which is loaded there by SIO.  

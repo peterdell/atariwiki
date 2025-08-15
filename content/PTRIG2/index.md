@@ -1,3 +1,6 @@
+---
+title: PTRIG2
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |638| $027E|PTRIG2|Paddle 3 Trigger| [PORTA](../PORTA/index.md) |all  
 0 when trigger pressed  

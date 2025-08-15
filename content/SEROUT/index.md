@@ -1,3 +1,6 @@
+---
+title: SEROUT
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||OS  
 |Read|53773|$D20D|SERIN|Serial Port Data Output|all  
 |Write|53773|$D20D|SEROUT|Serial Port Data Input|all  

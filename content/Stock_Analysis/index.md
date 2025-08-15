@@ -1,3 +1,6 @@
+---
+title: Stock Analysis
+---
 # Stock Analysis CX8107 (C) 1980 Atari, Inc. under license from Control Data Corporation  
 Requires Atari Basic, Disk drive and 24 KB minimum RAM. Printer is optional. Data-Suffix: '.PRT'.  
 ## ATARI STOCK & BOND ANALYSIS - Review by Peter Pappas  

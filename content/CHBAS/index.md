@@ -1,3 +1,6 @@
+---
+title: CHBAS
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW OF||OS  
 |756|$02F4|CHBAS|Zeichensatzadresse|224 ($E0)|[CHBASE](../CHBASE/index.md) |all  
   

@@ -1,3 +1,6 @@
+---
+title: Atari CX70 Light Pen
+---
 # Atari Light Pen CX70  
 - Introduced June 1980  
 - RARE - Only offered by Atari for a few months in 1981 (InfoWorld 12/26/83-1/2/84)  

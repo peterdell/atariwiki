@@ -1,3 +1,6 @@
+---
+title: U-minimum
+---
 __UMIN__ "unsigned-minimum" ( u1 u2 -- u3 )  
   
   

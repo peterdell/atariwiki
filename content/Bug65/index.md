@@ -1,3 +1,6 @@
+---
+title: Bug65
+---
 # Bug/65 Version 2.0 (C) 1982 McStuff Co. and Optimized Systems Software, Inc.  
 Powerful, individual adaptable debugger for Atari 8 bit computers  
   

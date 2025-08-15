@@ -1,3 +1,6 @@
+---
+title: INDUS GT Synchromesh
+---
 # PUT SYNCHROMESH IN HIGH GEAR  
   
 by Richard Q. Fox  

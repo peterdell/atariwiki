@@ -1,3 +1,6 @@
+---
+title: DeviceMatrix
+---
 # Atari USB Cart compatibility matrix  
   
 || USB Device                                  || Status || Driver / Device Info   || Games / Applications ||  

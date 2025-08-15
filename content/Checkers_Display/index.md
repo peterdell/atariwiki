@@ -1,3 +1,6 @@
+---
+title: Checkers Display
+---
 # ATARI 800 CHECKERS DISPLAY BY C. SHAW 3/31/80 ; Copyright 1980 Atari, Inc. and Carol Shaw  
   
 ## ATR image  

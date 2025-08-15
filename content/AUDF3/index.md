@@ -1,3 +1,6 @@
+---
+title: AUDF3
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53764|$D204|POT4|Pot/paddle 4|628|all  
 |Write|53764|$D204|AUDF3| Audio channel 3 frequency |none|all  

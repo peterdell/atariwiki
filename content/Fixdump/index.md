@@ -1,3 +1,6 @@
+---
+title: Fixdump
+---
 # Fixdump 2.0SD aka Disk Fixer, Rev. 2.0 ; Copyright (C) 1980 Atari, Inc. & Michael 'Mike' Ekberg ; APX-20010  
   
 Fixdump 2.0SD aka Disk Fixer, Rev. 2.0 is a tool for repairing Atari diskettes  

@@ -1,3 +1,6 @@
+---
+title: APX Atari Pascal
+---
 # Atari Pascal 1.0 (APX 20102) (1982)  
 ![](attachments/Atari+Pascal.jpg)  
 Atari Pascal Version 1.0 (c) 1982 by ATARI  

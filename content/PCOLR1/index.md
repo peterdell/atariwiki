@@ -1,3 +1,6 @@
+---
+title: PCOLR1
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||SHADOW OF||OS  
 |705|$02C1|PCOLR1|Color of Player and Missile 1|[COLPM1](../COLPM1/index.md) |all  
   

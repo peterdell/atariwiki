@@ -1,3 +1,6 @@
+---
+title: Atari Statistics I
+---
 # Atari Statistics I CX4103  
   
 Statistics I ist ein Basic-Programm zur Berechnung einfacher, statischer Werte. Weiter unten auf der Seite ist ein Bild mit den Variablen, die mit Statistics I berechnet werden können. Derzeit können leider nur diese Variablen berechnet werden.  

@@ -1,3 +1,6 @@
+---
+title: Implementations of NEXT on 6502
+---
 # Implementations of NEXT in Forth Systems for the 6502 CPU  
   
 ### FIG-FORTH (also X-FORTH, ANTIC FORTH and other derivatives of FIG-FORTH ...)  

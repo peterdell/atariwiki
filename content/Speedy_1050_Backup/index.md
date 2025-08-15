@@ -1,3 +1,6 @@
+---
+title: Speedy 1050 Backup
+---
 # Speedy 1050 Backup  
   
 [atari001.png](attachments/atari001.png)  

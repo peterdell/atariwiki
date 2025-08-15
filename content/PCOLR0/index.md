@@ -1,3 +1,6 @@
+---
+title: PCOLR0
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||SHADOW OF||OS  
 |704|$02C0|PCOLR0|Color of Player and Missile 0|[COLPM0](../COLPM0/index.md) |all  
   

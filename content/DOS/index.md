@@ -1,3 +1,6 @@
+---
+title: DOS
+---
 # DOS - Disk Operating System  
   
 %%tabbedSection  

@@ -1,3 +1,6 @@
+---
+title: Haushalts-Buch
+---
 # Atari Haushalts-Buch (C) 1981 Jerry Falkenhan, Atari Elektronik Vertriebsgesellschaft GmbH  
 Das Atari Haushalts-Buch ist die deutsche Version von Family Cash Flow (APX-20080) bzw. Family Finances I (Cash_Flow) aus [Family_Finances](../Family_Finances/index.md).  
 ## ATR-Image:  

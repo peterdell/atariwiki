@@ -1,3 +1,6 @@
+---
+title: Ultimate CASE Statement
+---
 # Ultimate CASE Statement  
   
 by Wil Baden, Costa Mesa, California  

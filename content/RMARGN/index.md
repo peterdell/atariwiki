@@ -1,3 +1,6 @@
+---
+title: RMARGN
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |83|$0053|RMARGN|Right margin of text|none|All  
   

@@ -1,3 +1,6 @@
+---
+title: European Countries and Capitals
+---
 # European Countries and Capitals (cassette CX 4114)  
 Atari Corp UK rereleased this educational game under the label "Atarisoft" as a budget cassette in 1985. In contrast to the original US version of 1980, this cassette contains the game and instructions on both sides of the tape.  
   

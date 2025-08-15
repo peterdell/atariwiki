@@ -1,3 +1,6 @@
+---
+title: Decimals and Percents MP
+---
 # Dorsett Atari Mathematics (Decimals and Percents) MP ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Mathematics (Decimals and Percents) MP](https://archive.org/details/DorsettAtariMathematicsPercentsAndDecimals)  

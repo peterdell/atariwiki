@@ -1,3 +1,6 @@
+---
+title: HDI Interface
+---
 # High-Density Disk Interface  
   
 The HDI is the interface for connecting up to 4 standard  

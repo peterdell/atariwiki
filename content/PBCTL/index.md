@@ -1,3 +1,6 @@
+---
+title: PBCTL
+---
 ||ADR||HEXADR||NAME||Description||OS  
 |54019|$D303|PBCTL|Port B Control|only A (400/800)  
   

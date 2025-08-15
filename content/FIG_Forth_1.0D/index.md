@@ -1,3 +1,6 @@
+---
+title: FIG Forth 1.0D
+---
 # FigForth 1.0d  
   
 An old Forth Version for ATARI 800. Uses traditional Forth blocks for storage.  

@@ -1,3 +1,6 @@
+---
+title: NMIST
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |read|54287|$D40F|NMIST|Non Maskable Interrupt Status|both  
 |write|54287|$D40F|NMIRES|Non Maskable Interrupt Reset|both  

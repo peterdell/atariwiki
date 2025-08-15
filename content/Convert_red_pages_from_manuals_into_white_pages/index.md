@@ -1,3 +1,6 @@
+---
+title: Convert red pages from manuals into white pages
+---
 # convert red pages from manuals into white pages  
 In Germany many manuals were delivered on red papers with black letters for copy protections purposes. Even when scanned it is hard to read these manuals. Therefore, with the now available techniques, it is possible to get around this problem with Adobe Photoshop.  
   

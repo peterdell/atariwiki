@@ -1,3 +1,6 @@
+---
+title: World History HW
+---
 # Dorsett Atari World History HW ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari World History HW](https://archive.org/details/DorsettAtariWorldHistory)  

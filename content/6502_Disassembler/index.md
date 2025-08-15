@@ -1,3 +1,6 @@
+---
+title: 6502 Disassembler
+---
 # 6502 Disassembler  
   
 by von Georg Rehfeldt, Vierte Dimension 1/1985  

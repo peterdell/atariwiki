@@ -1,3 +1,6 @@
+---
+title: Slingshot
+---
 # Slingshot (cassette TX 9044)  
 Slingshot is a strategy game made by Matthew Trimby and released by Atari Corp. UK in 1988. This game is programmed in Action! The cassette contains the main game on side A of the cassette and includes an alternative course which can be loaded from the menu. On side B of the cassette a level editor is included.  
   

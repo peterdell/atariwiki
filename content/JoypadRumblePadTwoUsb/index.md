@@ -1,3 +1,6 @@
+---
+title: JoypadRumblePadTwoUsb
+---
 # Logitech Rumblepad 2 USB Driver  
   
   

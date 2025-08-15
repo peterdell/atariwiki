@@ -1,3 +1,6 @@
+---
+title: The Atari Basic Source Book
+---
 # Atari Basic Source Book  
 - [Complete PDF](http://www.atarimania.com/documents/The-Atari-BASIC-Source-Book.pdf)  
 - [Table of Contents](../How-atari-basic-works-toc.html|The_Atari_Basic_Source_Book/index.md)  

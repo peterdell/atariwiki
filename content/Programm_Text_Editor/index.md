@@ -1,3 +1,6 @@
+---
+title: Programm Text Editor
+---
 # Atari Programm-Text Editor CX20075 bzw. APX-20075 bzw. DXG20075(?) bzw. CX8105 Editor(?)  
 # Copyright (C) 1981 Atari, Inc. and Mike Lorenzen  
 Mega-Danke an Marc Brings (Sleeπ) für den Erhalt der Software. :-) Wir sind tief in Deiner Schuld! :-)))  

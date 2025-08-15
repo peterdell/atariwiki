@@ -1,3 +1,6 @@
+---
+title: Heartache
+---
 # Heartache (cassette TX 9046)  
 Heartache is an action game made by Andrew Dickinson and released by Atari Corp. UK in 1988. According to Andrew Dickinson the initial name of this game was Heartache, but Atari UK asked him to change the title into Heart Break. Surprisingly Atari forgot to tell the cover designer that the name was changed. That's why the cover states "Heartache" and the in game title is "Heart Break".  
   

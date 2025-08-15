@@ -1,3 +1,6 @@
+---
+title: Magazines
+---
 # Magazines  
   
 ## Currently Published  

@@ -1,3 +1,6 @@
+---
+title: GNU Forth EC for 6502
+---
 # GnuFORTH EC  
   
 the embedded control version of the ANS-Forth standards based GNU-Forth implementation  

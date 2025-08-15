@@ -1,3 +1,6 @@
+---
+title: CompyShop Speedy Upgrades
+---
 # Speedy 1050 Upgrades from CompyShop  
   
 ### Handbook  

@@ -1,3 +1,6 @@
+---
+title: Display Master
+---
 ### General Information  
 Author: Dave Oblad  
 Language: ACTION!  

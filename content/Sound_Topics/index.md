@@ -1,3 +1,6 @@
+---
+title: Sound Topics
+---
 # Sound Topics  
   
 [AUDF1](../AUDF1/index.md) [AUDC1](../AUDC1/index.md)  

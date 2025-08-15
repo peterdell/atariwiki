@@ -1,3 +1,6 @@
+---
+title: Backus-Naur form
+---
 # Backus–Naur form (BNF)  
 From Wikipedia, the free encyclopedia:  
   

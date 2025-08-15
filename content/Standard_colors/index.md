@@ -1,3 +1,6 @@
+---
+title: Standard colors
+---
 # Standard color values  
 ||SETCOLOR||Color||Luminance||Color name||Address||Name||Address||Name||Default Value dec||Default Value hex||in GR.0||in GR.1/2||GR.3,5,7  
 |0,2,8|	2|	8|	Orange|	708|	[COLOR0](../COLOR0/index.md)|	53270|	[COLPF0](../COLPF0/index.md)|40|$28|n.a.|Uppercase|COLOR 1  

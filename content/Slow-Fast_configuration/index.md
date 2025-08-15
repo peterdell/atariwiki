@@ -1,3 +1,6 @@
+---
+title: Slow-Fast configuration
+---
 # Slow/Fast Konfiguration  
   
 ```

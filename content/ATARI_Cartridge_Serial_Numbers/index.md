@@ -1,3 +1,6 @@
+---
+title: ATARI Cartridge Serial Numbers
+---
 %%zebra-table  
 %%sortable  
 ||Title||Serial Num||Note  

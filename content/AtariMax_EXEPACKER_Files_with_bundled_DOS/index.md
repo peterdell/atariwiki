@@ -1,3 +1,6 @@
+---
+title: AtariMax EXEPACKER Files with bundled DOS
+---
 ### AtariMax EXEPACKER Files with bundled DOS  
   
 ## About  

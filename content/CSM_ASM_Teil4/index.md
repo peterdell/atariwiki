@@ -1,3 +1,6 @@
+---
+title: CSM_ASM_Teil4
+---
 # 6502 Programmieren - Teil 4  
 ### von R. Wilde  
   

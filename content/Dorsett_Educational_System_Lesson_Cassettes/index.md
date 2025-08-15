@@ -1,3 +1,6 @@
+---
+title: Dorsett Educational System Lesson Cassettes
+---
 # Dorsett Educational System Lesson Cassettes  
 Lloyd G. Dorsett (Dorsett Educational Systems) produced a lot of Educational System cassettes. Besides the 16 packages from Atari [Atari_Educational_System_Lesson_Cassettes](../Atari_Educational_System_Lesson_Cassettes/index.md), Lloyd G. Dorsett offered the 46 packages below, too. Each course has 16 programs on 8 cassettes.  
 Thanks to Michael Current, Thomas Cherryhomes, and Kay Savetz, it was possible to save these courses for generations to come. We can't thank you enough!  

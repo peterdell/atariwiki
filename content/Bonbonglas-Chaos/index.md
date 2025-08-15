@@ -1,3 +1,6 @@
+---
+title: Bonbonglas-Chaos
+---
 # Bonbonglas-Chaos DXG 5706 bzw. TXG 9506 (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
 Aus der Serie: "Spielend lernen mit Atari" ist dies die einzige noch fehlende Software. Jede Hilfe zur Vervollständigung der Serie ist auf das Äußerste willkommen! :-)))  
   

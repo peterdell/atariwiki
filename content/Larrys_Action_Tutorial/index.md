@@ -1,3 +1,6 @@
+---
+title: Larrys Action Tutorial
+---
 # Larry's Action! Tutorial  
 by Larry SerflatenA monthly addition to the SPACE club Newsletter originally appearing from January 1995 through March 1996Permission is granted to distribute any portion or all of my monthly contribution  
   
@@ -94,8 +97,8 @@ To correct the error, add the parenthesis after the word "stop" ("stop()") in th
 - LANGUAGE / Arithmetic Expressions  
 ** >TECH NOTE Using '*', '/', or 'MOD' will not work correctly on large CARD values.  
 ** LANGUAGE / Record Manipulations  
-** -TYPE idinfo=BYTE level,  
-** -TYPE idinfo=BYTE level  (omit comma)  
+** -TYPE idinfo=[[BYTE level,  
+** -TYPE idinfo=[[BYTE level  (omit comma)  
   
   
 - LANGUAGE / Advanced use of Extended Types  
@@ -200,7 +203,7 @@ Next month, Vo-cab-u-lary!
   
 ## 5. Vocabulary  
   
-Last month’s PrintF, in KEYBOARD TEST, does not need ^ between the ( and %C.  They got printed instead of the Esc character.  
+Last month’s PrintF, in KEYBOARD TEST, does not need ^[[ between the ( and %C.  They got printed instead of the Esc character.  
   
 In the LANGUAGE section of the ACTION! manual is a listing of the vocabulary of ACTION! system.  The words and symbols are listed in alphabetical order, I will list them by function;  
   

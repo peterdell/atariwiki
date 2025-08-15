@@ -1,3 +1,6 @@
+---
+title: Enhanced Basic
+---
 # Enhanced 6502 BASIC By Lee Davison.  
   
 - Project Name  : Enhanced Basic port for ATARI 8-Bit  

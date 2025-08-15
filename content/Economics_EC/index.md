@@ -1,3 +1,6 @@
+---
+title: Economics EC
+---
 # Dorsett Atari Economics EC ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Economics EC](https://archive.org/details/DorsettAtariEconomics)  

@@ -1,3 +1,6 @@
+---
+title: Wiki.jsp
+---
 # Welcome to the 3rd edition of the AtariWiki  
   
 ## Powered by your contribution  

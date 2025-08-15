@@ -1,3 +1,6 @@
+---
+title: CRSINH
+---
 ||R/W||Adr||Hex||Name||Description||OS||default  
 |R/W|752|$2F0|CRSINH|Cursordarstellung|all|0  
   

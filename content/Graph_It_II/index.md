@@ -1,3 +1,6 @@
+---
+title: Graph It II
+---
 # Graph It II (TXG9517) ; Copyright (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
   
 ## Kassetten-Images:  

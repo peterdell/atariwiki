@@ -1,3 +1,6 @@
+---
+title: BEWE DOS 1.30 Manual
+---
 # BW-DOS Version #30 - User Manual  
   
 By  BEWESOFT  

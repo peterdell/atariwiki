@@ -1,3 +1,6 @@
+---
+title: Integer Math
+---
 # Integer Math for 6502  
   
 ```

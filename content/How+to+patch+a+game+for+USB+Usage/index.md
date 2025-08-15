@@ -1,3 +1,6 @@
+---
+title: How+to+patch+a+game+for+USB+Usage
+---
 # How to patch a Game for USB Usage  
   
 All necessary files and tools are on the attached Disk image.  

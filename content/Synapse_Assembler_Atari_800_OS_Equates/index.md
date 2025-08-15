@@ -1,3 +1,6 @@
+---
+title: Synapse Assembler Atari 800 OS Equates
+---
 # Synapse Assembler Atari 800 OS Equates  
   
 General Information  

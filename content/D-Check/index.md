@@ -1,3 +1,6 @@
+---
+title: D-Check
+---
 # D:Check in ACTION!  
   
 General Information  

@@ -1,3 +1,6 @@
+---
+title: The Atari Accountant Series
+---
 # The Atari Accountant series, Copyright (C) 1981 by Atari, Inc. and BPI Systems, Inc. and Arthur Young & Co.  
   
   

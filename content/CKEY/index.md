@@ -1,3 +1,6 @@
+---
+title: CKEY
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |74|$004A|CKEY|Cassette boot request flag on coldstart|none|A  
 |1001|$03E9|CKEY|Cassette boot request flag on coldstart|none|X  

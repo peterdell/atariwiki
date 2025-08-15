@@ -1,3 +1,6 @@
+---
+title: APPLE II QForth
+---
 # APPLE II QForth  
   
 QForth 2.2 is an updated version of Toshiyasu Morita's original.  QForth is a small integer Forth for Apple IIe/IIc/IIgs computers.  It will not work with an Apple II+.  Unlike most Apple Forths, QForth uses normal ProDOS text files for source input.  It also has ProDOS file support as well as block disk access.  Version 2.2 fixes a couple of small bugs, adds about ten new words to extend the language, and alters the interpreter to suit my tastes.  

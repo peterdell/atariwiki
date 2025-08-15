@@ -1,3 +1,6 @@
+---
+title: LeftMenu
+---
 [Articles](../Articles/index.md)  
 ---
 [Hardware](../ArticlesHardware/index.md)  

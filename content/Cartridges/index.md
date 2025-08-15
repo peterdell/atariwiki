@@ -1,3 +1,6 @@
+---
+title: Cartridges
+---
 # All you ever wanted to know about: Atari Cartridges  
   
   

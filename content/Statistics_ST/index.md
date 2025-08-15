@@ -1,3 +1,6 @@
+---
+title: Statistics ST
+---
 # Dorsett Atari Statistics ST ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Statistics ST](https://archive.org/details/DorsettAtariStatistics)  

@@ -1,3 +1,6 @@
+---
+title: Drive + Display configuration
+---
 # Speedy 1050 Drive / Display configuration example  
   
 ```

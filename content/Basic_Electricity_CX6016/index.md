@@ -1,3 +1,6 @@
+---
+title: Basic Electricity CX6016
+---
 # Basic Electricity CX6016  
 ## donated by Allan Bushman: Allan, thousand thanks from the Atari community for your outstanding help! :-)  
 ## Boxcover:  

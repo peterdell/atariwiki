@@ -1,3 +1,6 @@
+---
+title: RTime8 Manual
+---
 # R-Time8 Manual  
   
 ![](attachments/RTime8.png)  

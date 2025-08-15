@@ -1,3 +1,6 @@
+---
+title: VT52 Terminal Emulator
+---
 # VT52 Emulator  
   
 The following is a very primitive vt52 emulator for the 800.  This actually  

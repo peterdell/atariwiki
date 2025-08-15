@@ -1,3 +1,6 @@
+---
+title: Sweet 16
+---
 # Sweet 16 - a virtual 16bit machine for the 6502 CPU  
   
 ## Implementations in this Wiki  
@@ -63,7 +66,7 @@ While writing Apple BASIC, I ran into the problem of manipulating the 16 bit poi
   
 My solution to this problem of handling 16 bit data, notably pointers, with an 8 bit microprocessor was to implement a non-existent 16 bit processor in software, interpreter fashion, which I refer to as SWEET16.  SWEET16 contains sixteen internal 16 bit registers, actually the first 32 bytes in main memory, labelled R0 through R15.  R0 is defined as the accumulator, R15 as the program counter, and R14 as a status register.  R13 stores the result of all COMPARE operations for branch testing.  The user accesses SWEET16 with a subroutine call to hexadecimal address F689.  Bytes stored after the subroutine call are thereafter interpreted and executed by SWEET16.  One of SWEET16's commands returns the user back to 6502 mode, even restoring the original register contents.  
   
-Implemented in only 300 bytes of code, SWEET16 has a very simple instruction set tailored to operations such as memory moves and stack manipulation.  Most opcodes are only one byte long, but since she runs approximately ten times slower than equivalent 6502 code, SWEET16 should be employed only when code is at a premium or execution is not.  As an example of her usefulness, I have estimated that about 1K byte could be weeded out of my 5K byte Apple-II BASIC interpreter with no observable performance degradation by selectively applying SWEET16. ~]  
+Implemented in only 300 bytes of code, SWEET16 has a very simple instruction set tailored to operations such as memory moves and stack manipulation.  Most opcodes are only one byte long, but since she runs approximately ten times slower than equivalent 6502 code, SWEET16 should be employed only when code is at a premium or execution is not.  As an example of her usefulness, I have estimated that about 1K byte could be weeded out of my 5K byte Apple-II BASIC interpreter with no observable performance degradation by selectively applying SWEET16. ~[]  
   
   
   
@@ -111,13 +114,13 @@ might not know...
 by Dick Sedgewick  
   
   
-Sweet 16 is probably the least used and least understood seed in the Apple ]~.  
+Sweet 16 is probably the least used and least understood seed in the Apple ]~[.  
   
 In exactly the same sense that Integer and Applesoft Basics are languages, SWEET 16 is a language. Compared to the Basics, however, it would be classed as low level with a strong likeness to conventional 6502 Assembly language.  
   
 To use SWEET 16, you must learn the language - and to quote "WOZ", "The opcode list is short and uncomplicated". "WOZ" (Steve Wozniak), of course is Mr. Apple, and the creator of SWEET 16.  
   
-SWEET 16 is ROM based in every Apple ]~ from $F689 to $F7FC. It has it's own set of opcodes and instruction sets, and uses the SAVE and RESTORE routines from the Apple Monitor to preserve the 6502 registers when in use, allowing SWEET 16 to be used as a subroutine.  
+SWEET 16 is ROM based in every Apple ]~[ from $F689 to $F7FC. It has it's own set of opcodes and instruction sets, and uses the SAVE and RESTORE routines from the Apple Monitor to preserve the 6502 registers when in use, allowing SWEET 16 to be used as a subroutine.  
   
 It uses the first 32 locations on zero page to set up its 16 double byte registers, and is therefore not compatible with Applesoft Basic without some additional efforts.  
   
@@ -227,7 +230,7 @@ By entering character strings and varying the number of bytes to be moved, the S
   
 Working with this demonstration program, and study of the text material will enable you to write SWEET 16 programs that perform additional 16 bit manipulations. The unassigned opcodes mentioned in the "WOZ Dream Machine" article should present a most interesting opportunity to "play".  
   
-SWEET 16 as a language - or tool - opens a new direction to Apple ]~ owners without spending a dime, and it's been there all the time.  
+SWEET 16 as a language - or tool - opens a new direction to Apple ]~[ owners without spending a dime, and it's been there all the time.  
   
 "Apple-ites" who desire to learn machine language programming, can use SWEET 16 as a starting point. With this text material to use, and less opcodes to learn, a user can quickly be effective.  
   
@@ -682,7 +685,7 @@ changed.
   
 NOTE: The effective address calculation is identical to that  
 for 6502 relative branches. The Hex add & Subtract features of  
-the APPLE ]~ monitor may be used to calculate displacements.  
+the APPLE ]~[ monitor may be used to calculate displacements.  
   
 ```
      d = $80  ea = PC + 2 - 128

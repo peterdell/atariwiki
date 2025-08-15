@@ -1,3 +1,6 @@
+---
+title: SKCTL
+---
 ||r/w||ADR||HEXADR||NAME||Description||Shadow||OS  
 |write|53775|$D20F|SKCTL|Serial Port Control|[SSKCTL](../SSKCTL/index.md)|all  
 |read|53775|$D20F|SKSTAT|Serial Port Status|[SSKCTL](../SSKCTL/index.md)|all  

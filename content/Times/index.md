@@ -1,3 +1,6 @@
+---
+title: Times
+---
 __*__ "times" ( n1 n2 -- n3 )  
   
   

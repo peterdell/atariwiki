@@ -1,3 +1,6 @@
+---
+title: ATA MON DXG 5724
+---
 # ATA MON DXG 5724 ; Copyright © 1983 ATARI Elektronik Vertriebs GmbH – Bebelallee 10 – 2000 Hamburg 60  
   
 ATA MON is a system monitor, which shows the registers and the flags of the 6502 processor at the current state, please see a screenshot below. Version 1.0 from J. Rued was long available in the community, but version 1.3 first was found in 2019.  

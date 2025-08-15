@@ -1,3 +1,6 @@
+---
+title: Buchstaben Lotterie
+---
 # Buchstabenlotterie - DXG 5705 ; Original: unreleased Milliken game 'Pop'N Spell' (RX8058)  
   
 Developers: uncredited for Edufun / Milliken.  

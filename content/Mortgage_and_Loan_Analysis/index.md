@@ -1,3 +1,6 @@
+---
+title: Mortgage & Loan Analysis
+---
 # Mortgage & Loan Analysis CX4115 (C) 1980 Atari, Inc. under license from Control Data Corporation  
 MORTGAGE COMPARISON PROGRAM  
   

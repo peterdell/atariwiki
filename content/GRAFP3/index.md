@@ -1,3 +1,6 @@
+---
+title: GRAFP3
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||SHADOW||OS  
 |Write| 53264 |$D010|GRAFP3|Graphics Shape for Player 3| |both  
 |Read| 53264 |$D010|TRIG0|Trigger 0|[STRIG0](../STRIG0/index.md)|both  

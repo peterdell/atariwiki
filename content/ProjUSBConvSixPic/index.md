@@ -1,3 +1,6 @@
+---
+title: ProjUSBConvSixPic
+---
 # USB Coding Workout 27.05.2006 in Frankfurt Heddernheim  
   
 Participants:  

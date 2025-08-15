@@ -1,3 +1,6 @@
+---
+title: PORTA
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |54016|$D300|PORTA| | [STICK0](../STICK0/index.md) [STICK1](../STICK1/index.md) | all  
   

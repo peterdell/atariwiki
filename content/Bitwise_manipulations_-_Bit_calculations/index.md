@@ -1,3 +1,6 @@
+---
+title: Bitwise manipulations - Bit calculations
+---
 # Bitwise manipulations - Bit calculations  
   
 In order to do calculations on the lowest level of machine language, it is a good idea to use some tools for this kind of work. AtariWiki introduces some of them:  

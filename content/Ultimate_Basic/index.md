@@ -1,3 +1,6 @@
+---
+title: Ultimate Basic
+---
 # The Ultimate Basic  
   
 ### Background  

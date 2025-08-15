@@ -1,3 +1,6 @@
+---
+title: Macro Assembler
+---
 # ATARI Macro Assembler (AMAC) DXG 8126; Copyright (C) 1981-1983 ATARI, Inc. & ATARI Elektronik Vertriebsgesellschaft mbH bzw. GmbH  
 Der Atari Macro Assembler ist eine Auskopplung aus dem ATARI CAMAC Assembler Ver 1.0A, welcher wiederum eine Auskoppelung aus dem 6502 Macro Assemblers der Firma [Sorcim](https://en.wikipedia.org/wiki/Sorcim) ist. Sorcim überließ Atari ihren 6502 Macro Assembler in Sublizenz. AMAC, wie der Macro Assembler für den Atari Privatanwender auch genannt wird, war der erste Assembler für den Atari, der in der Lage war, Macros zu verarbeiten. Er war sehr erfolgreich, weil lange Zeit nichts besseres auf dem Markt war.  
   

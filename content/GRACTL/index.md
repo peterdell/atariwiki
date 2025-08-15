@@ -1,3 +1,6 @@
+---
+title: GRACTL
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |write |53277 |$D01D|GRACTL|controls PM and Triggers|both  
   

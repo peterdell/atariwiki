@@ -1,3 +1,6 @@
+---
+title: CHRIS CRAWFORDS - ASSEMBLY LANGUAGE COURSE
+---
 This approach to assembly language is meant to give the reader a practical basic concept of what assembly language is and how it relates to the atari computer.  
   
 Chris Crawford is a self taught programmer that was interested in developing a computer wargame (s) simulation.  

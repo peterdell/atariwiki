@@ -1,3 +1,6 @@
+---
+title: How to setup an ACTION Development Disk
+---
 # How to setup an ACTION! Development Disk  
   
 Each Programmer has its own ideas how a development environment should look like. On this page you can find some ideas. If you are an ACTION! programmer feel free to add your favorite setup to this page:  

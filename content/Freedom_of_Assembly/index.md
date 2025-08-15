@@ -1,3 +1,6 @@
+---
+title: Freedom of Assembly
+---
 # Freedom of Assembly  
   
 Julian V. Noble  

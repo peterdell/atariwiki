@@ -1,3 +1,6 @@
+---
+title: QuickMagazin 10
+---
 # Quick Magazin 10  
   
 ### Aricles  

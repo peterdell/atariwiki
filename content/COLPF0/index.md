@@ -1,3 +1,6 @@
+---
+title: COLPF0
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |53270|$D016|COLPF0|Color Register 0|40 ($28)|[COLOR0](../COLOR0/index.md) |all  
 ---

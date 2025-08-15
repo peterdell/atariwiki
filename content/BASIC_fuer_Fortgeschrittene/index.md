@@ -1,3 +1,6 @@
+---
+title: BASIC für Fortgeschrittene
+---
 # BASIC für Fortgeschrittene ; Copyright (C) 1984 Atari Elektronik Vertriebsgesellschaft mbH  
   
   

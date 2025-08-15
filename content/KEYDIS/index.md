@@ -1,3 +1,6 @@
+---
+title: KEYDIS
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |621|$026D|KEYDIS|Keyboard disable|none|X  
   

@@ -1,3 +1,6 @@
+---
+title: SIZEM
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53260 |$D00C|SIZEM|Size of Missiles 0-3|both  
 |Read| 53260 |$D00C|P0PL|Collision Player 0 with Player x|both  

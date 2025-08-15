@@ -1,3 +1,6 @@
+---
+title: PENH
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS||SHADOW  
 |R|54284|$D40C|PENH|horizontale Position des Lightpens|both|[LPENH](../LPENH/index.md) 564/$234  
   

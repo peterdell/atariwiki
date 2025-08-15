@@ -1,3 +1,6 @@
+---
+title: Basic plus plus
+---
 # Basic++  
 Copyright (C) by Thomas Richter  
   

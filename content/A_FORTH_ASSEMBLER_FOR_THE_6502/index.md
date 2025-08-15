@@ -1,3 +1,6 @@
+---
+title: A FORTH ASSEMBLER FOR THE 6502
+---
 # A FORTH ASSEMBLER FOR THE 6502  
   
 by William F. Ragdale  

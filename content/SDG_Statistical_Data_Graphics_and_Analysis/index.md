@@ -1,3 +1,6 @@
+---
+title: SDG Statistical Data Graphics & Analysis
+---
 # SDG Statistical Data Graphics & Analysis  
 __von Claudio Fernandez Loquenz__  
   

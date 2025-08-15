@@ -1,3 +1,6 @@
+---
+title: SIZEP0
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53256 |$D008|SIZEP0|Size Player 0|both  
 |Read| 53256 |$D008|M0PL|Collision Missile 0 with Player|both  

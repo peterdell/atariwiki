@@ -1,3 +1,6 @@
+---
+title: Basic Algebra CX6017
+---
 # Basic Algebra CX6017  
 ## Content:  
 ![](attachments/Basic+Algebra+CX6017.jpg)  

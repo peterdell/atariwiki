@@ -1,3 +1,6 @@
+---
+title: OpCodes
+---
 # OpCodes for 6502, 65C02 and 65C816 microprocessors  
   
 ## OpCodes in an Excel sheet  

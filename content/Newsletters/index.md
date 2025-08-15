@@ -1,3 +1,6 @@
+---
+title: Newsletters
+---
 # Newsletters  
 ## OSS Newsletters  
 - Summer 1983 ; [PDF](attachments/OSS_Newsletter-Summer_1983.pdf) ; Many thanks to Allan Bushman!  

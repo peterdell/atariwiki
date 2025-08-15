@@ -1,3 +1,6 @@
+---
+title: How to create new pages in the Atari Wiki
+---
 # How to create new pages in the Atari Wiki  
 __ First, you need an account on the AtariWiki__  
   
@@ -219,7 +222,7 @@ text2
   
 HTML funktioniert nicht.  
 Um einen Codeblock darzustellen, setzt du diesen zu Beginn in dreifach geschweifte Klammern '{' und am Ende '}'.  
-Falls eckige Klammern (]) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md) erscheint als [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md).  
+Falls eckige Klammern ([]) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md) erscheint als [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md).  
   
   
 ### BIN-Image  

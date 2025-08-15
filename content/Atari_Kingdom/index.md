@@ -1,3 +1,6 @@
+---
+title: Atari Kingdom
+---
 # Atari Kingdom CX4102 ; Copyright (C) 1980 Atari, Inc. ; please use with BASIC cartridge inserted  
 Atari Kingdom CX4102 is one of the first simulation game from Atari with a short source code, easy to read and understand. It is a good choice to get a first view into simulations.  
 ## CAS-images  

@@ -1,3 +1,6 @@
+---
+title: GPRIOR
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |623| $026F|GPRIOR|Priority Selection Register| [PRIOR](../PRIOR/index.md) |all  
   

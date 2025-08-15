@@ -1,3 +1,6 @@
+---
+title: PMBASE
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |write |54279 |$D407|PMBASE|PM data base address (MSB)|both  
   

@@ -1,3 +1,6 @@
+---
+title: Read High-Speed SIO from Speedy 1050 drive
+---
 # Speeday 1050 example -- read high speed SIO routine from drive  
   
 ```

@@ -1,3 +1,6 @@
+---
+title: TextFormattingRules
+---
 ```
 ----       = make a horizontal ruler. Extra '-' is ignored.
 \\         = force a line break

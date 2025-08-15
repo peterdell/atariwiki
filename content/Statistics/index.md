@@ -1,6 +1,9 @@
+---
+title: Statistics
+---
 ### Page view statistics  
   
-{PageViewPlugin show='list' refer='Categories' sort='count' entries='50' exclude='Main,*Pages'  
+[{PageViewPlugin show='list' refer='Categories' sort='count' entries='50' exclude='Main,*Pages'  
   
 %%graphBars  
 || Name  || Count  

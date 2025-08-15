@@ -1,3 +1,6 @@
+---
+title: RAMSIZ
+---
 ||ADR||HEXADR||NAME||Description||OS  
 |740|$02E4|RAMSIZ|RAM Size, high byte/number of pages|both  
   

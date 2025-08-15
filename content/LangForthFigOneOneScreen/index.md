@@ -1,3 +1,6 @@
+---
+title: LangForthFigOneOneScreen
+---
 # FigForth 1.1  
   
 ```

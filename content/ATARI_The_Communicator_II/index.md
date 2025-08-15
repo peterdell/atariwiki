@@ -1,3 +1,6 @@
+---
+title: ATARI The Communicator II
+---
 # ATARI The Communicator II CX488  
 The ATARI The Communicator II box was sold in the USA only along with the Telelink II cartridge.  
 Box content:  

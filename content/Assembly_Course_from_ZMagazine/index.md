@@ -1,3 +1,6 @@
+---
+title: Assembly Course from ZMagazine
+---
 # Assembly Language Course (from Z*Magazine)  
   
   

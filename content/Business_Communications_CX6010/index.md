@@ -1,3 +1,6 @@
+---
+title: Business Communications CX6010
+---
 # Business Communications CX6010  
 ## Box-images  
 ![](attachments/Atari_Business_Communications_box.jpg)  

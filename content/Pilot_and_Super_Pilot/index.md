@@ -1,3 +1,6 @@
+---
+title: Pilot & Super Pilot
+---
 # Pilot & Super Pilot  
 PILOT is a computer language mainly developed for kids for the easy of learning.  
 - [Pilot](../Pilot/index.md)  

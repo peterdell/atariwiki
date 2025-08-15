@@ -1,3 +1,6 @@
+---
+title: Ram-Disk under OS-ROM for XL XE
+---
 ### Ram-Disk under OS-ROM for XL XE - Article from german Magazine "Happy Computer"  
   
 ![](attachments/Atari800XLRamdisk_1_0001.png)  

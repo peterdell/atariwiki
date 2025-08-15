@@ -1,3 +1,6 @@
+---
+title: Atari 800-XL-XE System Label Listing
+---
 ATARI 800 EQUATE LISTING  
   
 This listing is based on the original release of Operating System,  

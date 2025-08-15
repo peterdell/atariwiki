@@ -1,3 +1,6 @@
+---
+title: CRITIC
+---
 ||ADR||HEXADR||NAME||Description||OS  
 |66|$0042|CRITIC|Critical I/O Flag|both  
   

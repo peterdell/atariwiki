@@ -1,3 +1,6 @@
+---
+title: Plus
+---
 __+__ "plus" ( n1 n2 -- n3 )  
   
   

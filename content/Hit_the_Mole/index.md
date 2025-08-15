@@ -1,3 +1,6 @@
+---
+title: Hit the Mole
+---
 # Hit the mole  
   
 %%tabbedSection  

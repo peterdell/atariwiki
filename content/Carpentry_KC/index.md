@@ -1,3 +1,6 @@
+---
+title: Carpentry KC
+---
 # Dorsett Atari Carpentry KC ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Carpentry KC](https://archive.org/details/DorsettAtariCarpentry)  

@@ -1,3 +1,6 @@
+---
+title: Stars in 3D
+---
 ### General Information  
 Author: 	Donald E. Glover  
 Language: 	ACTION!   

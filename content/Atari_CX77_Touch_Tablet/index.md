@@ -1,3 +1,6 @@
+---
+title: Atari CX77 Touch Tablet
+---
 # Atari Touch Tablet CX77  
 - Previewed June 1983, introduced with AtariArtist January 1984  
 - Shipped with RX8053 AtariArtist cartridge and CX8104 DOS 2.0S disk (Illustrator product by Island Graphics, Atari Touch Tablet version)  

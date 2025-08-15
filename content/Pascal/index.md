@@ -1,3 +1,6 @@
+---
+title: Pascal
+---
 # Pascal for the Atari  
   
 ## [Kyan_Pascal](../Kyan_Pascal/index.md) ; Copyright (C) 1985 Kyan Software  

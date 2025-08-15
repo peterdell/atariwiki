@@ -1,1 +1,4 @@
+---
+title: Applications
+---
 The goal of this chapter is to provide the user with information regarding the capabilities of Atari concerning major applications for science & finance purposes. Furthermore, templates and enhancements of the programs should be offered here.  

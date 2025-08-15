@@ -1,3 +1,6 @@
+---
+title: Atari DOS 2
+---
 # Atari DOS 2 or DOS II Version 2.x  
   
 There were many variations with DOS 2. Here are just the most used ones.  

@@ -1,3 +1,6 @@
+---
+title: Diskette Pack
+---
 # Diskette Pack ; Copyright (C) 1985 by Atari Corp. UK  
 This compilation contains 2 disks with The Home Filing Manager, The Pay-Off and an Atari Demonstration program.  
   

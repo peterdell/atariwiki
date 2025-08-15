@@ -1,3 +1,6 @@
+---
+title: U.S. History CX6001
+---
 # U.S. History CX6001  
 ## Content:  
 ![](attachments/U.S.+History+CX6001.jpg)  

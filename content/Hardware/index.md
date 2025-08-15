@@ -1,3 +1,6 @@
+---
+title: Hardware
+---
 # Atari Hardware  
   
 ## Cartridges  

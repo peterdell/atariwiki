@@ -1,3 +1,6 @@
+---
+title: Direct Jump into code without automatic complete
+---
 # Speedy 1050 Direct Jump example  
   
 ```

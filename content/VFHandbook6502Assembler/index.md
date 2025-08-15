@@ -1,3 +1,6 @@
+---
+title: VFHandbook6502Assembler
+---
 ### People 6502 Forth Assembler  
   
 (Work in progress, pending translation)  
@@ -28,7 +31,7 @@ cc stands for "condition code". <ausdruck1> is executed if cc is true, otherwise
 ```
 can also be omitted. The analogue in Forth is IF ... ELSE THEN  
   
-Please note, that must stand before {{{?}}} always (!) A condition code. There will also be no checks for proper nesting of control structures.  
+Please note, that must stand before {{{?[}}} always (!) A condition code. There will also be no checks for proper nesting of control structures.  
   
 Other control structures are:  
 (((  

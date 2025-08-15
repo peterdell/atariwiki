@@ -1,3 +1,6 @@
+---
+title: Atari Demo disk
+---
 # Atari Demo disk (Disk: DXN 411)  
 Atari Benelux created several demos to be used in Dutch and Flemmish stores. Looking at the title of one of the demos (Side B), this demo is probably also used during the Dutch Atari Homecomputer show on tour.  
   

@@ -1,3 +1,6 @@
+---
+title: Atari ATASCII Table
+---
 # Ascii Atascii Table  
   
 by Florian Dingler  

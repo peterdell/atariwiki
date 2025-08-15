@@ -1,3 +1,6 @@
+---
+title: HexDump
+---
 # Dump - Print the contents of binary files in hexadecimal and ATASCII  
   
 General Information  

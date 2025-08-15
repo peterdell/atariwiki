@@ -1,3 +1,6 @@
+---
+title: World History (Western) CX6004
+---
 # World History (Western) CX6004  
 ## Content:  
 ![](attachments/World+History+%28Western%29+CX6004.jpg)  

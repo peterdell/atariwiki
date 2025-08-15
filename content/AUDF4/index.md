@@ -1,3 +1,6 @@
+---
+title: AUDF4
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53766|$D206|POT6|Pot/paddle 6|630|all  
 |Write|53766|$D206|AUDF4| Audio channel 4 frequency |none|all  

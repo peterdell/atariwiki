@@ -1,3 +1,6 @@
+---
+title: Get High Speed parameter
+---
 # Get High Speed parameter  
   
 ```

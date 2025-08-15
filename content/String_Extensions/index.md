@@ -1,3 +1,6 @@
+---
+title: String Extensions
+---
 # String Extensions for VolksForth  
   
 ## S"  

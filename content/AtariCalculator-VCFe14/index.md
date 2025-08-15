@@ -1,3 +1,6 @@
+---
+title: AtariCalculator-VCFe14
+---
 # Atari Calculator @ VCFe 14 (2013 Munich)  
   
 ## Slides:  

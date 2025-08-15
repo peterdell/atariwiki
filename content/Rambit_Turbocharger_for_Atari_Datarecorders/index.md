@@ -1,3 +1,6 @@
+---
+title: Rambit Turbocharger for Atari Datarecorders
+---
 # Rambit Turbocharger for Atari Datarecorders  
   
 ![](attachments/Rambit_logo.jpg)  

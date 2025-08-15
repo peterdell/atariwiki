@@ -1,3 +1,6 @@
+---
+title: Action Workshop 1
+---
 # Action! Workshop 1 organized by [ABBUC](https://abbuc.de)  
   
 24th October 2010 "[Unperfekthaus](https://www.unperfekthaus.de/)" Essen  

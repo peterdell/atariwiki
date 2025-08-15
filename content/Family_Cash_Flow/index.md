@@ -1,3 +1,6 @@
+---
+title: Family Cash Flow
+---
 # Family Cash Flow (APX-20080) (C) 1981 Jerry Falkenhan and Atari, Inc.  
 Family Cash Flow (APX-20080) was first published via APX and later distributed from Atart itself. Please see Family Finances I (Cash Flow) from [Family_Finances](../Family_Finances/index.md) for further infos.  
 ## ATR-Image:  

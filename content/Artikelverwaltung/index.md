@@ -1,3 +1,6 @@
+---
+title: Artikelverwaltung
+---
 # Artikelverwaltung  
 ## ATR-Images  
 - [Artikelverwaltung_A.atr](attachments/Artikelverwaltung_A.atr)  

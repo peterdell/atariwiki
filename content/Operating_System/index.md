@@ -1,3 +1,6 @@
+---
+title: Operating System
+---
 # ATARI 8-Bit Operating System  
   
 [Versions](../OS_Versions/index.md)  

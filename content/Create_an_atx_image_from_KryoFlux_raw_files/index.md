@@ -1,3 +1,6 @@
+---
+title: Create an atx image from KryoFlux raw files
+---
 # Create an atx image from KryoFlux raw files ; Copyright (C) 2014-2015 Avery Lee, All Rights Reserved  
 The [KryoFlux](https://kryoflux.com/) is an incredible device for backup, not only for Atari, but for Commodore, Atari ST, Amiga an so on.  
 Besides the KryoFlux stuff, please see the link above, you need this incredible software from Avery Lee, author of [Altirra](http://www.virtualdub.org/altirra.html):  

@@ -1,3 +1,6 @@
+---
+title: Dark Star
+---
 ### General Information  
 Author: Michael Mitchell  
 Language: ACTION!  

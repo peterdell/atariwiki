@@ -1,3 +1,6 @@
+---
+title: Family Finances
+---
 # Atari Family Finances CX421, also as part in 'The Home Manager Kit' or 'The Home Manager' CX418 version 2  
 This two disk program, Family Cash Flow, Family Budget, will help you itemize and analyze information on your Personal Finances.  Family cash flow tracks as many as 100 expense entries in 13 categories, 20 income entries in 13 categories for up to 12 months.  You can create and print out a Family Budget using the information from your Family Cash Flow files.  Menu driven and color coded screens. 32 KB RAM Minimum and the Atari Basic cartridge are required.  
 ## ATR-Images:  

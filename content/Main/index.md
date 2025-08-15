@@ -1,3 +1,6 @@
+---
+title: Main
+---
 # Welcome to the AtariWiki (Version 3.1)  
   
 Please update your bookmarks: The main domain for the AtariWiki is now [https://atariwiki.org](https://atariwiki.org)  

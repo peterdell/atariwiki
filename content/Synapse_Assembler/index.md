@@ -1,3 +1,6 @@
+---
+title: Synapse Assembler
+---
 # Synapse Assembler 'SynAssembler' by Steve Hales. Copyright (C) 1982 SYNAPSE Software and Steve Hales  
   
   

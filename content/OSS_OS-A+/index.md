@@ -1,3 +1,6 @@
+---
+title: OSS OS-A+
+---
 # Optimized Systems Software OS/A+ Version 1.1; Copyright (C) 1981 OSS, Inc.  
 ## ATR image  
 - [OSS_OS-A__1.2e_and_EASMD_1.0.atr](attachments/OSS_OS-A__1.2e_and_EASMD_1.0.atr)  

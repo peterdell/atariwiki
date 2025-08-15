@@ -1,3 +1,6 @@
+---
+title: CAS to WAV and WAV to CAS
+---
 # CAS to WAV and WAV to CAS  
   
 The command to convert a WAV file to a CAS file with a8cas (PC version) is:  

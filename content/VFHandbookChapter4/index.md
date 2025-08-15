@@ -1,3 +1,6 @@
+---
+title: VFHandbookChapter4
+---
 # Program structures  
   
   
@@ -402,7 +405,7 @@ In previous solutions are still a number of comparisons between a case-index and
   
 If FORTH-words are to be stored in tables, there is the problem that a FORTH-word in his call usually runs the compiled words. When a table is not desired, and there is reasonably required that the starting address of the table is given in order to use the case index as an offset in this table.  
   
-This can in populous FORTH either in the traditional way of solving ~] and ~ or the state-FORTH-specific __Create: __:  
+This can in populous FORTH either in the traditional way of solving ~] and ~ [or the state-FORTH-specific __Create: __:  
   
 ```
 Create glass 

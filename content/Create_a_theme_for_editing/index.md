@@ -1,3 +1,6 @@
+---
+title: Create a theme for editing
+---
 # create a theme for editing  
 In order to find a right theme for editing, please see the below code for making your personal best choice  
 ## ATR-Image  

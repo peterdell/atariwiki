@@ -1,3 +1,6 @@
+---
+title: AUSTRO.BASE
+---
 # AUSTRO.BASE ; Copyright (C) 1985 AUSTRO.COM und Walter Lederer, Gerhard Lederer & Johann Wosp  
 AUSTRO.COM ist eine Firma aus Österreich, die in den 1980er Jahren wirklich gute(!) Software für die Atari 8-Bit-Computer entwickelt hatte. Trotz guter Beziehungen von AtariWiki.org zu unseren Nachbarn sowie Befragung von Mitgliedern und Usern aus Österreich selber, ist es uns nicht gelungen, Kontakt zu AUSTRO.COM oder Walter Lederer, Gerhard Lederer & Johann Wosp herzustellen. Daher stellen wir, bis auf Widerruf, zunächst einmal das vor, was wir noch retten konnten. Dies betrifft sowohl die Software, als auch die Handbücher. Das AUSTRO-Projekt ist somit als laufendes Projekt zu verstehen, dass der Hilfe von vielen Usern bedarf, die noch Software oder Handbücher von AUSTRO.COM besitzen und zwecks Digitalisierung kurzfristig und leihweise zur Verfügung stellen könnten, damit auch dieses Projekt abgeschlossen werden kann. AUSTRO.COM gehört genau so zu Österreich, wie die Mozart-Kugeln und die Sacher-Torte. Ein Wegfall wäre daher ein schmerzlicher Verlust für alle.  
   

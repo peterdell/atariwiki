@@ -1,3 +1,6 @@
+---
+title: Make protected BASIC code visible
+---
 # Make protected BASIC code visible  
 Sometimes Atari BASIC is protected and the user isn't able to see inside the source code. This is a main disadvantage, especially, when the original code is damaged. In order to preserve the software genuine, there is a need to solve this problem.  
 ![](attachments/Quelltext.jpg)  

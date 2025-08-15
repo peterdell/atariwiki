@@ -1,3 +1,6 @@
+---
+title: Nucleus
+---
 # Nucleus ; Copyright (C) 1988 by Atari Corp. UK  
 Nucleus is a shoot 'm up game released by Atari Corp. UK in 1988. The game is programmed by Paul D. Marshall.  
   

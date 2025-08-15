@@ -1,3 +1,6 @@
+---
+title: QuickMagazin 12
+---
 # Quick Magazin 12  
   
 ### Articles  

@@ -1,3 +1,6 @@
+---
+title: VolksForthStackOperations
+---
 # Stack-Operations  
   
 - [drop](../drop/index.md)  

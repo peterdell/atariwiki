@@ -1,3 +1,6 @@
+---
+title: SpeedCalc
+---
 # SpeedCalc for Atari ; Copyright (C) COMPUTE! and Kevin Martin & Charles Brannon, Program Editor  
   
 ![](attachments/Startscreen.jpg)  

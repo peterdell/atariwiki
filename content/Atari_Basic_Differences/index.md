@@ -1,3 +1,6 @@
+---
+title: Atari Basic Differences
+---
 # Differences between Basic Dialects  
 # Vergleich der Verschiedenen Basic Dialekte:  
 %%tabbedSection  

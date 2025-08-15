@@ -1,3 +1,6 @@
+---
+title: Saveexe
+---
 Heute kommen wir zu einem Thema, dem es keine direkte Ensprechung in BASIC Welt gibt: Erstellen von ausführbaren COM-Dateien. Basic (und auch Turbo-Basic) erlauben nicht das Erstellen von direkt ausführbaren Maschinenprogrammen (COM-Programme). Hierzu musste man kommerzielle BASIC-Compiler kaufen, die dann mehr schlecht als recht funktionieren.  
   
 Unter Forth ist dies schon möglich.  

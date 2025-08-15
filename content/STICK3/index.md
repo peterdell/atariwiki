@@ -1,3 +1,6 @@
+---
+title: STICK3
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |635| $027B|STICK3|Joystick 4| [PORTB](../PORTB/index.md) |A  
   

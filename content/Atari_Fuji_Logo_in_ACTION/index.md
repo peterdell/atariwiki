@@ -1,3 +1,6 @@
+---
+title: Atari Fuji Logo in ACTION
+---
 General Information   
 Author: 	Leo Laporte   
 Language: 	ACTION!   

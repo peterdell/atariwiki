@@ -1,3 +1,6 @@
+---
+title: ACTION Logo
+---
 General Information   
 Author: 	Clinton Parker   
 Language: 	ACTION!   

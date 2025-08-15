@@ -1,3 +1,6 @@
+---
+title: Advan Basic
+---
 # Advan Basic  
 Advan BASIC is an Atari BASIC-compatible language with several extensions. Unlike most BASICs, Advan is a compiler, not an interpreter. As a result, it runs about 10 to 15 times as fast as Atari BASIC. Unlike most compilers, Advan's editor is interactive, not a simple text editor, so the source code is syntax checked and tokenized as it is entered.  
   

@@ -1,3 +1,6 @@
+---
+title: 4_color_character
+---
 # 4-color Characters  
 The color of each pixel (4 in a line instead of the usual 8) depends on the bit combination of the byte in the character definition.  
   

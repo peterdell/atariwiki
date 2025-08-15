@@ -1,3 +1,6 @@
+---
+title: Atari Home Finance
+---
 # Atari Home Finance with Checkbook Cartridge CXL8001 showing Personal Finance after starting: status: unclear  
 The status of this cartridge is not known for sure. According to Michael Current (Atari faq): Home Finance (later: Personal Finance; never shipped). On the other hand, we could see here:  
   

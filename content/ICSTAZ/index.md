@@ -1,3 +1,6 @@
+---
+title: ICSTAZ
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||SHADOW||OS  
 |35|$0023|ICSTAZ| | |  
   

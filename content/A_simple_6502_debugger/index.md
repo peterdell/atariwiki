@@ -1,3 +1,6 @@
+---
+title: A simple 6502 debugger
+---
 # PSC Simple Debugger  
   
   

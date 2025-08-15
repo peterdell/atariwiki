@@ -1,3 +1,6 @@
+---
+title: Mod
+---
 __MOD__ "modulo" ( n1 n2 -- n3 )  
   
   

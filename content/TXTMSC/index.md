@@ -1,3 +1,6 @@
+---
+title: TXTMSC
+---
 ||DEC||HEX||NAME||OS  
 |660,661|$294,$295|TXTMSC|both  
   

@@ -1,3 +1,6 @@
+---
+title: Boot from Cassette
+---
 # Casette boot  
   
 ## CAS Image  

@@ -1,3 +1,6 @@
+---
+title: 3dMaze
+---
 ![](attachments/3dmaze.gif)  
   
 3D Maze Screenshot (Stefan Haubenthal)  

@@ -1,3 +1,6 @@
+---
+title: PM examples
+---
 ### PMG examples.  
   
 Because some people do have problems every time they try to set PMG, here is simple example showing "A" letter using PMG with mentioning which setting is obligatory and which not.  

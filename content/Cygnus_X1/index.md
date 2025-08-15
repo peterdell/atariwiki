@@ -1,3 +1,6 @@
+---
+title: Cygnus X1
+---
 # Cygnus X1 - TX 9051 ; Copyright (C) 1989 by Atari Corp. UK  
 Cygnus X1 is an shoot 'm up game released by Atari Corp. UK in 1989. This game looks extremely similar to the Ski Slalom game of Winter Events by Anco.  
   

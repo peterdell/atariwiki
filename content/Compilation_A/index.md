@@ -1,3 +1,6 @@
+---
+title: Compilation A
+---
 # Compilation A (TXP7100)  
 Atari Corp UK released this compilation cassette in 1987. This cassette contains rereleases of the games Star Raiders, Asteroids, Missile Command, Centipede and Airstrike 2. Each game features a loading screen by Atari Corp UK which states the copyright date of 1987. The version on this tape of Centipede is not the regular 400/800 version but the version which was made for the 5200.  
   

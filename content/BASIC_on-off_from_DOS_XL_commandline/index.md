@@ -1,3 +1,6 @@
+---
+title: BASIC on-off from DOS XL commandline
+---
   
   
 # BASIC on / off from DOS XL commandline  

@@ -1,3 +1,6 @@
+---
+title: APPMHI
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |14,15|$000E,$000F|APPMHI|__APP__lications __M__emory __HI__gh limit| |all  
   

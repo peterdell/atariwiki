@@ -1,3 +1,6 @@
+---
+title: Fast text output on Graphics 0 Screen without OS
+---
 # Fast text output on Graphics 0 Screen without OS  
   
 General Information  

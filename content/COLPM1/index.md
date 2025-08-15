@@ -1,3 +1,6 @@
+---
+title: COLPM1
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |W|53267|$D013|COLPM1|Color of Player and Missile 1|0|[PCOLR1](../PCOLR1/index.md)|all  
 |R|53267|$D013|TRIG3|Joystick Trigger 3|n/a|[STRIG3](../STRIG3/index.md)|all  

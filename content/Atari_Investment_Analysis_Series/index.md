@@ -1,3 +1,6 @@
+---
+title: Atari Investment Analysis Series
+---
 # Atari Investment Analysis Series: (C) 1980 Atari, Inc. under license from Control Data Corporation  
 - [Bond Analysis CX8106 (1980) (Basic)](../Bond_Analysis/index.md)  
   

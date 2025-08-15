@@ -1,3 +1,6 @@
+---
+title: Atari Energy Czar
+---
 # Atari Energy Czar CX4121 ; (C) 1980 Atari, Inc. & Chris Crawford  
 Become a national hero! The President has just appointed you Energy Czar and given you full power to guide the nation through the energy crisis. Promote or restrict supplies of energy resources, raise or lower taxes on them, regulate prices, and tighten or loosen environmental controls. But to stay in power, you must keep people happy and maintain sufficient energy supplies to meet demand. The results of your decisions show up in the growth rate, of the economy, the inflation rate and whether or not the public thinks you’re doing a good job. Full instruction guide included. Ages 12 to adult. Requires the ATARI 410 Program Recorder and the ATARI BASIC cartridge. Minimum RAM requirement: 16K RAM.  
   

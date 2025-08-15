@@ -1,3 +1,6 @@
+---
+title: Atari Learning System Pascal Version 2.0
+---
 # Atari Learning System Pascal Version 2.0: AED80018, 48K Diskettes, 2 disk drives required  
   
 ![](attachments/Pascal_2.0.jpg)  

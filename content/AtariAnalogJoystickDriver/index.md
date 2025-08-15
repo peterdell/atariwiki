@@ -1,3 +1,6 @@
+---
+title: AtariAnalogJoystickDriver
+---
 # Atari USB analog Joystick Driver  
   
 Tested with a Logitec Attack 3 analog Joystick. Other analog Joysticks might work. Please send feedback.  

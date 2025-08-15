@@ -1,3 +1,6 @@
+---
+title: Mathematics for Electronics ME
+---
 # Dorsett Atari Mathematics for Electronics ME ; Copyright (C) 1981 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Effective Writing EW](https://archive.org/details/DorsettAtariMathematicsForElectronics)  

@@ -1,3 +1,6 @@
+---
+title: 6502 Assembler in Forth
+---
   
   
 # 6502 Assmbler in Forth (fig style)  

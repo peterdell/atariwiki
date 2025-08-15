@@ -1,3 +1,6 @@
+---
+title: SIZEP2
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53258 |$D00A|SIZEP2|Size Player 2|both  
 |Read| 53258 |$D00A|M2PL|Collision Missile 2 with Player|both  

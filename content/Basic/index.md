@@ -1,3 +1,6 @@
+---
+title: Basic
+---
 # BASIC  
   
 [BASIC](http://en.wikipedia.org/wiki/BASIC) (an acronym for Beginner's All-purpose Symbolic Instruction Code) is a family of high-level programming languages. The [original BASIC](https://en.wikipedia.org/wiki/Dartmouth_BASIC) was designed in 1964 by John George Kemeny and Thomas Eugene Kurtz at Dartmouth College in New Hampshire, USA to provide computer access to non-science students. Many versions of BASIC, with widely differing features and syntax, emerged during the 1960s and 70s.  

@@ -1,3 +1,6 @@
+---
+title: VFHandbuchKapitel5
+---
 # Ein- / Ausgabe im volksFORTH  
   
   

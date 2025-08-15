@@ -1,3 +1,6 @@
+---
+title: Atari Graph It I & II
+---
 # Atari Graph It I & II CX4109 (englisch) bzw. TXG9517 (deutsch), Copyright (C) 1980 - 1983 by:Atari, Inc.; Lane Winner; Howard D. Siebenrock und Atari Elektronik-Vertriebsgesellschaft mbH  
   
 Graph It ist ein Basic-Programm zur grafischen Darstellung von Zahlen von 1980. Im Wesentlichen setzt das Programm dort an, wo heutzutage der Diagramm-Assistent in Excel verwendet wird.  

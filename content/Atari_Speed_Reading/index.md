@@ -1,3 +1,6 @@
+---
+title: Atari Speed Reading
+---
 # Atari Speed Reading CX4126 (C) 1981 Atari, Inc. ; please use with BASIC cartridge.  
 ## Introduction  
 Atari Speed Reading is not just another Voice & Data program from Atari. It is the(!) template how a Voice & Data cassette has to be digitized. Peter Dell and Stefan Meyer had made a masterpiece here, showing us, how this can be done. First, we have a marvelous recording with the best parameters, which made the nowadays standard for recording Atari cassettes. Second, we have a manual in a top condition to quickly and easy find entries for the users and third, we have here an incredible good separation of the Voice & Data layers for further needs.  

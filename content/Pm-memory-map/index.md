@@ -1,3 +1,6 @@
+---
+title: Pm-memory-map
+---
 # Memory Map for Player Missile Graphics  
 ||single line resolution|| | || double line resolution||  
 ||dec ||hex ||data ||dec ||hex  

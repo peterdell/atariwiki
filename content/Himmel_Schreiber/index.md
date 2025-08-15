@@ -1,3 +1,6 @@
+---
+title: Himmel Schreiber
+---
 # Himmel Schreiber RX8059 bzw. DXG 5704 ; (C) 1983 Milliken Publishing Co. & (C) 1984 Atari Inc.  
 Diese deutsche Lernsoftware scheint verloren in der Zeit. Jeder Hinweis auf sie, wird gerne entgegen genommen. Vorab vielen lieben Dank! :-)  
   

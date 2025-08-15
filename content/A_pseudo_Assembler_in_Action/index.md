@@ -1,3 +1,6 @@
+---
+title: A pseudo Assembler in Action
+---
 ### A pseudo Assembler in Action!  
   
 General Information   

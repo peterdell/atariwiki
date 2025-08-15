@@ -1,3 +1,6 @@
+---
+title: Greed
+---
 # Greed  
   
 General Information  

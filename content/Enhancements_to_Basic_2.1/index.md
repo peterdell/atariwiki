@@ -1,3 +1,6 @@
+---
+title: Enhancements to Basic 2.1
+---
 # Enhancements to Basic 2.1 ; Copyright (C) 1985 by First Byte  
   
 __Enhancements to Basic__ adds a number of editing and debugging commands to [Atari BASIC](../_Atari_BASIC/index.md), as well as offering direct access to some disk functions without having to exit out of BASIC to DOS. It is very similar to The Monkey Wrench in concept, but is loaded from disk rather than the right cartridge slot, which did not exist on most machines.  

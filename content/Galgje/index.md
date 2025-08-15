@@ -1,3 +1,6 @@
+---
+title: Galgje
+---
 # Galgje  
 Galgje is the Dutch translation of Hangman and was published by Atari International (Benelux) B.V. in 1983.  
   

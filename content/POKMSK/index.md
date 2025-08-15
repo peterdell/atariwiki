@@ -1,3 +1,6 @@
+---
+title: POKMSK
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |16|$10|POKMSK|Interrupt-Maske für POKEY |[IRQEN](../IRQEN/index.md)|  
   

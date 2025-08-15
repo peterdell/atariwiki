@@ -1,3 +1,6 @@
+---
+title: C Style Strings
+---
 # C Style Strings  
   
 General Information  

@@ -1,3 +1,6 @@
+---
+title: PADDL6
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |630|$0276|PADDL6|Paddle 7|[POT6](../POT6/index.md) |all  
 # Values  

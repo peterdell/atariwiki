@@ -1,3 +1,6 @@
+---
+title: Rastaconverter
+---
 # Rastaconverter  
   
 Rastaconverter is a Windows/Linux based utility which iteratively converts ordinary jpeg/gif/png files into executable files which display the pictures natively on the Atari 8-bit. Rastaconverter uses all the power of display list interrupts and player missile graphics to allow the maximum number of colours possible on the screen concurrently.  

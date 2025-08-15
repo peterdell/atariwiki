@@ -1,3 +1,6 @@
+---
+title: COLBK
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |53274|$D01A|COLBK|Background Color Register|0 ($00)|[COLOR4](../COLOR4/index.md) |all  
 ---

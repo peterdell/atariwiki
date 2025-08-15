@@ -1,3 +1,6 @@
+---
+title: How to find the revision number of Atari Basic
+---
 # How to find the revision number of Atari Basic  
   
 With the BASIC cartridge put into your 400/800 or BASIC switched on, type (e.g. after the READY prompt)  

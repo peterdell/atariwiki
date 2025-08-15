@@ -1,3 +1,6 @@
+---
+title: Zinsen und Tilgung
+---
 # Zinsen und Tilgung TXG5114 (C) 1981 Atari Elektronik Vertriebsgesellschaft GmbH, (C) 1980 Control Data Corporation und Atari, Inc.  
 Atari Zinsen und Tilgung ist die deutsche Version von [Mortgage_and_Loan_Analysis](../Mortgage_and_Loan_Analysis/index.md) von 1980. Das deutsche Handbuch ist leider verschollen, jeder Hinweis darauf ist stets sehr willkommen. :-) Daher kann hier nur die englische Originalanleitung angeboten werden.  
 ## Handbuch  

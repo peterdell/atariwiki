@@ -1,3 +1,6 @@
+---
+title: Rechtschreibtrainer
+---
 # Rechtschreibtrainer DXG 5713 ; Copyright (C) 1983 Atari Elektronik Vertriebsgesellschaft mbH  
   
   

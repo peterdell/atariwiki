@@ -1,3 +1,6 @@
+---
+title: Atari Kaartsysteem
+---
 # Atari Kaartsysteem  
 Atari Kaartsysteem is the Dutch translation of The Home Filing Manager and was published by Atari International (Benelux) B.V. in 1982.  
   

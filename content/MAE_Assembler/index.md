@@ -1,3 +1,6 @@
+---
+title: MAE Assembler
+---
 # MAE Assembler (C) 1996 by John Harris  
   
 __MAE__, short for "Macro Assembler/Editor", was a cross-platform 6502 assembler from Eastern House Marketing of New Jersey. The company was mostly involved in products for the PET and later Commodore platforms. MAE appears to have originated on the PET before being ported to the Apple II and Atari. John Harris had previously worked on the PET and handled the port of the Atari version, and over the years large portions of the original code were changed.  

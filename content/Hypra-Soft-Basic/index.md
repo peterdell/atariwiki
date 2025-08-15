@@ -1,3 +1,6 @@
+---
+title: Hypra-Soft-Basic
+---
 # Hypra-Soft-Basic  
 V1.0 (C) 1989 von Uwe Röder  
   

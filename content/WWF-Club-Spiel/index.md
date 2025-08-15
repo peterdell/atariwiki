@@ -1,3 +1,6 @@
+---
+title: WWF-Club-Spiel
+---
 # WWF-Club-Spiel  
 Das WWF-Club-Spiel wurde in der Fernsehsendung: "WWF-Club" des WDR als Call-In-Spiel vorgestellt. Der Anrufer konnte mit telefonischen Kommandos: "hoch", "runter", "rechts" und "links" einen Avatar steuern, der eine Aufgabe zu erfüllen hatte. War dies gelungen, so erhielt man einen Preis. Das Spiel lief als Steckmodul in einem Atari 800. Die Technik, welche mittels Sprache den Steuerknüppel bewegte, ist unbekannt. Der Autor des Spiels ist ebenfalls unbekannt. Es ist lediglich bekannt, dass er zur Zeit der Sendung in Hattingen wohnte. Jeder Hinweis auf das Spiel oder den Autor ist stets und gerne willkommen!  
   

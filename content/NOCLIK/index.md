@@ -1,3 +1,6 @@
+---
+title: NOCLIK
+---
 ||Adr||hex||Name||Description||OS  
 |731|$02DB|NOCLIK|keyboard click on/off|XL/XE  
   

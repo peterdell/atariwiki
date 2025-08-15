@@ -1,3 +1,6 @@
+---
+title: APX-20051 Cosmatic Atari Development Package
+---
 # APX-20051 Cosmatic Atari Development Package Copyright (C) 1982 by John R. Powers, III  
 ## OVERVIEW from the manual  
 The COSMATIC ATARI is a cross-assembler for 1802 assembly language. The program takes your 1802 assembly language program and produces hex machine instructions and data. The 1802 microprocessor is used in many popular hobby computers and games because of its low cost and ease of implementation.  

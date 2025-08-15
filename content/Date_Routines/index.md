@@ -1,3 +1,6 @@
+---
+title: Date Routines
+---
 # Date Routines  
   
 Library of routines supporting the input, storage and manipulation of dates.  

@@ -1,3 +1,6 @@
+---
+title: Killer Chess
+---
 ### General Information  
 Author: Greg Knauss  
 Language: ACTION!  

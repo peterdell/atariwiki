@@ -1,3 +1,6 @@
+---
+title: PCOLR2
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||SHADOW OF||OS  
 |706|$02C2|PCOLR2|Color of Player and Missile 2|[COLPM2](../COLPM2/index.md) |all  
   

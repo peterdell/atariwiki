@@ -1,3 +1,6 @@
+---
+title: ForthFlooredArithmetics
+---
 # Floored Arithmetics  
   
   

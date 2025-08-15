@@ -1,3 +1,6 @@
+---
+title: TXTCOL
+---
 ||DEC||HEX||NAME||OS  
 |657,658|$291,$292|TXTCOL|all  
   

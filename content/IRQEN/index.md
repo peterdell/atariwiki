@@ -1,3 +1,6 @@
+---
+title: IRQEN
+---
 ||r/w||ADR||HEXADR||NAME||Description||Shadow||OS  
 |write|53774|$D20E|IRQEN|[POKMSK](../POKMSK/index.md)|Interrupt Request Enable|all  
 |read|53774|$D20E|IRQST|[POKMSK](../POKMSK/index.md)|Interrupt Request Status|all  

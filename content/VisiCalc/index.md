@@ -1,3 +1,6 @@
+---
+title: VisiCalc
+---
 # VisiCalc (Visual Calculator) from Dan Bricklin and Bob Frankston ; Copyright (C) 1980- Software Arts, Personal Software Inc. (later named VisiCorp.), Paladin Software, Lotus Software, Lotus Development Corporation and finally IBM ; in order of license dissemination  
 ## The main goal of this chapter is to provide the user with informations and templates regarding the killer application VisiCalc.  
 Dan Bricklin and Bob Frankston gave the AtariWiki the following info: [How I got permission to post VisiCalc (1999)](http://static.userland.com/userLandDiscussArchive/msg008583.html) ; Thank you very much Dan Bricklin and Bob Frankston for your outstanding application of all times. We really appreciate your help and support so much. :-)))  

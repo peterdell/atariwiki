@@ -1,3 +1,6 @@
+---
+title: CONSOL
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||OS  
 |read/write |53279 |$D01F|CONSOL|Console keys and internal speaker (400/800)|7|all  
   

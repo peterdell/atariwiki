@@ -1,3 +1,6 @@
+---
+title: QuickMagazin 4
+---
 # Quick Magazin 4  
   
 ### Articles  

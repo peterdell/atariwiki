@@ -1,3 +1,6 @@
+---
+title: Bond Analysis
+---
 # Bond Analysis CX8106 (C) 1980 Atari, Inc. under license from Control Data Corporation  
 The Atari Bond Analysis program contains two different Bond programs, Bond Yield and Bond Price! With the Bond Analysis programs you will be able to calculate the yield to maturity of a bond given the annual coupon, the par value or redemption price at maturity, the current market price, and the length of time until maturity. You can also calculate the price and accrued interest for a bond, given the coupon, par value, time until maturity, and the forecasted yield.  
   

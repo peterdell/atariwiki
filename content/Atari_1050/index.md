@@ -1,3 +1,6 @@
+---
+title: Atari 1050
+---
 # Atari 1050 Drive  
   
 ### Maintenance  

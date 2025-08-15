@@ -1,3 +1,6 @@
+---
+title: XFD Disk Transfer tool
+---
 # XFD Transfer  
   
 re-released 17.3.2003 under the terms of the GNU Public License (GPL), see http://www.gnu.org  

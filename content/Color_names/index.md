@@ -1,3 +1,6 @@
+---
+title: Color names
+---
 # Colors  
   
 ## Color names  

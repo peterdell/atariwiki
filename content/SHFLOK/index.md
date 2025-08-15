@@ -1,3 +1,6 @@
+---
+title: SHFLOK
+---
 ||Adr||Hex||Name||Description||OS||default  
 |702|$02BE|SHFLOK|Keyboard lock state|all|$40/64  
   

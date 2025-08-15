@@ -1,3 +1,6 @@
+---
+title: Atari Schreiber
+---
 # Atari Schreiber RXG/DXG 8036 ; Copyright (C) 1983-1985 Atari Elektronik Vertriebs GmbH  
 ## Beschreibung  
 Ganz gleich ob Sie ein Student, Geschäftsmann oder Hobby-SchriftsteIler sind - der ATARI SCHREIBER hilft Ihnen, Ihre Referate, Reporte und sonstige Schriftstücke schnell und somit zeitsparend zu erstellen. Sie werden sogar Freude an diesen „öden“ Tätigkeiten gewinnen. Das ermüdende Schreiben und Umschreiben von Entwürfen entfällt. Mit dem ATARI SCHREIBER editieren und reorganisieren Sie Ihr Schriftstück solange, bis Sie damit zufrieden sind.  

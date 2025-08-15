@@ -1,3 +1,6 @@
+---
+title: ValFORTH
+---
 # valFORTH (C) 1982 by Valpar International ; AtariWiki is licensed to publish valFORTH in 2016  
   
   

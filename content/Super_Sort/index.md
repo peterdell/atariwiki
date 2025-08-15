@@ -1,3 +1,6 @@
+---
+title: Super Sort
+---
 # Super Sort DXG 5730 ; Copyright (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
 Diese Software schien verloren, doch dank Marceau Mallard von [Atarinside](http://atarinside.dyndns.org/blog/index.php/atarinside-items/super-sort/) wurde sie gefunden und digitalisiert! Marceau, Deutschland steht tief in Deiner Schuld! Vielen lieben Dank für die Rettung dieses Programms. :-))) Bitte weiter so.  
   

@@ -1,3 +1,6 @@
+---
+title: PTRIG0
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |636| $027C|PTRIG0|Paddle 1 Trigger| [PORTA](../PORTA/index.md) |all  
 0 when trigger pressed  

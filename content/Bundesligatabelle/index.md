@@ -1,3 +1,6 @@
+---
+title: Bundesligatabelle
+---
 # Atari Bundesligatabellen DXG 55005 (C) 1984 Atari Elektronik-Vertriebsgesellschaft mbH  
 ## Handbuch  
 - [Atari-Bundesligatabellen, DXG 55005](attachments/Atari-Bundesligatabellen_DXG_55005.pdf) ; Größe: 18,9 MB ; Handbuch in deutscher Sprache ; Mega-Danke an Dirk Tröger (Yellow Man) für das Scannen des sehr seltenen Handbuchs. Dirk, wir stehen tief in Deiner Schuld! :-)))  

@@ -1,3 +1,6 @@
+---
+title: INITAD
+---
 ||ADR||HEXADR||NAME||OS  
 |738,739|$02E2,$02E3|INITAD|both  
   

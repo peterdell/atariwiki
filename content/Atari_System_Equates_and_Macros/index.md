@@ -1,3 +1,6 @@
+---
+title: Atari System Equates and Macros
+---
 # Atari 6502 System Equations and Macros  
   
 The origin of this file is not clear. The filename and file-path naming suggest it comes from a crosscompiler (maybe PDP-11 or VAX). It might be the system equates used by Atari internally on their crosscompilers.  

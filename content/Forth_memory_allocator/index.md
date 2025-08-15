@@ -1,3 +1,6 @@
+---
+title: Forth memory allocator
+---
 ```
  From: wmb@MITCH.ENG.SUN.COM
  Newsgroups: comp.lang.forth

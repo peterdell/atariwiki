@@ -1,3 +1,6 @@
+---
+title: ATARI TELELINK II
+---
 # ATARI TELELINK II Copyright (C) 1982 Atari, Inc.  
 First we deeply thank Bill Lange for providing and scanning this ultra rare, extreme hard to find manual! Bill, we really can't thank you enough for your help in this case. In the name of the community: 'Thank you so much!'.  
   

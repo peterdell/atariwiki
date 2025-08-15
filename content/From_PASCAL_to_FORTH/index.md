@@ -1,3 +1,6 @@
+---
+title: From PASCAL to FORTH
+---
 # FROM PASCAL TO FORTH  
   
 Leonard Morgenstern  
@@ -165,7 +168,7 @@ can be added if desired.
   
 2. Defining offsets. In Pascal, it is possible to  
 point to any desired part of an array element. For example, if the  
-elements of an array a]  consist of an identification number and a  
+elements of an array a[]  consist of an identification number and a  
 string name, one can define the record so that  a.number[2](../2/index.md) and  
 a.name[2](../2/index.md)  point to these quantities for the second individual. In  
 Forth, one would use offsets.  

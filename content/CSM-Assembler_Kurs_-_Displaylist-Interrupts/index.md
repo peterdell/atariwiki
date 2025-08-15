@@ -1,3 +1,6 @@
+---
+title: CSM-Assembler Kurs - Displaylist-Interrupts
+---
 # Der Display-List-Interrupt  
   
 von Uwe Röder, CSM APRIL 1990  

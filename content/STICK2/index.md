@@ -1,3 +1,6 @@
+---
+title: STICK2
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |634| $027A|STICK2|Joystick 3| [PORTB](../PORTB/index.md) |A  
   

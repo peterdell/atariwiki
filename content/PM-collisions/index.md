@@ -1,3 +1,6 @@
+---
+title: PM-collisions
+---
 # Collision Registers  
 Player to Player Collisions [P0PL](../P0PL/index.md) [P1PL](../P1PL/index.md) [P2PL](../P2PL/index.md) [P3PL](../P3PL/index.md)  
   

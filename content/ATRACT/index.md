@@ -1,3 +1,6 @@
+---
+title: ATRACT
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |77|$004D|ATRACT|Attract mode timer and flag|none|All  
   

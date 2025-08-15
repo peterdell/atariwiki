@@ -1,3 +1,6 @@
+---
+title: SDrive-MAX
+---
 # SDrive-MAX by KBr  
 # English  
 SDrive-MAX by [KBr](http://www.kbrnet.de/projekte/sdrive-max/index.html) is an incredible smart device, which is highly recommended by AtariWiki. All data is stored on a mircoSD card (up to 32 GB and FAT32 format). The device offers the user 4 drives at one time and is connected to the Atari with a SIO cable. No further power supply is needed. Please ignore the power plug:  

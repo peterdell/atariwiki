@@ -1,3 +1,6 @@
+---
+title: Atari SX212 Modem
+---
 # Atari SX212 Modem ; Copyright (C) 1987 Keith Ledbetter and Atari Corp. with portions from OSS and ACS  
 ## Manual  
 - [Atari SX Express! Communications Program User's Manual](attachments/Atari_SX_Express_Communications_Program_User_s_Manual.pdf) ; size: 3.4 MB  

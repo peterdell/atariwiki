@@ -1,3 +1,6 @@
+---
+title: Demo Pretty
+---
 ### General Information  
 Author: Brian Abbot  
 Language: ACTION!  

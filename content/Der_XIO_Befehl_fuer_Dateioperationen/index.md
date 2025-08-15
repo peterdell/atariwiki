@@ -1,3 +1,6 @@
+---
+title: Der XIO Befehl fuer Dateioperationen
+---
 # Der XIO-Befehl für Dateioperationen  
   
   

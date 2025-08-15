@@ -1,3 +1,6 @@
+---
+title: U.S. History HS
+---
 # Dorsett Atari U.S. History HS ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari U.S. History HS](https://archive.org/details/DorsettAtariUSHistory)  

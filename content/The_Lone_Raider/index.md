@@ -1,3 +1,6 @@
+---
+title: The Lone Raider
+---
 # The Lone Raider (cassette EC 2001)  
 The Lone Raider is a game that was released by Atari Inc. Software Products Division, Slough, Berks UK. It was originally published in the silver plastic box in 1983. The box and the manual contain instructions in English, French, German, Dutch, Spanish and Italian. In 1985 Atari Corp. Software Products Division, Slough, Berks UK rereleased the game under the label "Atarisoft" as a budget cassette in English only.  
   

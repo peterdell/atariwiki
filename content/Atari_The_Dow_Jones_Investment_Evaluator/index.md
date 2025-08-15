@@ -1,3 +1,6 @@
+---
+title: Atari The Dow Jones Investment Evaluator
+---
 # Atari The Dow Jones Investment Evaluator CX412  
 ## Sold in the US only. Just works with a modem and a stand by-telephone-line to Wall Street  
 ## CX8124 Dow Jones Investment Evaluator  

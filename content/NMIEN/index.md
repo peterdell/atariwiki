@@ -1,3 +1,6 @@
+---
+title: NMIEN
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS||DEFAULT VALUE  
 |read only|54286|$D40E|NMIEN|Non Maskable Interrupt Enable|both|64/$40  
   

@@ -1,3 +1,6 @@
+---
+title: Computer Chess & European Countries and Capitals
+---
 # Computer Chess & European Countries and Capitals ; Copyright (C) 1985 by Atari Corp. UK  
 This tape is a compilation of Computer Chess and European Countries and Capitals on one tape by Atari Corp. UK. In contrast to the original US version of European Countries and Capitals of 1980, this cassette contains only the version with the game and instructions. European Countries and Capitals uses the dual audio format.  
   

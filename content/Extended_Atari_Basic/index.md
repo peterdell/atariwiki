@@ -1,3 +1,6 @@
+---
+title: Extended Atari Basic
+---
 # Extended Atari Basic Version 1.1 (BASIC/XA) ; Copyright (C) 1982 by Thomas D. Newton  
   
 EXTENDED ATARI BASIC (BASIC/XA) helps you write programs in ATARI BASIC. It can tell you what variables you have used in your program, their values and dimensions, and which lines use them. BASIC/XA also lets you change variable names, delete a range of lines from your program, renumber your program, and check your program for bad GOTO statements and syntax errors.  

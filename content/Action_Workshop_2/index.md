@@ -1,3 +1,6 @@
+---
+title: Action Workshop 2
+---
 # Action! Workshop 2 October 2011  
   
 Please find attached the disk used for the 2nd ACTION! workshop  

@@ -1,3 +1,6 @@
+---
+title: CHIP-Special
+---
 # CHIP-Special 1-4  
 Die Spezialausgaben der Zeitschrift CHIP enthielten stets sehr gute BASIC-Programme, die wir dem Leser nicht vorenthalten möchten. Siehe dazu auch die Seite von Mr. Bacardi: [Atari XL Basic Listings](http://ataribasiclistings.mygamesonline.org/), die wir sehr empfehlen! :-))) Vielen lieben Dank an Mr. Barcardi, das ist eine Wahnsinnsarbeit! Bitte weiter so! :-)))  
   

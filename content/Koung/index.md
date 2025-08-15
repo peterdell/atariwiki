@@ -1,3 +1,6 @@
+---
+title: Koung
+---
 # Koung  
   
 A simple PONG like game written in Quick  

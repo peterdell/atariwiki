@@ -1,3 +1,6 @@
+---
+title: Supervisory Skills CX6003
+---
 # Supervisory Skills CX6003  
 ## Content:  
 ![](attachments/Supervisory+Skills+CX6003.jpg)  

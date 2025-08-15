@@ -1,3 +1,6 @@
+---
+title: Topic list
+---
 # Topics  
   
 [4 color text](../4_color_character/index.md)  

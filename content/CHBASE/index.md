@@ -1,3 +1,6 @@
+---
+title: CHBASE
+---
 ||DEC||HEX||NAME||SHADOW  
 |54281|$D409|CHBASE|[CHBAS](../CHBAS/index.md)  
   

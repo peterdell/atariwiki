@@ -1,3 +1,6 @@
+---
+title: ForthAsciiDefinition
+---
 # ASCII - Entering ASCII Literals inline  
   
 Vierte Dimension 1/1985, by DR. med.dent. Greiner  

@@ -1,3 +1,6 @@
+---
+title: Atari Calculator
+---
 # Atari Calculator CX8102  
   
 The Atari Calculator is an advanced non-programmable as well as programmable calculator that supports RPN, ALG and ALGN calculation modes. Calculator goes far beyond the limits of Atari Basic’s mathematical capabilities, precision and has no bugs.  

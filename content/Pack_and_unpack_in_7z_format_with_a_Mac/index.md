@@ -1,3 +1,6 @@
+---
+title: Pack and unpack in 7z format with a Mac
+---
 # Pack and unpack in 7z format with a Mac  
 First open the Terminal app and type in:  
   

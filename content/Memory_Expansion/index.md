@@ -1,3 +1,6 @@
+---
+title: Memory Expansion
+---
 ## "Games" that support more than 64k RAM:  
   
 - Adalmar - Falk Buettner, 64k Ramdisk, block E [1](../1/index.md) (german language!)  

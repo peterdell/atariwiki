@@ -1,3 +1,6 @@
+---
+title: Home Inventory
+---
 # Home Inventory ; Copyright (C) 1982 RLM Micro Systems  
 Thanks to Wade Ripkowski of the InverseAtascii podcast for the manual and disk scans! :-)))  
 ## ATR-Images  

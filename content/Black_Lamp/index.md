@@ -1,3 +1,6 @@
+---
+title: Black Lamp
+---
 # Black Lamp - TX 9049 ; Copyright (C) 1989 by Atari Corp. UK  
 Black Lamp is a platform game, originally published by Firebird Software for the Amiga, Atari ST, Commodore 64 and ZX Spectrum computers in 1988, and later published by Atari Corporation for the Atari 8-bit family in 1989. The game is programmed by Ivan Mackintosh and Richard Munns. The soundtrack was composed by Richard Munns.  
   

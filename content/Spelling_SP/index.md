@@ -1,3 +1,6 @@
+---
+title: Spelling SP
+---
 # Dorsett Atari Spelling SP ; Copyright (C) 1982 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Spelling SP](https://archive.org/details/DorsettAtariSpelling)  

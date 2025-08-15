@@ -1,3 +1,6 @@
+---
+title: Logo
+---
 # Logo Programming Language  
   
 ## Startscreen  

@@ -1,3 +1,6 @@
+---
+title: PALNTS
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |98|$0062|PALNTS|PAL NTSC Flag|none|X  
   

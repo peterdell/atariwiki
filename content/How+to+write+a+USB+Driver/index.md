@@ -1,3 +1,6 @@
+---
+title: How+to+write+a+USB+Driver
+---
 # How to write a new USB HID Driver  
   
 ## The USB Device  

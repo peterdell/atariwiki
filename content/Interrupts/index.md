@@ -1,3 +1,6 @@
+---
+title: Interrupts
+---
 [VBI_Vertical_Blank_Interrupt](../VBI_Vertical_Blank_Interrupt/index.md)  
   
 [DLI Display List Interrupt](../Displaylist_topics/index.md)  

@@ -1,3 +1,6 @@
+---
+title: PLATO
+---
 # PLATO (Programmed Logic for Automated Teaching Operation)  
   
 %%tabbedSection  

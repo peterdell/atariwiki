@@ -1,3 +1,6 @@
+---
+title: Programmeren... Hoe Doe Je Dat (Deel 2)
+---
 # Programmeren... Hoe Doe Je Dat (Deel 2)(Cassette: TXN 4106)  
 Programmeren... Hoe Doe Je Dat (Deel 2) is the Dutch translation of An Invitation To Programming (Part 2) and was published by Atari International (Benelux) B.V. in 1980. The cassette uses the dual audio format.  
   

@@ -1,3 +1,6 @@
+---
+title: Great Classics CX6009
+---
 # Great Classics CX6009  
 Donated by Kay Savetz; Kay, thank you so much to bring this artifact from the dark to the light! We really appreciate your help! :-)))  
 ## Content:  

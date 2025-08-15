@@ -1,3 +1,6 @@
+---
+title: Displaylist_topics
+---
 [SDLSTL](../SDLSTL/index.md), [SDLSTH](../SDLSTL/index.md) Shadow register of pointer to display list  
   
 [DLISTL](../DLISTL/index.md), [DLISTH](../DLISTL/index.md) Pointer to display list  

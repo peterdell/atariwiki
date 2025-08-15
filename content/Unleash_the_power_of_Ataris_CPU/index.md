@@ -1,3 +1,6 @@
+---
+title: Unleash the power of Ataris CPU
+---
 ### Unleash the power of Ataris CPU  
   
 By Ed Stewart  

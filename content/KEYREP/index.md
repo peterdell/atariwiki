@@ -1,3 +1,6 @@
+---
+title: KEYREP
+---
 ||Adr||hex||Name||description||OS  
 |730|$02DA|KEYREP|rate of key repeat|XL/XE  
   

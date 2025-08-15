@@ -1,3 +1,6 @@
+---
+title: Atari 822 Thermal Printer
+---
 # Atari 822 Thermal Printer  
 ## Manual  
 - [Atari 822 Thermal Printer-Operator's Manual](attachments/atari_822_operators_manual.pdf) ; Thanks to Bill lange for scanning. :-)  

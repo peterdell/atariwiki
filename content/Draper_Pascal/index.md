@@ -1,3 +1,6 @@
+---
+title: Draper Pascal
+---
 # DRAPER PASCAL Version 2.1 ; Copyright (C) 1989 by Norm Draper ; For the Atari 400, 800, XL, or XE series computers  
   
   

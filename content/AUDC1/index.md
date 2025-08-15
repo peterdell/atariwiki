@@ -1,3 +1,6 @@
+---
+title: AUDC1
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53761|$D201|POT1|Pot/paddle 1|625|all  
 |Write|53761|$D201|AUDC1| Audio channel 1 control|none|all  

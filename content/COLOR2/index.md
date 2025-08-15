@@ -1,3 +1,6 @@
+---
+title: COLOR2
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |710|$02C6|COLOR2|Color Register 2|148 ($94)|[COLPF2](../COLPF2/index.md) |all  
   

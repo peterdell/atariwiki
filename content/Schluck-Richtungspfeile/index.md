@@ -1,3 +1,6 @@
+---
+title: Schluck-Richtungspfeile
+---
 # Schluck-Richtungspfeile TXG 9502 (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH  
   
 ## Handbuch  

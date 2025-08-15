@@ -1,3 +1,6 @@
+---
+title: Simple Blitter
+---
 # Simple Blitter Routine  
   
 this is the BETA Version of a simple Blitter Routine for Mirko Sobe (AtariXLE, BOSS X).  

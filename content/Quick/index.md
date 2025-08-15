@@ -1,3 +1,6 @@
+---
+title: Quick
+---
 # Quick  
 Copyright (C) 1989 RAINDORF SOFT & Andreas Binner and Harald Schönfeld  
   

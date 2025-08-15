@@ -1,3 +1,6 @@
+---
+title: Atari Educational System Lesson Cassettes
+---
 # Atari Educational System:  
 ## Images:  
 ![](attachments/Atari+Educational+System+CXL+4001-1.jpg)  

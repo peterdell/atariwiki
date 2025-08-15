@@ -1,3 +1,6 @@
+---
+title: COLPF1
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |53271|$D017|COLPF1|Color Register 1|202 ($CA)|[COLOR1](../COLOR1/index.md) |all  
 ---

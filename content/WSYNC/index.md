@@ -1,3 +1,6 @@
+---
+title: WSYNC
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |W|54282|$D40A|WSYNC|Stops CPU until end of scanline is reached|all  
   

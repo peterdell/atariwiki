@@ -1,3 +1,6 @@
+---
+title: Relocatable Jumps
+---
 # Relocatable Jumps  
   
 General Information  

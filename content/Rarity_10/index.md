@@ -1,3 +1,6 @@
+---
+title: Rarity 10
+---
 # Rarity 10 and above up to impossible  
 ![](attachments/rarity_10.png)  
 This chapter is intended to make an outlook for programs which must exist, but seem to be lost over the decades. If you have any hint, idea or whatever else to help us to digitize this for generations to come, please let us know.  

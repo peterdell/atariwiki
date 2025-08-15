@@ -1,3 +1,6 @@
+---
+title: Quick Demo Disks
+---
 # Quick Demo Disks  
   
 This are some Disks with Demos demonstrating the QUICK Capabilities.  

@@ -1,3 +1,6 @@
+---
+title: An Invitation To Programming
+---
 # An Invitation To Programming (cassette CX 4101)  
 Atari Corp UK rereleased part one of this series under the label "Atarisoft" as a budget cassette in 1985. Atari UK changed the copyright date for lesson one to 1985 (see screenshot one), but lessons 2 to 5 still have the old copyright date of 1979.  
   

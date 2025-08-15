@@ -1,3 +1,6 @@
+---
+title: Working with Numbers MN
+---
 # Dorsett Atari Mathematics (Numbers) Working with Numbers MN ; Copyright (C) 1983 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Mathematics (Numbers) Working with Numbers MN](https://archive.org/details/DorsettAtariMathematicsNumbers)  

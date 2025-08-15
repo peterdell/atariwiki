@@ -1,3 +1,6 @@
+---
+title: Pong
+---
 # Pong ; Copyright (C) 1986 ANALOG Computing & Gary S. Domrow  
 With the game Pong from 1972 it all begun. Here we have a clone of the game from Gary S. Domrow published via ANALOG Computing. The source code is written with MAC/65 from OSS, Inc..  
   

@@ -1,3 +1,6 @@
+---
+title: InterLisp commands
+---
 # Commands collected and documented by UNIXcoffee928  
   
 on [AtariAge](http://www.atariage.com/forums/index.php?showtopic=116093)  

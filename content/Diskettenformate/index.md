@@ -1,3 +1,6 @@
+---
+title: Diskettenformate
+---
 # Disk formats / Diskettenformate  
   
 ||Format||Sides||Tracks/Diskside||KBit||Recording||Bytes/Sector||Sector/Track||Disksize||ATR Size 1)  

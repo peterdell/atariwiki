@@ -1,3 +1,6 @@
+---
+title: Atari DOS XE
+---
 # Atari DOS XE (C) Atari 1988  
   
 ## Manual:  

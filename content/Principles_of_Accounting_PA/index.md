@@ -1,3 +1,6 @@
+---
+title: Principles of Accounting PA
+---
 # Dorsett Atari Principles of Accounting PA ; Copyright (C) 1982 Dorsett Educational Systems, Inc.  
 ## Source from archive.org  
 - [Dorsett Atari Principles of Accounting PA](https://archive.org/details/DorsettAtariPrinciplesOfAccounting)  

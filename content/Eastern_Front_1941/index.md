@@ -1,3 +1,6 @@
+---
+title: Eastern Front 1941
+---
 # Eastern Front (1941)  
 Copyright (C) 1981-1983 by Chris Crawford, Atari, Inc. and (APX-10050) ; includes source code (APX-20095), scenario editor (APX-20233) and front scenarios (APX-10232) & (APX-20232)  
   

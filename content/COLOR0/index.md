@@ -1,3 +1,6 @@
+---
+title: COLOR0
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |708|$02C4|COLOR0|Color Register 0|40 ($28)|[COLPF0](../COLPF0/index.md) |all  
   

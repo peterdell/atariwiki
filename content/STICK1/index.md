@@ -1,3 +1,6 @@
+---
+title: STICK1
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |633| $0279|STICK1|Joystick 2| [PORTA](../PORTA/index.md) |all  
   

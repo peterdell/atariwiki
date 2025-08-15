@@ -1,3 +1,6 @@
+---
+title: Basic Code
+---
   
 # Intention of the Basic Code site  
 # Absicht der Basic Code Seite  

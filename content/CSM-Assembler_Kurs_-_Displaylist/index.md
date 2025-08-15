@@ -1,3 +1,6 @@
+---
+title: CSM-Assembler Kurs - Displaylist
+---
 # Assembler für Fortgeschrittene  
   
 von Uwe Röder, CSM 02/1990  

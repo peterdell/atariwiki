@@ -1,3 +1,6 @@
+---
+title: A65 Assembler
+---
 # A65 Assembler ; Copyright (C) 1984, 1986, 1989 by Charles W. Marslett  
   
 All rights reserved. Permission granted to copy, modify or execute this program for noncommercial purposes only.  

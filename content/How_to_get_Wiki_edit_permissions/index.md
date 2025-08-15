@@ -1,3 +1,6 @@
+---
+title: How to get Wiki edit permissions
+---
 # How to get Wiki edit permissions  
   
 Wiki pages are subject to spam. In order to have control over who is posting content in this wiki, each authenticated user must be member of the "Edit" group in order to be able to create new page or edit existing pages.  

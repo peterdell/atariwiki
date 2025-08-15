@@ -1,3 +1,6 @@
+---
+title: CSM_ASM_Teil12
+---
 # 6502 Programmieren - Teil 12  
 ### von Uwe Röder  
   

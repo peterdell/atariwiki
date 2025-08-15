@@ -1,3 +1,6 @@
+---
+title: ATARI Diagnostic Test Tape
+---
 # ATARI Diagnostic Test Tape (FD100008)  
   
 From the ATARI 1010 Cassette Recorder Field Service Manual we find on page 3-1 the existence of ATARI Diagnostic Test Tape (FD100008). On page 3-5 we find the instructions on how to do the READ/WRITE verify test on the ATARI 1010 Cassette Recorder.  

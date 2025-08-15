@@ -1,3 +1,6 @@
+---
+title: Super SALT
+---
 # Super SALT 2.05 ; Copyright (C) 1983 Atari, Inc.  
   
 ## ROM-Image  

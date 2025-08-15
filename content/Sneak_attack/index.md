@@ -1,3 +1,6 @@
+---
+title: Sneak attack
+---
 ### General Information  
 Author: David Plotkin  
 Language: ACTION!  

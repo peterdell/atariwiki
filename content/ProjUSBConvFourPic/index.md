@@ -1,3 +1,6 @@
+---
+title: ProjUSBConvFourPic
+---
 # Pictures of the Coding Session in Bad Schoenborn  
   
 19-21. August 2005  

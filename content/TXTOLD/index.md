@@ -1,3 +1,6 @@
+---
+title: TXTOLD
+---
 ||DEC||HEX||NAME||OS  
 |662-667|$296-$29B|TXTOLD|both  
   

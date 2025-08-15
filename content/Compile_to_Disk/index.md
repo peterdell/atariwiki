@@ -1,3 +1,6 @@
+---
+title: Compile to Disk
+---
 ### Compile to disk  
   
 General Information  

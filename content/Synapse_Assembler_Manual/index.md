@@ -1,3 +1,6 @@
+---
+title: Synapse Assembler Manual
+---
 # SynAssembler Manual  
   
 ![](attachments/synapse.gif)  

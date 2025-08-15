@@ -1,3 +1,6 @@
+---
+title: Einfuehrung in Forth 83
+---
 # Einführung in Forth-83  
 Der komplette Kurs von Dr. Hartmut Pfüller, Dr. Wolfgang Drewelow, Dr. Bernhard Lampe, Ralf Neuthe und Egmont Woitzel von der Wilhelm-Pieck-Universität Rostock, Sektion Technische Elektronik aus der Mikroprozessortechnik, Berlin 3 (1989) 3  
   

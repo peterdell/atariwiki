@@ -1,3 +1,6 @@
+---
+title: Thanks
+---
 # Thanks  
   
   

@@ -1,3 +1,6 @@
+---
+title: GRAFP1
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53262 |$D00E|GRAFP1|Graphics Shape for Player 1|both  
 |Read| 53262 |$D00E|P2PL|Collision Player 2 with Player|both  

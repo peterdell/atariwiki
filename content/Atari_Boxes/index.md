@@ -1,3 +1,6 @@
+---
+title: Atari Boxes
+---
 # Atari Boxes  
 One spin-off out of the Atari Accountant project is a new list for the Atari CX4xy boxes. Where x and y can each be a number from 0 to 9, please see below for the actual list. Interesting is the fact, we had CX404 for the 810 drive and the same(!) program obviously for the 815 drive, the 'beast', under the mark: CX408, while the Atari 800 with 48 KiB remains the same...  
   

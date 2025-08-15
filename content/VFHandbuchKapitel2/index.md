@@ -1,3 +1,6 @@
+---
+title: VFHandbuchKapitel2
+---
 # Einstieg ins volksFORTH  
   
   

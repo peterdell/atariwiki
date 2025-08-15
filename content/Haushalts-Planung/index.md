@@ -1,3 +1,6 @@
+---
+title: Haushalts-Planung
+---
 # Haushalts-Planung (C) 1982 Jerry Falkenhan, Atari Elektronik Vertriebsgesellschaft GmbH  
 Atari Haushalts-Planung ist die deutsche Version von [Family_Budgets](../Family_Budgets/index.md) (APX-20108) bzw. Family Budgets aus [Family_Finances](../Family_Finances/index.md).  
 ## ATR-Image:  

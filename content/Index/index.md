@@ -1,3 +1,6 @@
+---
+title: Index
+---
 This is a list of all pages in this Wiki.  
   
 ---

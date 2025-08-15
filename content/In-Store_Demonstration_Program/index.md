@@ -1,3 +1,6 @@
+---
+title: In-Store Demonstration Program
+---
 # Atari In Store Demo Program CXL4019 and CX8117 ; Copyright (C) 1982 Atari, Inc. and Mike Albaugh  
   
 ## CAR image  

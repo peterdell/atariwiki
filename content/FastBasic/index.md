@@ -1,3 +1,6 @@
+---
+title: FastBasic
+---
 # FastBasic  
 Daniel Serpell (dsmc), June/July 2017  
   

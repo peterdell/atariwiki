@@ -1,3 +1,6 @@
+---
+title: STROQ
+---
 # Stroq - A game in Forth  
   
   

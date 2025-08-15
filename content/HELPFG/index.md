@@ -1,3 +1,6 @@
+---
+title: HELPFG
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |read/write |732|$02DC|HELPFG|Help key register|XL/XE  
   

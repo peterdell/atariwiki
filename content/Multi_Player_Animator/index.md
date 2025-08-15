@@ -1,3 +1,6 @@
+---
+title: Multi Player Animator
+---
 # Multi Player Animator  
   
 by Peter Finzel  

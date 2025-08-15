@@ -1,3 +1,6 @@
+---
+title: AUDC2
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53763|$D203|POT3|Pot/paddle 3|627|all  
 |Write|53763|$D203|AUDC2| Audio channel 2 control|none|all  

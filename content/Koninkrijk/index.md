@@ -1,3 +1,6 @@
+---
+title: Koninkrijk
+---
 # Koninkrijk  
 Koninkrijk is the Dutch translation of Kingdom and was published by Atari International (Benelux) B.V. in 1983.  
   

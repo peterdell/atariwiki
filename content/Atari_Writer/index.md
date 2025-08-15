@@ -1,3 +1,6 @@
+---
+title: Atari Writer
+---
 # Atari Writer 8036 ; Copyright (C) 1982-1988 Atari, Inc.  
   
 AtariWriter is one of Atari's most successful products on the 8-bit platform, and certainly the most successful non-game product they released. It is estimated 800,000 copies of the original English language version were sold, not including the international versions, nor the many updated versions that followed. It is likely it sold at least 1,000,000 copies in total, which is astonishing given that only about 4 million machines were produced in total. For comparison, the much better-known WordStar sold about 650,000 copies by 1983, when better programs began to take its market.  

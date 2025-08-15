@@ -1,3 +1,6 @@
+---
+title: Atari Statistieken
+---
 # Atari Statistieken  
 Atari Statistieken is the Dutch translation of Statistics one and was published by Atari International (Benelux) B.V. in 1983.  
   

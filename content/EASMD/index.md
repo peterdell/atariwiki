@@ -1,3 +1,6 @@
+---
+title: EASMD
+---
 # OSS EASMD Version 1.0 ; Copyright (C) 1981 OSS, Inc.  
 EASMD is an Editor Assembler and Debugger from OSS provided on diskette.  
   

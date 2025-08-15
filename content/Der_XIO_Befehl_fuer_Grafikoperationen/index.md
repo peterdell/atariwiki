@@ -1,3 +1,6 @@
+---
+title: Der XIO Befehl fuer Grafikoperationen
+---
 # Der XIO Befehl für Grafikoperationen  
   
 von Markus Kuhnen  

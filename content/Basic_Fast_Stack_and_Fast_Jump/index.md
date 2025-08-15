@@ -1,3 +1,6 @@
+---
+title: Basic Fast Stack and Fast Jump
+---
   
   
 # Basic Fast Stack and Fast Jump  

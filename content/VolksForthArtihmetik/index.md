@@ -1,3 +1,6 @@
+---
+title: VolksForthArtihmetik
+---
 # VolksForth Arithmetic  
   
 - [1+](../one-plus/index.md)  

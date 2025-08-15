@@ -1,3 +1,6 @@
+---
+title: Atari Basic Rev C Reference Manual
+---
 # Atari Basic Rev. C Reference Manual  
   
 PDF: [Atari-Basic-Reference.pdf](attachments/Atari-Basic-Reference.pdf) 49MB  

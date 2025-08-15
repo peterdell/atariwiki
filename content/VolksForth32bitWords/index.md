@@ -1,3 +1,6 @@
+---
+title: VolksForth32bitWords
+---
 # VolksForth 32bit words  
   
 - [extend](../extend/index.md)  

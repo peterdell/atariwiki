@@ -1,3 +1,6 @@
+---
+title: AUDF1
+---
 ||Read/Write||ADR||HEXADR||NAME||Description||shadow||OS  
 |Read|53760|$D200|POT0|Pot/paddle 0|624|all  
 |Write|53760|$D200|AUDF1| Audio channel 1 frequency |none|all  

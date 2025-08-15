@@ -1,3 +1,6 @@
+---
+title: Biorhythmus
+---
 # Biorhythmus DXG 5727 bzw. TXG 4107; Copyright (C) 1980 Atari Elektronik Vertriebs GmbH  
 Atari Biorhythmus DXG 5727 bzw. TXG 4107 ist die deutsche Version von: [Atari_Biorhythm](../Atari_Biorhythm/index.md)  
   

@@ -1,3 +1,6 @@
+---
+title: Atari Proofreader
+---
 # Atari Proofreader AX2033 ; Copyright (C) 1985 Atari, Corp. & R. Stanley Kistler  
 The Atari Proofreader has a very unique serial number beginning with the letter A instead of D, which is normal for diskettes.  
   

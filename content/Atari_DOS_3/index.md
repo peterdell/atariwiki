@@ -1,3 +1,6 @@
+---
+title: Atari DOS 3
+---
 # Atari Dos 3  
   
 DOS 3 shipped with 1050 disk drives from 1983-1985.  It was created in part to  

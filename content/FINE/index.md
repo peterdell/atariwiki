@@ -1,3 +1,6 @@
+---
+title: FINE
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |622|$026E|FINE|Fine scroll enable|none|X  
   

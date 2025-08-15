@@ -1,3 +1,6 @@
+---
+title: Bibo-DOS
+---
 # BIBO-DOS Copyright (C) 1988 Compy-Shop, Erwin Reuß & J. Kruszona  
   
 ## ATR images  

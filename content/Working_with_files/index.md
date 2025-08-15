@@ -1,3 +1,6 @@
+---
+title: Working with files
+---
 # Working with files (translation pending)  
   
 Arbeiten mit Dateien. Um in BASIC Dateien zu lesen oder schreiben, benutzen wir den Befehl OPEN. Beispiel, Oeffnen einer Datei zum Lesen und Einlesen des ersten Satzes:  

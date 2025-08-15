@@ -1,3 +1,6 @@
+---
+title: Pole Position
+---
 # Pole Position (TX8034)  
 Atari Corp UK released Pole Position on cassette in the eighties. This cassette contains besides the game an Atari Demo program on side B.  
   

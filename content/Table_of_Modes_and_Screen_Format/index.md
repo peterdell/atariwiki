@@ -1,3 +1,6 @@
+---
+title: Table of Modes and Screen Format
+---
 # Table of Modes and Screen Format  
   
 This is the corrected version of 'Table of Modes and Screen Format' taken from the Atari Basic Errata  

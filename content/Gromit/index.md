@@ -1,3 +1,6 @@
+---
+title: Gromit
+---
 ### Meine Hardware  
   
 *800XL - im Originalzustand  

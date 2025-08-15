@@ -1,3 +1,6 @@
+---
+title: VFHandbuchChapter5
+---
 # Input / Output in Volks-FORTH  
   
   
@@ -46,7 +49,7 @@ The state-FORTH has a number of constants which serve to improve readability:
 - [Outputkol](../Outputkol/index.md)  
 - [Area](../Area/index.md)  
 - [Areakol](../Areakol/index.md)  
-- ] Terminal  
+- [] Terminal  
 - [Window](../Window/index.md)  
 - [Full](../Full/index.md)  
 - [Curat? ](../_Cursor-at-question/index.md)  
@@ -70,7 +73,7 @@ The state-FORTH has a number of constants which serve to improve readability:
 - [At? ](../_At-question/index.md)  
 - [Col](../Col/index.md)  
 - [Row](../Row/index.md)  
-- ] Curoff  
+- [] Curoff  
 - [Curon](../Curon/index.md)  
 - [Curshape](../Curshape/index.md)  
 - [Printer](../Printer/index.md)  

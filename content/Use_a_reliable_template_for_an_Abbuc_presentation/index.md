@@ -1,3 +1,6 @@
+---
+title: Use a reliable template for an Abbuc presentation
+---
 # How to use a reliable template for an Abbuc presentation  
 %%tabbedSection  
 %%tab-english  

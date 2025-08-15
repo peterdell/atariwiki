@@ -1,3 +1,6 @@
+---
+title: Counseling Procedures CX6006
+---
 # Counseling Procedures CX6006  
 ## Content:  
 ![](attachments/Counseling+Procedures+CX6006.jpg)  

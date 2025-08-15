@@ -1,3 +1,6 @@
+---
+title: SIZEP1
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||OS  
 |Write| 53257 |$D009|SIZEP1|Size Player 1|both  
 |Read| 53257 |$D009|M1PL|Collision Missile 1 with Player|both  

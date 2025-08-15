@@ -1,3 +1,6 @@
+---
+title: Interne Variablen
+---
 General Information  
 Author: Peter Finzel  
 Language: ACTION!  

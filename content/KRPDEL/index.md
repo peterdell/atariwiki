@@ -1,3 +1,6 @@
+---
+title: KRPDEL
+---
 ||Adr||hex||Name||description||OS  
 |729|$02D9|KRPDEL|auto-repeat delay|XL/XE  
   

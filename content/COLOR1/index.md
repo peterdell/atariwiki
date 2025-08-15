@@ -1,3 +1,6 @@
+---
+title: COLOR1
+---
 ||ADR||HEXADR||NAME||DESCRIPTION||DEFAULT||SHADOW||OS  
 |709|$02C5|COLOR1|Color Register 1|202 ($CA)|[COLPF1](../COLPF1/index.md) |all  
   

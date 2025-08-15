@@ -1,3 +1,6 @@
+---
+title: Atari Datasette XC12 Turbo 6000 Baud Interface
+---
 The purpose of this interface is to use high transfer rates for compact cassettes which are used with the XC12 Datasette. The roots are about 10 years ago, in Eastern Germany it was unimaginable expensive to buy a floppy station. That's why the people searched for other ways because they were not satisfied with the slow original Datasette. The whole system was called "CHAOS SYSTEM" and it uses 6000 Baud for data transfers. Just build the small interface into the XC12 and you're ready to go.  
   
 The structure of the files is much the same like for diskette files. To run the software the files on cassette must be loaded with the "CHAOS LOADER". For copy purposes the "CHAOS COPY" has to be used. Both can be loaded either by a cartridge or as a normal cassette file: put the compact cassette into the XC12, boot Atari up with OPTION+START pressed, press PLAY on Datasette and then SPACEBAR on the Atari keyboard.  

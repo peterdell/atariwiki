@@ -1,3 +1,6 @@
+---
+title: CHACT
+---
 ||R/W||Adr||Hex||Name||description||OS||Shadow of  
 |R/W|755|$02F3|CHACT|Character display mode|all|[CHACTL](../CHACTL/index.md) 54273/$D401  
   

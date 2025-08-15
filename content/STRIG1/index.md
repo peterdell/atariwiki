@@ -1,3 +1,6 @@
+---
+title: STRIG1
+---
 ||ADR||HEXADR||NAME||Description||shadow of||OS  
 |645| $0285|STRIG1|Stick 2 Trigger| [TRIG1](../GRAFM/index.md) |all  
   

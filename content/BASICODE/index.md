@@ -1,3 +1,6 @@
+---
+title: BASICODE
+---
 # BASICODE  
   
 Ein Esperanto für Computer.  

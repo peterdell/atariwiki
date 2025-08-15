@@ -1,3 +1,6 @@
+---
+title: LMARGN
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |82|$0052|LMARGN|Left margin of text|none|All  
   

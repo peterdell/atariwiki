@@ -1,3 +1,6 @@
+---
+title: SynCalc
+---
 # SynCalc Copyright (C) 1983, 1985 Synapse Software Corp. and Mike Silva  
   
   

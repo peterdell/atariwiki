@@ -1,3 +1,6 @@
+---
+title: Modulo
+---
 # Modulo Funktion: a MOD b  
   
 Die Progrmme sind exklusiv beim PD-Service des WASEO erhältlich, Diskette 1.000):  
@@ -32,7 +35,7 @@ Ihr denkt jetzt bestimmt, ja, das war in der Vergangenheit, so etwas passiert ni
   
 Ihr meint, das ist schlimm? Es kommt noch dicker! Nicht nur, dass falsch oder auch gar nicht berechnet wurde, nein, es gibt darüber hinaus noch jede Menge an verschiedenen Operatoren für ein die gleiche Operation:  
   
-Liste von Operatoren für den Rest einer Division  
+[Liste von Operatoren für den Rest einer Division  
 |https://de.wikipedia.org/wiki/Liste_von_Operatoren_f%C3%BCr_den_Rest_einer_Division] ; unterschiedliche Operatoren für die Modulo-Funktion  
   
 damit es den Anwendern auch richtig schön schwer gemacht wird.  

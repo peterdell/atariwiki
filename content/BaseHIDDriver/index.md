@@ -1,3 +1,6 @@
+---
+title: BaseHIDDriver
+---
 # Base USB HID Driver  
   
 This driver includes the basic functions to access an USB HID Device. This Driver will include the device dependent code.  

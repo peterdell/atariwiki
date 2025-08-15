@@ -1,3 +1,6 @@
+---
+title: Combine 2 files into 1
+---
 # Combine 2 files into 1  
 To create one 16 KiB-ROM out of two 8 KiB ROMs, use the following method:  
   

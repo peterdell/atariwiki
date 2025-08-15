@@ -1,3 +1,6 @@
+---
+title: Abbuc Magazin 73 Gametro
+---
 General Information  
   
 Author: 	Ralf Patschke (pps)   

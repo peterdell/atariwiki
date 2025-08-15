@@ -1,3 +1,6 @@
+---
+title: Atari Silent Butler
+---
 # Atari Silent Butler DX5082 (C) Copyright 1985 Atari Corp. and Ted A. Goldstone  
 Atari Silent Butler works with Atari 1050 disk drives or better (__MD disk format, NOT(!) 810 compatible__)  
   

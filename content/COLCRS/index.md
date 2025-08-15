@@ -1,3 +1,6 @@
+---
+title: COLCRS
+---
 ||ADR||HEXADR||NAME||Description||shadow||OS  
 |85,86|$0055,$0056|COLCRS|Current cursor column|none|All  
   

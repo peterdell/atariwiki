@@ -1,3 +1,6 @@
+---
+title: Aufgepasst-Streit der Kaefer
+---
 # Aufgepaßt-Streit der Käfer DXG 5710 bzw. TXG 9510 (C) 1983 Atari Elektronik-Vertriebsgesellschaft mbH & Milliken Publishing Co.  
   
 Vielen lieben Dank an Florian Dingler und Dirk Tröger, ohne euch wäre diese seltene Software wahrscheinlich verloren gegangen.  

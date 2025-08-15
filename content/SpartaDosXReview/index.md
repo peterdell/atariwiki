@@ -1,3 +1,6 @@
+---
+title: SpartaDosXReview
+---
 # Sparta Dos X Review  
   
 The SpartaDOS X cartridge  

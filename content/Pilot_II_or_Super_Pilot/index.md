@@ -1,3 +1,6 @@
+---
+title: Pilot II or Super Pilot
+---
 # ATARI Pilot II or Super PILOT  
 AED80043 48K Diskette ; Copyright (C) 1982 Atari, Inc.  
   

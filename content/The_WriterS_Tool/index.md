@@ -1,3 +1,6 @@
+---
+title: The WriterS Tool
+---
 # OSS The Writer's Tool, Version 2.25, (C) Copyright 1984, 1985 Madison Micro and Optimized Systems Software, Inc.  
   
 ## CAR-Image:  

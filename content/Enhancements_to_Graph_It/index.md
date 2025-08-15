@@ -1,3 +1,6 @@
+---
+title: Enhancements to Graph It
+---
 # Enhancements to Graph It, Rev 1.3 - 11-13-81 - APX-20074 (C) 1982 Howard D. Siebenrock  
 __Up to the present day, we could not make contact to Howard D. Siebenrock to ask him for permission to publish an atr-image of his program here. So, if someone knew him or Howard is reading this, we would be very glad to get a go ahead. ;-)__  
   

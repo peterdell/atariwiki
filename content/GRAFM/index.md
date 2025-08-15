@@ -1,3 +1,6 @@
+---
+title: GRAFM
+---
 ||R/W||ADR||HEXADR||NAME||DESCRIPTION||SHADOW||OS  
 |Read |53265|$D011|TRIG1|Trigger 1|[STRIG1](../STRIG1/index.md)|both  
 |Write|53265|$D011|GRAFM|Graphics Shape for Missile 0-3| |both  
