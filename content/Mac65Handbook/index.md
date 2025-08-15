@@ -82,11 +82,11 @@ as  follows:
        file      reference manual for more specific
                  explanation.
 ```
-3.  Items in square brackets denote an optional part of syntax (eg. [1no](../1no/index.md)).  
+3.  Items in square brackets denote an optional part of syntax (eg. \[,1no\]).  
 When an optional item is followed by (...) the item(s) may be repeated as many  
 times as needed.  
   
-Example:  {{.WORD exp [exp_...](attachments/exp_...)}}  
+Example:  {{.WORD exp \[,exp ...\]}}  
   
 4.  Items in parentheses indicate that any one of the items may be used, eg.  
 (.Q) (,A).  
@@ -214,7 +214,7 @@ edit command:  ASM
   
 purpose:       ASseMble MAC/65 source files  
   
-usage:         ASM [file1](../file1/index.md),[file2](../file2/index.md),[file3](../file3/index.md),[file4](../file4/index.md)  
+usage:         ASM \[#file1\],\[#file2\],\[#file3\],\[#file4\]  
   
 ASM will assemble the specified source file and will produce a listing and  
 object code output; the listing may include a full cross reference of all  
@@ -332,7 +332,7 @@ edit command:  C
   
 purpose:       Change memory contents  
   
-usage:         c hxnum1 < (,)(hxnum) [hxnum__...](attachments/hxnum__...)  
+usage:         c hxnum1 < (,)(hxnum) \[(,)(,hxnum)  ...\]  
   
 Although MAC/65 does not included a debug capability, there are a few machine  
 level commands included for the convenience of the user who would, for example,  
@@ -352,7 +352,7 @@ edit command:  D
   
 purpose:       Display contents of memory location(s)  
   
-usage:         D hxnum1 [_hxnum2](../_hxnum2/index.md)  
+usage:         D hxnum1 \[ ,hxnum2 \]  
   
 D allows the user to examine memory.  If hxnum2 is specified, the memory  
 locations between hxnum1 and hxnum2 will be displayed, else only hxnum1 through  
@@ -364,7 +364,7 @@ edit command:  DEL
 purpose:       DELetes a line or group of lines from  
 the source/text in memory.  
   
-usage:         DEL 1nol [_1no2](../_1no2/index.md)  
+usage:         DEL 1nol \[ ,1no2 \]  
   
 DEL deletes source lines from memory.  If only one 1no is entered, only the  
 line will be deleted.  If two 1nos are entered, all lines between and including  
@@ -373,7 +373,7 @@ line will be deleted.  If two 1nos are entered, all lines between and including
 Note:  1no1 must be present in memory for DEL to execute.  
   
 ### 3.8 DOS  
-edit command:  DOS   [_or_equivalently_CP](../_or_equivalently_CP/index.md)  
+edit command:  DOS   \[ or, equivalently, CP \]  
   
 purpose:       exit from MAC/65 to the CP of DOS XL.  
   
@@ -389,7 +389,7 @@ edit command:  ENTER
 purpose:       allow entry of ASCII (or ATASCII)  
 text files into MAC/65 editor memory  
   
-usage:         ENTER #filespec [_M_A](../_M_A/index.md)  
+usage:         ENTER #filespec \[ (,M) (,A) \]  
   
 ENTER will cause the Editor to get ASCII text from the specified device.  ENTER  
 will clear the text area before entering from the filespec.  That is any user  
@@ -413,7 +413,7 @@ edit command:  FIND
 purpose:       to FIND a string of characters some where in MAC/65's editor  
 buffer.  
   
-usage:         FIND / string/ [_1no1__1no2](../_1no1__1no2/index.md) ] [_A](../_A/index.md)  
+usage:         FIND / string/ \[ 1no1 [ ,1no2 \] ] \[ ,A \]  
   
 The FIND command will search all lines in memory or the specified line(s) (1no1  
 through 1no2) for the "string" given between the matching delimiter.  The  
@@ -442,7 +442,7 @@ purpose:       to LIST the contents of all or part of
 MAC/65's editor buffer in ASCII (ATASCII)  
 form to a disk or device.  
   
-usage:         LIST 8[_filespec](../_filespec/index.md) [_1no1__1no2](../_1no1__1no2/index.md) ]  
+usage:         LIST 8\[ #filespec, \] \[ 1no1 [ ,1no2 \] ]  
   
 LIST lists the source  file to the screen, or device when "#filespec" is  
 specified.  If no 1nos are specified, listing will begin at the first line in  
@@ -477,7 +477,7 @@ edit command:  LOAD
 purpose:       to reLOAD a previously SAVEd MAC/65 token  
 file from disk to editor memory.  
   
-usage:         LOAD #filespec [_A](../_A/index.md)  
+usage:         LOAD #filespec \[ ,A \]  
   
 LOAD will reload a previously SAVEd tokenized file into memory.  LOAD will  
 clear the user memory before loading from the specified device unless the ",A"  
@@ -522,7 +522,7 @@ edit command:  NUM
   
 purpose:       initiates automatic line NUMbering mode  
   
-usage:         NUM [_dcnum1__dcnum2](../_dcnum1__dcnum2/index.md) ]  
+usage:         NUM \[ dcnum1 [ ,dcnum2 \] ]  
   
 NUM will cause the Editor to auto-number the incoming text from the Screen  
 Editor (E:).  A space is automatically printed after the line number.  If no  
@@ -561,7 +561,7 @@ edit command:  REN
   
 purpose:       RENumber all lines in Editor memory.  
   
-usage:         REN [_dcnum1__dcnum2](../_dcnum1__dcnum2/index.md)]  
+usage:         REN \[ dcnum1 [ ,dcnum2 \]]  
   
 REN renumbers the source lines in memory.  If no dcnums are specified, REN will  
 renumber the program stating at line 10 in increments of 10.  REN dcnum1 will  
@@ -574,7 +574,7 @@ edit command:  REP
 purpose:       REPlaces occurrence(s) of a given string  
 with another given string.  
   
-usage: REP/old string/new string/ [1no1_1no2](../1no1_1no2/index.md)] [AQ](../AQ/index.md)  
+usage: REP/old string/new string/ \[1no1 [,1no2 \]] [AQ](../AQ/index.md)  
   
 The REP command will search the specified lines (all or 1no1 through 1no2) for  
 the "old string"  

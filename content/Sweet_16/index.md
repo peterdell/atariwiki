@@ -66,7 +66,7 @@ While writing Apple BASIC, I ran into the problem of manipulating the 16 bit poi
   
 My solution to this problem of handling 16 bit data, notably pointers, with an 8 bit microprocessor was to implement a non-existent 16 bit processor in software, interpreter fashion, which I refer to as SWEET16.  SWEET16 contains sixteen internal 16 bit registers, actually the first 32 bytes in main memory, labelled R0 through R15.  R0 is defined as the accumulator, R15 as the program counter, and R14 as a status register.  R13 stores the result of all COMPARE operations for branch testing.  The user accesses SWEET16 with a subroutine call to hexadecimal address F689.  Bytes stored after the subroutine call are thereafter interpreted and executed by SWEET16.  One of SWEET16's commands returns the user back to 6502 mode, even restoring the original register contents.  
   
-Implemented in only 300 bytes of code, SWEET16 has a very simple instruction set tailored to operations such as memory moves and stack manipulation.  Most opcodes are only one byte long, but since she runs approximately ten times slower than equivalent 6502 code, SWEET16 should be employed only when code is at a premium or execution is not.  As an example of her usefulness, I have estimated that about 1K byte could be weeded out of my 5K byte Apple-II BASIC interpreter with no observable performance degradation by selectively applying SWEET16. ~[]  
+Implemented in only 300 bytes of code, SWEET16 has a very simple instruction set tailored to operations such as memory moves and stack manipulation.  Most opcodes are only one byte long, but since she runs approximately ten times slower than equivalent 6502 code, SWEET16 should be employed only when code is at a premium or execution is not.  As an example of her usefulness, I have estimated that about 1K byte could be weeded out of my 5K byte Apple-II BASIC interpreter with no observable performance degradation by selectively applying SWEET16. \[\]  
   
   
   
@@ -373,7 +373,7 @@ Non-register OPS-
   
 SET:  
   
-SET Rn,Constant   ~[1n_Low_High](../1n_Low_High/index.md)  
+SET Rn,Constant   \[ 1n Low High \]  
   
 The 2-byte constant is loaded into Rn (n=0 to F, Hex) and  
 branch conditions set accordingly. The carry is cleared.  
@@ -385,7 +385,7 @@ EXAMPLE:
   
 LOAD:  
   
-LD Rn              ~[2n](../2n/index.md)  
+LD Rn              \[ 2n \]  
   
 The ACC (R0) is loaded from Rn and branch conditions set  
 according to the data transferred. The carry is cleared and  
@@ -399,7 +399,7 @@ EXAMPLE:
   
 STORE:  
   
-ST Rn              ~[3n](../3n/index.md)  
+ST Rn              \[ 3n \]  
   
 The ACC is stored into Rn and branch conditions set according  
 to the data transferred. The carry is cleared and the ACC  
@@ -413,7 +413,7 @@ EXAMPLE:
   
 LOAD INDIRECT:  
   
-LD @Rn            ~[4n](../4n/index.md)  
+LD @Rn            \[ 4n \]  
   
 The low-order ACC byte is loaded from the memory location  
 whose address resides in Rn and the high-order ACC byte is  
@@ -431,7 +431,7 @@ EXAMPLE
   
 STORE INDIRECT:  
   
-ST @Rn            ~[5n](../5n/index.md)  
+ST @Rn            \[ 5n \]  
   
 The low-order ACC byte is stored into the memory location  
 whose address resides in Rn. Branch conditions reflect the  
@@ -448,7 +448,7 @@ EXAMPLE:
   
 LOAD DOUBLE-BYTE INDIRECT:  
   
-LDD @Rn             ~[6n](../6n/index.md)  
+LDD @Rn             \[ 6n \]  
   
 The low order ACC byte is loaded from memory location whose  
 address resides in Rn, and Rn is then incremented by # The  
@@ -466,7 +466,7 @@ EXAMPLE:
   
 STORE DOUBLE-BYTE INDIRECT:  
   
-STD @Rn            ~[7n](../7n/index.md)  
+STD @Rn            \[ 7n \]  
   
 The low-order ACC byte is stored into memory location  
 whose address resides in Rn, and Rn is the incremented  
@@ -486,7 +486,7 @@ EXAMPLE:
   
 POP INDIRECT:  
   
-POP @Rn             ~[8n](../8n/index.md)  
+POP @Rn             \[ 8n\]  
   
 The low-order ACC byte is loaded from the memory location  
 whose address resides in Rn after Rn is decremented by 1,  
@@ -513,7 +513,7 @@ EXAMPLE:
   
 STORE POP INDIRECT:  
   
-STP @Rn             ~[9n](../9n/index.md)  
+STP @Rn             \[ 9n \]  
   
 The low-order ACC byte is stored into the memory location  
 whose address resides in Rn after Rn is decremented by #  
@@ -535,7 +535,7 @@ EXAMPLE:
   
 ADD:  
   
-ADD Rn            ~[An](../An/index.md)  
+ADD Rn            \[ An \]  
   
 The contents of Rn are added to the contents of ACC (R0),  
 and the low-order 16 bits of the sum restored in ACC. the  
@@ -553,7 +553,7 @@ EXAMPLE:
   
 SUBTRACT:  
   
-SUB Rn            ~[Bn](../Bn/index.md)  
+SUB Rn            \[ Bn \]  
   
 The contents of Rn are subtracted from the ACC contents by  
 performing a two's complement addition:  
@@ -578,7 +578,7 @@ EXAMPLE:
   
 POP DOUBLE-BYTE INDIRECT:  
   
-POPD @Rn           ~[Cn](../Cn/index.md)  
+POPD @Rn           \[ Cn \]  
   
 Rn is decremented by 1 and the high-order ACC byte is loaded  
 from the memory location whose address now resides in Rn. Rn is  
@@ -602,7 +602,7 @@ EXAMPLE:
   
 COMPARE:  
   
-CPR Rn            ~[Dn](../Dn/index.md)  
+CPR Rn            \[ Dn \]  
   
 The ACC (R0) contents are compared to Rn by performing the 16  
 bit binary subtraction ACC-Rn and storing the low order 16  
@@ -626,7 +626,7 @@ EXAMPLE:
   
 INCREMENT:  
   
-INR Rn            ~[En](../En/index.md)  
+INR Rn            \[ En \]  
   
 The contents of Rn are incremented by # The carry is cleared  
 and other branch conditions reflect the incremented value.  
@@ -643,7 +643,7 @@ EXAMPLE:
   
 DECREMENT:  
   
-DCR Rn            ~[Fn](../Fn/index.md)  
+DCR Rn            \[ Fn \]  
   
 The contents of Rn are decremented by # The carry is cleared  
 and other branch conditions reflect the decremented value.  
@@ -674,7 +674,7 @@ original contents (prior to entering SWEET 16 mode).
   
 BRANCH ALWAYS:  
   
-BR ea              ~[01_d](../01_d/index.md)  
+BR ea              \[ 01 d \]  
   
 An effective address (ea) is calculated by adding the signed  
 displacement byte (d) to the PC. The PC contains the address  
@@ -705,7 +705,7 @@ EXAMPLE:
   
 BRANCH IF NO CARRY:  
   
-BNC ea            ~[02_d](../02_d/index.md)  
+BNC ea            \[ 02 d \]  
   
 A branch to the effective address is taken only is the carry is  
 clear, otherwise execution resumes as normal with the next  
@@ -714,7 +714,7 @@ instruction. Branch conditions are not changed.
   
 BRANCH IF CARRY SET:  
   
-BC ea              ~[03_d](../03_d/index.md)  
+BC ea              \[ 03 d \]  
   
 A branch is effected only if the carry is set. Branch conditions  
 are not changed.  
@@ -722,7 +722,7 @@ are not changed.
   
 BRANCH IF PLUS:  
   
-BP ea              ~[04_d](../04_d/index.md)  
+BP ea              \[ 04 d \]  
   
 A branch is effected only if the prior 'result' (or most  
 recently transferred dat) was positive. Branch conditions are  
@@ -742,7 +742,7 @@ EXAMPLE: (Clear mem from A034 to A03F)
   
 BRANCH IF MINUS:  
   
-BM ea              ~[05_d](../05_d/index.md)  
+BM ea              \[ 05 d \]  
   
 A branch is effected only if prior 'result' was minus (negative,  
 MSB = 1). Branch conditions are not changed.  
@@ -750,7 +750,7 @@ MSB = 1). Branch conditions are not changed.
   
 BRANCH IF ZERO:  
   
-BZ ea              ~[06_d](../06_d/index.md)  
+BZ ea              \[ 06 d \]  
   
 A Branch is effected only if the prior 'result' was zero. Branch  
 conditions are not changed.  
@@ -758,7 +758,7 @@ conditions are not changed.
   
 BRANCH IF NONZERO  
   
-BNZ ea            ~[07_d](../07_d/index.md)  
+BNZ ea            \[ 07 d \]  
   
 A branch is effected only if the priot 'result' was non-zero  
 Branch conditions are not changed.  
@@ -766,7 +766,7 @@ Branch conditions are not changed.
   
 BRANCH IF MINUS ONE  
   
-BM1 ea            ~[08_d](../08_d/index.md)  
+BM1 ea            \[ 08 d \]  
   
 A branch is effected only if the prior 'result' was minus one  
 ($FFFF Hex). Branch conditions are not changed.  
@@ -774,7 +774,7 @@ A branch is effected only if the prior 'result' was minus one
   
 BRANCH IF NOT MINUS ONE  
   
-BNM1 ea             ~[09_d](../09_d/index.md)  
+BNM1 ea             \[ 09 d \]  
   
 A branch effected only if the prior 'result' was not minus #  
 Branch conditions are not changed.  
@@ -782,7 +782,7 @@ Branch conditions are not changed.
   
 BREAK:  
   
-BK                 ~[0A](../0A/index.md)  
+BK                 \[ 0A \]  
   
 A 6502 BRK (break) instruction is executed. SWEET 16 may be  
 re-entered non destructively at SW16d after correcting the  
@@ -791,7 +791,7 @@ stack pointer to its value prior to executing the BRK.
   
 RETURN FROM SWEET 16 SUBROUTINE:  
   
-RS                 ~[0B](../0B/index.md)  
+RS                 \[ 0B \]  
   
 RS terminates execution of a SWEET 16 subroutine and returns to the  
 SWEET 16 calling program which resumes execution (in SWEET 16 mode).  
@@ -801,7 +801,7 @@ decremented twice. Branch conditions are not changed.
   
 BRANCH TO SWEET 16 SUBROUTINE:  
   
-BS ea              ~[0c_d](../0c_d/index.md)  
+BS ea              \[ 0c d \]  
   
 A branch to the effective address (PC + 2 + d) is taken and  
 execution is resumed in SWEET 16 mode. The current PC is pushed  

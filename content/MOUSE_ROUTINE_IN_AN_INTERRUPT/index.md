@@ -21,7 +21,7 @@ somebody will read the stuff below and use it in his or her own
 program. The text and code where written for the Atari 8 bit,  
 but the idea should work on other computers too.  
   
-~[number](../number/index.md) means that there is a small explanation for those not living in the Atari 8 bit world at the bottom of the text.  
+\[number\] means that there is a small explanation for those not living in the Atari 8 bit world at the bottom of the text.  
   
 Mathy van Nisselroy  
   

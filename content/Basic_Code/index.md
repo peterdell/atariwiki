@@ -49,7 +49,7 @@ That's all! Enjoy! :-)
 - [Atari_Disc_Master_Menu_with_DOS_II_2.0S.atr](attachments/Atari_Disc_Master_Menu_with_DOS_II_2.0S.atr) ; deutsches Atari Disc Master Menu mit DOS II 2.0S zum smarten starten von mehreren BASIC-Programmen.  
   
 ## Beispiele  
-Im Folgenden werden Beispiele zu den oben aufgeführten Programmen vorgestellt, welche mit dem Programm [Mathematica (TM)](http://www.wolfram.com/mathematica/) durchgeführt worden sind. Es gibt auch eine Online-Version dazu: [WolframAlpha](http://www.wolframalpha.com/). Möchte man beispielsweise die Funktion: x^3 total nach x ableiten, so gibt man im Eingabefeld von WolframAlpha: "Dt[x^3](../x^3/index.md)" ein. Möchte man x^2 integrieren, so gibt man: "Integrate[x^2](../x^2/index.md)" ein.  
+Im Folgenden werden Beispiele zu den oben aufgeführten Programmen vorgestellt, welche mit dem Programm [Mathematica (TM)](http://www.wolfram.com/mathematica/) durchgeführt worden sind. Es gibt auch eine Online-Version dazu: [WolframAlpha](http://www.wolframalpha.com/). Möchte man beispielsweise die Funktion: x^3 total nach x ableiten, so gibt man im Eingabefeld von WolframAlpha: "Dt\[x^3\]" ein. Möchte man x^2 integrieren, so gibt man: "Integrate\[x^2\]" ein.  
   
 - [Kurvendiskussion.pdf](attachments/Kurvendiskussion.pdf) ; Anwendungsbeispiele zur Kurvendiskussion.  
 - [Aprox.pdf](attachments/Aprox.pdf) ; Anwendungsbeispiele zum Programm APROX von der Zeitschrift Chip.  

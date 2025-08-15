@@ -5,7 +5,7 @@ title: Gromit
   
 *800XL - im Originalzustand  
 *XC12  
-*SDrive - Eigenbau [_mit_Unterstuetzung_;](../_mit_Unterstuetzung_;/index.md)  
+*SDrive - Eigenbau \[ mit Unterstützung ;) \]  
 ---
 [gromit.jpg](attachments/gromit.jpg)  
 Bester Freund von Wallace  
@@ -64,7 +64,7 @@ RETURN
 ```
 ---
 ## Backup  
-Umleitungsseite erstellen: [{SET_alias-'Name_der_Seite_auf_die_umgeleitet_werden_soll'}](../{SET_alias-'Name_der_Seite_auf_die_umgeleitet_werden_soll'}/index.md)   
+Umleitungsseite erstellen: \[{SET alias='Name der Seite auf die umgeleitet werden soll'}\]   
 Umleitungsseite finden   : Suche nach 'alias' = 70% Relevanz  
 Umleitungsseite editieren: Link als Verknüpfung kopieren, in Browser als URL einfügen und "Wiki.jsp" durch "Edit.jsp" ersetzten. (Groß- und Kleinschreibung beachten)  
 ### Neue Seiten  

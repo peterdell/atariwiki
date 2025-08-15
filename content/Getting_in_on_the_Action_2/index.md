@@ -202,7 +202,7 @@ void main()
     (*routines[i])();
 }
 ```
-This little program does a lot. First, it executes a "for" loop for the values between 0 and 2. The "pointer" to the desired function is fetched (routines[i](../i/index.md)). which is then executed directly. Routines[] is an "array of pointers" to functions, with three elements (numbered 0 to 2).  
+This little program does a lot. First, it executes a "for" loop for the values between 0 and 2. The "pointer" to the desired function is fetched (routines\[i\]). which is then executed directly. Routines[] is an "array of pointers" to functions, with three elements (numbered 0 to 2).  
   
 This example has the same function as BASIC's ONxGOSUB. The equivalent BASIC would be:  
 ```

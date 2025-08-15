@@ -33,7 +33,7 @@ title: Bibo Assembler
 - [SIO2USB_Clock_Utility](../SIO2USB_Clock_Utility/index.md)  
 - [Simple_Disk_Formatter](../Simple_Disk_Formatter/index.md)  
 - [SIO_Sector_Read_for_Atari_Basic](../SIO_Sector_Read_for_Atari_Basic/index.md)  
-- [Atari_ST_Mouse_Driver_for_ACTION!](../Atari_ST_Mouse_Driver_for_ACTION!/index.md)  
+- [Atari ST Mouse Driver for ACTION!](../Atari_ST_Mouse_Driver_for_ACTION/index.md)  
 - [ST_Mouse_Driver_for_Basic](../ST_Mouse_Driver_for_Basic/index.md)  
 - [Sweet16Bibo](../Sweet16Bibo/index.md) Sweet 16 - a virtual 16bit machine for the 8bit ATARI  
 - [Simple_Blitter](../Simple_Blitter/index.md)  

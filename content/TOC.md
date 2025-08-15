@@ -78,7 +78,7 @@ title:
 - [Artikelverwaltung](Artikelverwaltung/index.md)  
 - [ASCII-Tabelle](ASCII-Tabelle/index.md)  
 - [Assembler](Assembler/index.md)  
-- [Assembly Course from ZMagazine](Assembly_Course_from_ZMagazine/index.md)  
+- [Assembly Course from Z-Magazine](Assembly_Course_from_Z-Magazine/index.md)  
 - [ASTRA 2001](ASTRA_2001/index.md)  
 - [ATA MON DXG 5724](ATA_MON_DXG_5724/index.md)  
 - [Atari+USB+Keyboard+Driver](Atari+USB+Keyboard+Driver/index.md)  

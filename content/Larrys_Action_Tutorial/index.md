@@ -228,7 +228,7 @@ In the LANGUAGE section of the ACTION! manual is a listing of the vocabulary of 
 ** ^      -Contents of a Pointer  
 ** @      -Address of a variable  
 ** .      -TYPE reference  
-** [](..//index.md)    -Start / End of data block  
+** \[ \]    -Start / End of data block  
 ** "      -String contents (delimiter)  
 ** '      -Character conversion to value  
 ** ;      -Remarks (delimiter)  

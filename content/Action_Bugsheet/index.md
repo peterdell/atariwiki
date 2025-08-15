@@ -245,7 +245,7 @@ Typing the following command from the monitor will lock up the system:
   
 Affects:  All versions  
   
-Fix:  Don't do it!  If you do type that command, hit [RESET](../RESET/index.md)  
+Fix:  Don't do it!  If you do type that command, hit \[RESET\]  
   
 ### 9. PADDLE FUNCTION  
 The Paddle function does not work properly in all versions of the ACTION! cartridge.  
@@ -314,7 +314,7 @@ Affects:  Versions 3.0 to 3.2
 Fix:  No fix at this time. You could write an ACTION! routine to do the equivalent.  
   
 ### 15. CONTROL-SHIFT RETURN  
-Using [CS](../CS/index.md) RETURN to split a line into two lines generates garbage in the second line.  
+Using \[CS\] RETURN to split a line into two lines generates garbage in the second line.  
   
 Affects:  Versions 3.0 and 3.1  
   
@@ -752,12 +752,12 @@ For example, the following is perfectly legal:
 97    Section 8.1.1 states that you may either initialize a POINTER to an address or give it a value. Only the second is possible, and you should use this form:  
 BYTE POINTER x=<value>  
 Not this:  
-BYTE POINTER x=[-value-](../-value-/index.md)  
+BYTE POINTER x=\[<value>\]  
   
 99    In example #1 there are two PrintF statements which have "ptr" as one parameter. These should be "bptr", not "ptr".  
   
 101    In the last example of ARRAY declaration (BYTE ARRAY tests(5)...), the dimension is overruled by the initialization options, and so its dimension is only three. To fill only the first 3 of 5 elements, do the following:  
-BYTE ARRAY tests(5)=[4_7_18_0_0](../4_7_18_0_0/index.md)  
+BYTE ARRAY tests(5)=\[4 7 18 0 0\]  
   
 104    In example #3 you see the program line "PrintE(b)". This should read "PrintE(barray)".  
   

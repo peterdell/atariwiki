@@ -21,18 +21,18 @@ That's right. . . no turns. Killer Chess players make legal chess moves as fast 
 Welcome to Killer Chess, written in ACTION! the fast, powerful programming language from Optimized Systems Software. You and your human opponent will use an Atari 8-bit computer and a pair of joysticks to battle it out in a radical new version of a traditional game  
   
 ### GETTING STARTED  
-TYPING IT IN: Insert the ACTION! cartridge into your 8-bit Atari and type in Listing 1, KILLER.ACT Type carefully; because there isn't a TYPO II for ACTION! After you have a copy of the complete program safely saved, go to the monitor by pressing [CONTROL](../CONTROL/index.md) [SHIFT](../SHIFT/index.md) [M](../M/index.md) and compile the program by typing [C](../C/index.md) [RETURN](../RETURN/index.md). When the cursor starts blinking again, type [R](../R/index.md) [RETURN](../RETURN/index.md) and the title page should appear.  
+TYPING IT IN: Insert the ACTION! cartridge into your 8-bit Atari and type in Listing 1, KILLER.ACT Type carefully; because there isn't a TYPO II for ACTION! After you have a copy of the complete program safely saved, go to the monitor by pressing \[CONTROL\] \[SHIFT\] \[M\] and compile the program by typing \[C\] \[RETURN\]. When the cursor starts blinking again, type \[R\] \[RETURN\] and the title page should appear.  
   
-MONTHLY DISK USERS: You can play Killer Chess without owning the ACTION! cartridge. Just insert your Antic Monthly Disk into your disk drive, remove all cartridges from your Atari (XL/XE owners should press the [OPTION](../OPTION/index.md) key) and turn on your Atari. When the DOS menu appears, just type [L](../L/index.md)[RETURN](../RETURN/index.md), then type KILLER.EXE [RETURN](../RETURN/index.md).  
+MONTHLY DISK USERS: You can play Killer Chess without owning the ACTION! cartridge. Just insert your Antic Monthly Disk into your disk drive, remove all cartridges from your Atari (XL/XE owners should press the \[OPTION\] key) and turn on your Atari. When the DOS menu appears, just type \[L\]\[RETURN\], then type KILLER.EXE \[RETURN\].  
   
-When the title screen is seen, press [START](../START/index.md) to begin a game. When the game begins, both players will be able to simultaneously move their respective cursors around the board. With joystick 0, player 1 controls the white cursor and white pieces. With joystick 1, player 2 controls the gray cursor and gray pieces.  
+When the title screen is seen, press \[START\] to begin a game. When the game begins, both players will be able to simultaneously move their respective cursors around the board. With joystick 0, player 1 controls the white cursor and white pieces. With joystick 1, player 2 controls the gray cursor and gray pieces.  
   
 ### PLAYING KILLER CHESS  
 Simply place the cursor over any piece you want to move and press the joystick button. Now move the cursor over a square that would be a legal move for that piece and press the button again. If the move is illegal, the computer will tell you so -with a rather unpleasant sound- and let you try again. Otherwise the piece will be placed at the new square. If you accidentally pick up a piece and don't want to move it, just replace the cursor over the piece you selected and press the button again. The piece will be dropped.  
   
 To capture an enemy, simply make a legal move on top of it. The offending piece will be removed from play. You can capture a piece your opponent is "holding". The piece isn't actually moved until it is set down again.  
   
-To win, just land one of your characters on top of the opponent's King. To return to the title screen press [START](../START/index.md) or wait about 10 seconds.  
+To win, just land one of your characters on top of the opponent's King. To return to the title screen press \[START\] or wait about 10 seconds.  
   
 Killer Chess does not have castling or en passant moves, which are allowed under advanced chess rules but would be too confusing here.  
   

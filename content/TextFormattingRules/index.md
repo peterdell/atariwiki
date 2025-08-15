@@ -138,5 +138,5 @@ HTML funktioniert __''nicht''__.
   
 Um einen Codeblock darzustellen, setzt du diesen zu Beginn in dreifach geschweifte Klammern '{' und am Ende '}'.  
   
-Falls eckige Klammern ({{[](..//index.md)}}) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text {{[Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md)}} erscheint als {{[Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md)}}.  
+Falls eckige Klammern ({{\[\]}}) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text {{\[[Beispiel Kein Link\]}} erscheint als {{\[Beispiel Kein Link\]}}.  
   

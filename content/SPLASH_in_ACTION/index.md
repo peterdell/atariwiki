@@ -19,7 +19,7 @@ If you've used Optimized Systems Software's ACTION! language, then you probably 
   
 SPLASH1 (listing 1) is a BASIC program that demonstrates artifacting in Graphics 8. It is an extension of a short program on Antic's public domain disk GRAPHICS & SOUND #1.  
   
-Type in listing 1, check it with TYPO II and SAVE a copy. When you RUN it, use your joystick to choose a point on the GR.8 screen. Pressing the trigger puts a "splash" of lines emanating from this center to all borders. The step size between lines can be changed by simply pressing [5](../5/index.md). The program lets you put as many splashes on the screen as you wish before clearing to start over. It's kind of fun-no violence, no winning score, just pretty.  
+Type in listing 1, check it with TYPO II and SAVE a copy. When you RUN it, use your joystick to choose a point on the GR.8 screen. Pressing the trigger puts a "splash" of lines emanating from this center to all borders. The step size between lines can be changed by simply pressing \[5\]. The program lets you put as many splashes on the screen as you wish before clearing to start over. It's kind of fun-no violence, no winning score, just pretty.  
   
 ### SPLASH IN ACTION!  
   
@@ -47,7 +47,7 @@ The procedure BLine is an implementation of Bresenham's Algorithm-one of the fas
   
 These Dot and BLine routines are fairly easily adapted to other situations. The last program SPLASH4 (listing 4) works in the 4 colors of a GR.7 + screen. My file GR7PLUS at the top has the changes needed for these procedures. Even more speed is gained since some CARDinal variables can now be replaced by faster BYTE types. The PROCedure Gr7plus simply alters the GR.8 display list so that the graphics area becomes GR.7+.  
   
-The program SPLASH4 will let you put splashes on the screen in any of the four available colors. I've also made it easy to alter these. Simply press [H](../H/index.md) [L](../L/index.md) to alter the Hue and Luminence of the current color.  
+The program SPLASH4 will let you put splashes on the screen in any of the four available colors. I've also made it easy to alter these. Simply press \[H\] \[L\] to alter the Hue and Luminence of the current color.  
   
 In ACTION!, like any other procedure oriented language, it is very easy to use part of one program in another. There is no worry about line number compatibility For example, you can use my files GR8 and GR7PLUS in any of your own programs. It is easy and rewarding to build up your own library of useful routines. If you're serious about programming your Atari, then I strongly recommend that you get into ACTION!.  
   

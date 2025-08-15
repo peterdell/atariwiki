@@ -66,11 +66,11 @@ Assembler error messages are printed on the Screen and accompanied by a pleasant
 # EDITING FEATURES  
   
   
-Any time the cursor is at the beginning of a line, typing ~[TAB](../TAB/index.md) will cause the next line number to be generated. Immediately after loading, the "next line number" will be 10. The number will be displayed as five digits and a trailing blank. The cursor will be in a position for the first character of a label, or the asterisk for a comment line, or a semi-colon.  
+Any time the cursor is at the beginning of a line, typing \[TAB\] will cause the next line number to be generated. Immediately after loading, the "next line number" will be 10. The number will be displayed as five digits and a trailing blank. The cursor will be in a position for the first character of a label, or the asterisk for a comment line, or a semi-colon.  
   
 The "next line number" is always the value of the previously entered line number plus the current "increment". The increment is normally 10, but you can set it to any reasonable value with the INCREMENT command.  
   
-If you type the ~[TAB](../TAB/index.md) in any other position than the beginning of a line, it will cause a "tab" to the next tab stop.  
+If you type the \[TAB\] in any other position than the beginning of a line, it will cause a "tab" to the next tab stop.  
   
 # TAB STOPS  
   
@@ -124,7 +124,7 @@ SYNASSEMBLER is a two pass assembler. The ASM command initiates assembly of your
   
 If any errors are detected during either pass, an error message will be printed as well as the offending line. The error message will briefly explain the type of error encountered and the line will be positioned for easy editing. All of these messages abort the assembly process so that as soon as you correct the error condition you may immediately restart the assembly.  
   
-If you are listing the assembly to the screen you may use the ~[CTRL](../CTRL/index.md)+~[1](../1/index.md) control to start and stop your listing. You may abort the assembly process by hitting the ~[BREAK](../BREAK/index.md) key in pass two of the SYNASSEMBLER.  
+If you are listing the assembly to the screen you may use the \[CTRL\]+\[1\] control to start and stop your listing. You may abort the assembly process by hitting the \[BREAK\] key in pass two of the SYNASSEMBLER.  
   
   
 __COPY L1 L2__  
@@ -147,7 +147,7 @@ __HID__e AND __MER__ge
 These two commands, when used with the LOAD command allow you to join a program from disk or tape to a program that is already in memory.  
   
   
-HIDe temporarily changes the HIMEM pointer so that it appears as if there were no source proaram in memory. To remind you that you are HIDe-ing, the prompt symbol changes to ~[H](../H/index.md) ok. After HIDe-ing a program, you can load another one from disk or tape. Then you type MERge to join the two programs together.  
+HIDe temporarily changes the HIMEM pointer so that it appears as if there were no source proaram in memory. To remind you that you are HIDe-ing, the prompt symbol changes to \[H\] ok. After HIDe-ing a program, you can load another one from disk or tape. Then you type MERge to join the two programs together.  
   
 After this sequence of commands the program which was already in memory will follow after the program just LOADed. If the line numbers are not already as you wish them to be, you can use the RENUMBER command to assign new ones.  
   
@@ -196,7 +196,7 @@ The FINd command allows you to search through your source program for a given te
   
 __LIST L1 L2 __  
   
-Lists a single line, a range of lines or your entire program. It works just like the list command in BASIC. While a program or range of lines is listing you can use the standard Atari pause control ~[CTRL1](../CTRL1/index.md), to start and stop the listing to the screen. You may abort the listing by pressing the ~[BREAK](../BREAK/index.md) key.  
+Lists a single line, a range of lines or your entire program. It works just like the list command in BASIC. While a program or range of lines is listing you can use the standard Atari pause control \[CTRL1\], to start and stop the listing to the screen. You may abort the listing by pressing the \[BREAK\] key.  
   
   
 __MEM__ory  
@@ -323,7 +323,7 @@ __RES__tore
 Restores the root source program if an assembly is aborted while inside an "included" module.  
   
   
-The 'root source program" is the source program that is in memory at the time the "ASM" command is issued. If this source program uses the ".IN" directive to include additional source files, it is possible that assembly might be aborted either manually by typing a ~[BREAK](../BREAK/index.md) key during the listing phase, or automatically due to an error in the source program.  
+The 'root source program" is the source program that is in memory at the time the "ASM" command is issued. If this source program uses the ".IN" directive to include additional source files, it is possible that assembly might be aborted either manually by typing a \[BREAK\] key during the listing phase, or automatically due to an error in the source program.  
   
   
 If the assembly is aborted during the time that the root program is hidden, the prompt character changes from "Ok" to "[I](../I/index.md) Ok". The RESTORE command will reset the memory pointers so that the root program is no longer hidden, and change the prompt character back to "Ok".  
@@ -337,7 +337,7 @@ If an assembly aborts due to an error in a source line, you may correct the sour
   
 __RUN__  
   
-Begins execution of your object program. An expression MUST follow the RUN command to define the place to begin execution of the program. For example, "RUN BEGIN" will cause execution to begin at the point in your program where the label BEGIN is defined. Your program will return to SYNASSEMBLER by using an RTS instruction in your program. You may abort your program by hitting the [RESET](../RESET/index.md) key. Or, you may use the ~[BREAK](../BREAK/index.md) key to break and fall back to the monitor.  
+Begins execution of your object program. An expression MUST follow the RUN command to define the place to begin execution of the program. For example, "RUN BEGIN" will cause execution to begin at the point in your program where the label BEGIN is defined. Your program will return to SYNASSEMBLER by using an RTS instruction in your program. You may abort your program by hitting the [RESET](../RESET/index.md) key. Or, you may use the \[BREAK\] key to break and fall back to the monitor.  
   
   
 __VAL__ue  
@@ -442,7 +442,7 @@ The ZYNAPSE monitor in SYNASSEMBLER allows you to examine, change, move, and ver
   
 ### MONITOR COMMANDS  
   
-DISPLAY MEMORY: adrs1.adrs2 ~[RETURN](../RETURN/index.md) This command allows you to display the memory from address1 to address2.  
+DISPLAY MEMORY: adrs1.adrs2 \[RETURN\] This command allows you to display the memory from address1 to address2.  
 ```
 EXAMPLE: 2000.4000 and [RETURN] 
 ```
@@ -539,7 +539,7 @@ A=03 X=00 Y=00 P=90 S=F0
   
 At this point you may modify the register.  
   
-The T command will do the same thing as the S command except it will just repeat it forever. To get out of this mode, just tap the ~[BREAK](../BREAK/index.md) key.  
+The T command will do the same thing as the S command except it will just repeat it forever. To get out of this mode, just tap the \[BREAK\] key.  
   
 QUIT: Q  
   
@@ -677,7 +677,7 @@ Ok.
 
 ```
   
-ASTERISK ~[-](../-/index.md):  
+ASTERISK \[*\]:  
   
 Stands for, the current value of the location counter. This is useful for storing the length of a string as a constant in a program.  
 ```
@@ -701,13 +701,13 @@ Twelve assembler directives are available through SYNASSEMBLER.
   
 .AT (stores ATASCII literals)  
   
-.BS ~[expression](../expression/index.md). (RESERVE ~[expression](../expression/index.md) bytes at the current location.  
+.BS \[expression\]. (RESERVE \[expression\] bytes at the current location.  
   
-.DA ~[expression](../expression/index.md) enter data  
+.DA \[expression\] enter data  
   
 .EN ENd of sources optional  
   
-.EQ ~[expression](../expression/index.md) (EQuate labels)  
+.EQ \[expression\] (EQuate labels)  
   
 .HS (define Hex data)  
   
@@ -715,13 +715,13 @@ Twelve assembler directives are available through SYNASSEMBLER.
   
 .LI ON (Turn on the assembly listing.)  
   
-.IN ~[filename](../filename/index.md) .(Include a source program the specified file.)  
+.IN \[filename\] .(Include a source program the specified file.)  
   
-.OR ~[expression](../expression/index.md) Indicates the originating address of your assembled code.  
+.OR \[expression\] Indicates the originating address of your assembled code.  
   
-.TA ~[expression](../expression/index.md) (Target Address)  
+.TA \[expression\] (Target Address)  
   
-.TF ~[filename](../filename/index.md) --Put the object program on the specified file.  
+.TF \[filename\] --Put the object program on the specified file.  
   
   
 ### ASCII STRING: .AS daaa...ad  
@@ -770,7 +770,7 @@ Creates a constant or variable in your program. The value of the expression as o
   
 This defines the end of the source program. You would normally make this the last line, but you may place it earlier in order to assemble only a portion of the source program. If no .EN is present anywhere in your program, the assembler will assume you meant to put this the last line.  
   
-### EQUATE: label .EQ ~[expression](../expression/index.md)  
+### EQUATE: label .EQ \[expression\]  
   
 Defines the label to have the value of the expression. If the expression is not defined, an error message is printed (UNDEFINED LABEL), and the offending line is listed out. If you neglect to use a label with an equate directive an error message (UNDEFINED LABEL), is printed. In either case, the assembly is aborted so that you can correct the error. All page zero references must be made before they are used or all labels defined after that reference will be off by 1.  
 EXAMPLE  
@@ -803,7 +803,7 @@ If you put .LI OFF at the beginning of your source program and .LI ON at the end
   
 You may also use this pair of directives to bracket any portion of the listing you may wish to see or not see.  
   
-### INCLUDE: .IN ~[file_name](../file_name/index.md)  
+### INCLUDE: .IN \[file name\]  
   
 Causes the contents of the specified source file to be included in the assembly.  
   
@@ -813,7 +813,7 @@ When the .IN directive is processed the root program is temporarily "hidden" and
   
 The .IN directive is useful in assembling extremely large programs which cannot fit in memory all at once. It is also useful for connecting a library of subroutines with a main program.  
   
-The ~[filename](../filename/index.md) portion of the directive is in standard FILESPEC format.  
+The \[filename\] portion of the directive is in standard FILESPEC format.  
 ```
 00020 * START OF PROGRAM
 00030                 .OR $5000
@@ -827,13 +827,13 @@ The ~[filename](../filename/index.md) portion of the directive is in standard FI
   
 This sets the program origin and the target address to the value of the expression. Program orign, is the address at which the object program will be executed. Target address is the address is the memory address at which the object program will be stored during the assembly. The .OR directive sets both of these addresses to the same value, which is the normal way of operating. If you do not use the .OR directive the assembler will set both the program origin and the target address to $4000. If the is not defined during SYNASSEMBLERS pass 1 prior to it's use in the .OR directive, an error message is printed and assembly is aborted. The error message that appears is "UNDEFINED LABEL" and the offending line is listed for easy editing.  
   
-### TARGET ADDRESS: .TA ~[expression](../expression/index.md)  
+### TARGET ADDRESS: .TA \[expression\]  
   
 Sets the target address at which the object code will be stored during assembly. The target address is distinct from the program origin (which is either set by the .OR directive or default at $4000). The .OR directive directive as we have seen, sets both the origin and target address. The .TA directive allows the added control of setting only the target address. Object code is produced and ready to run at the program origin, but is stored starting at the target address.  
   
-### TARGET FILE: .TF ~[filename](../filename/index.md)  
+### TARGET FILE: .TF \[filename\]  
   
-Causes the object code generated to be stored an a binary file rather than in memory. Only the code which follows the .TF directive will be stored on the file. Code will be stored on the file until another .TF directive is encountered, or until a .TA or .OR directive is encountered. The ~[filename](../filename/index.md) format is the standard ATARI filespec format.  
+Causes the object code generated to be stored an a binary file rather than in memory. Only the code which follows the .TF directive will be stored on the file. Code will be stored on the file until another .TF directive is encountered, or until a .TA or .OR directive is encountered. The \[filename\] format is the standard ATARI filespec format.  
   
 When you wish to assemble a program which will execute at an address normally occuppied by the assembler ($9C00 through $C000) or an already resident source program, you need to use the .TA and the .OR directives. Set the origin first, using the .OR directive and then set the target address to a safe value using the .TA directive. It is always safe to start the target area at $4000.  
 ```
@@ -1102,7 +1102,7 @@ Sometimes you may need to utilize certain commands repeatedly. You can do this b
 EXAMPLE:	N 2FC AD;0N
 ```
 This will display location 2FC until  
-~[BREAK](../BREAK/index.md) or ~[SYSTEM_RESET](../SYSTEM_RESET/index.md) is pressed.  
+\[BREAK\] or \[SYSTEM RESET\] is pressed.  
   
   
 ### SYNASSEMBLER Memory Map  

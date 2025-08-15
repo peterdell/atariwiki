@@ -33,7 +33,7 @@ Each of the eigth commands consists of a single ASCII character, with the follow
 - '-' : decrement the memory cell under the memory pointer,  
 - ',' : fills the memory cell under the memory pointer with the ASCII value of next character from the input,  
 - '.' : writes the contents of the memory cell under the memory pointer as a character with the corresponding ASCII value,  
-- '~['_:_moves_to_the_command_following_the_matching_'~](../'_:_moves_to_the_command_following_the_matching_'~/index.md)', if the memory cell under the memory pointer is zero, and  
+- '\[' : moves to the command following the matching '~\]', if the memory cell under the memory pointer is zero, and  
 - '~]' : moves to the command following the matching '~[', if the memory cell under the memory pointer is not zero.  
   
 All commands are executed sequentially, except when specified differently. Other characters are skipped, thus considered as comments. The execution terminates when the end of the program is reached.  

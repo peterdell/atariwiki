@@ -135,4 +135,4 @@ Colleen original Floating Point Routines listing (1979)
 ![](attachments/Carol.jpg)  
 Image of Carol Shaw when starting the cartridge  
   
-[Author: Carol Shaw, creator of River Raid, 3D Tic-Tac-Toe and many other programs.](../thanksCarol_Shaw/index.md)  
+Author: Carol Shaw, creator of River Raid, 3D Tic-Tac-Toe and many other programs. Thanks Carol Shaw.  

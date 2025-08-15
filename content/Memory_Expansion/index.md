@@ -12,7 +12,7 @@ title: Memory Expansion
 - Megablast 1 - Thorsten Karwoth, 64k, block E  
 - Mental Age - Tomasz Biela (Tebe), etc., 64k , block E  
 - Problem Jasia - Mirage, 64k , block E  
-- ~[The_Amazing](../The_Amazing/index.md) Spiderman - Questprobe, 64k , block E  
+- \[The Amazing\] Spiderman - Questprobe, 64k , block E  
   
 ## "Games" that require more than 64k RAM:  
   
@@ -62,7 +62,7 @@ title: Memory Expansion
 - Monte Carlo (solitaire) - J.R. Chicko, 64k, block E  
 - Monte Carlo II (solitaire) - J.R. Chicko, 64k, block E  
 - National Hockey League 98 - David Spilka (Datri), 64k, block E [1](../1/index.md) (czech language!)  
-- ~[Der](../Der/index.md) Neffe - XE-version by ???, 64k, block E [1](../1/index.md) (german language!)Note: „Der Neffe“ also exists as an english version, named „The Nephew“, I have not tested yet if this english version requires 64k or 128k memory...  
+- \[Der\] Neffe - XE-version by ???, 64k, block E [1](../1/index.md) (german language!)Note: „Der Neffe“ also exists as an english version, named „The Nephew“, I have not tested yet if this english version requires 64k or 128k memory...  
 - Oelbaron - XE-version by ???, 64k, block E [1](../1/index.md) (german language!)  
 - Osmosis (solitaire) - J.R. Chicko, 64k, block E  
 - Selective Canfield (solitaire) - J.R. Chicko, 64k, block E  

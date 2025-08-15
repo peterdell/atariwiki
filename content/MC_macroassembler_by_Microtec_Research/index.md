@@ -18,14 +18,14 @@ MCLINK.EXE
 ## References  
 ---
   
-Usage: [options](../options/index.md) [sourcefile](../sourcefile/index.md)]  
+Usage: \[options\] \[sourcefile[[ \]]  
   
 Options are ("-" - disable, "+" or none - enable):  
   
-/D[[+](../-/index.md)    - place or not debug info in the file (default is /D+)  
-/W[[+](../-/index.md)    - enable or not warning messages (default is /W+)  
-/L[[+](../-/index.md)    - generate or not the file (default is /L+)  
-/T[[+](../-/index.md)    - swap or not the file to disk (default is /T-)  
+/D\[+|-\]    - place or not debug info in the file (default is /D+)  
+/W\[+|-\]    - enable or not warning messages (default is /W+)  
+/L\[+|-\]    - generate or not the file (default is /L+)  
+/T\[+|-\]    - swap or not the file to disk (default is /T-)  
 /Mnnnn      - restrict macro recursion depth (default is /M100)  
 /Rnnnn      - restrict repeat block repetitions (default is /R500)  
 /Ix;x;...   - assign include directories  

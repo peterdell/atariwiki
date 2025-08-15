@@ -46,7 +46,7 @@ BEGIN <ausdruck1> WHILE <ausdruck2> REPEAT
 BEGIN <ausdruckl> UNTIL 
 BEGIN <ausdruck1> REPEAT
 ```
-Auch hier darf bei den Assemblerworten cc nicht weggelassen werden. Außerdem ist nur genau ein {{{?[}}}_zwischen_{{{}}}_und_{{{](../}}}_zwischen_{{{}}}_und_{{{/index.md)]?}}} zulässig. Beachten Sie bitte auch den Unterschied zwischen {{{]]}}} und {{{]]?}}} !  
+Auch hier darf bei den Assemblerworten cc nicht weggelassen werden. Außerdem ist nur genau ein {{{?\[}}} zwischen {{{[[}}} und {{{\]]?}}} zulässig. Beachten Sie bitte auch den Unterschied zwischen {{{]]}}} und {{{]]?}}} !  
   
 Als condition code sind zulässig:  
 ```

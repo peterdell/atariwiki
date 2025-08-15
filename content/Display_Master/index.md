@@ -19,15 +19,15 @@ I was sitting in front of my Atari, which was flipping through a collection of p
   
 Type in the program and save it to disk. Because it uses a good deal of memory; you must compile the program directly from disk. See your ACTION! manual if you're uncertain of this procedure.  
   
-When run, Display Master will present you with four options: You can load a new Micro-Painter format picture file, or manipulate a previously loaded picture file, or manipulate a built-in moire pattern, or run a demo program. (We'll discuss Micro Illustrator files later.) For now, choose [D](../D/index.md) for the demo program.  
+When run, Display Master will present you with four options: You can load a new Micro-Painter format picture file, or manipulate a previously loaded picture file, or manipulate a built-in moire pattern, or run a demo program. (We'll discuss Micro Illustrator files later.) For now, choose \[D\] for the demo program.  
   
 A random moire pattern will be drawn on the screen and Display Master will go through its paces. Any time you want to stop, press any keys and you'll return to the option menu.  
   
 ### PICTURE MANIPULATION  
   
-Press [P](../P/index.md) to load a Micro-Painter file, and you will be asked to place a disk with your pictures in drive 1. These files must be 62 sectors with an extension of .MIC or .PlC. Press [RETURN](../RETURN/index.md) when the disk is in the drive and you will see a directory of the files. Type in the device and filename, in the form D:FILENAME.?IC, press [RETURN](../RETURN/index.md) and you will arrive at the programming screen.  
+Press \[P\] to load a Micro-Painter file, and you will be asked to place a disk with your pictures in drive 1. These files must be 62 sectors with an extension of .MIC or .PlC. Press \[RETURN\] when the disk is in the drive and you will see a directory of the files. Type in the device and filename, in the form D:FILENAME.?IC, press \[RETURN\] and you will arrive at the programming screen.  
   
-(If you don't have Micro-Painter files, choose [M](../M/index.md) to manipulate a moire screen.)  
+(If you don't have Micro-Painter files, choose \[M\] to manipulate a moire screen.)  
   
 The programming screen is where You choose your sequence of display manipulation "steps." Display Master offers you 10 manipulation choices and you can program a sequence of up 250 steps. The choices are:  
   
@@ -44,22 +44,22 @@ The programming screen is where You choose your sequence of display manipulation
   
 Editing this sequence requires the use of 4 keys on the keyboard. Together they allow you to create a series of steps. Each step, when executed, will store the chosen manipulation for that step and move on to the next. The 4 edit keys are:  
   
-[-](../-/index.md) Minus key to back up a step.   
-[_](../_/index.md) Plus key to move forward a step.   
-[-](../-/index.md) Asterisk key to delete that step.   
-[-](../-/index.md) Equal key to begin execution.   
+\[-\] Minus key to back up a step.   
+\[+\] Plus key to move forward a step.   
+\[*\] Asterisk key to delete that step.   
+\[=\] Equal key to begin execution.   
   
-To install a new step simply select an option from 0 to 9 and type that key. The chosen manipulation will be inserted at the current step mumber. A small step window is displayed with the current step pointed to by a "greater than" symbol [-](../-/index.md).  
+To install a new step simply select an option from 0 to 9 and type that key. The chosen manipulation will be inserted at the current step mumber. A small step window is displayed with the current step pointed to by a "greater than" symbol \[>\].  
   
 For example, type the following sequence:  
   
 3939292988670  
   
-The pointer should now be pointing to step 14. Press the equal key [-](../-/index.md) then [START](../START/index.md) and the picture will be loaded into memory then displayed with an ACTION! version of Fader. Your new sequence will then begin. To halt the manipulations, press [START](../START/index.md) until the first option menu appears again. From here you can load another picture or return to the editing screen to change the sequence on the currently loaded picture.  
+The pointer should now be pointing to step 14. Press the equal key \[=\] then \[START\] and the picture will be loaded into memory then displayed with an ACTION! version of Fader. Your new sequence will then begin. To halt the manipulations, press \[START\] until the first option menu appears again. From here you can load another picture or return to the editing screen to change the sequence on the currently loaded picture.  
   
 ### MICRO ILLUSTRATOR  
   
-If you don't have Micro-Painter; you can save Micro Illustrator files (the software that comes with KoalaPad, Atari Touch Tablet, etc.) by pressing [INSERT](../INSERT/index.md) while in Micro Illustrator. This will save your picture in a 62 sector, uncompacted file called PICTURE.  
+If you don't have Micro-Painter; you can save Micro Illustrator files (the software that comes with KoalaPad, Atari Touch Tablet, etc.) by pressing \[INSERT\] while in Micro Illustrator. This will save your picture in a 62 sector, uncompacted file called PICTURE.  
   
 Unfortunately, the last four bytes of Micro-Painter files contain color register values which will not be saved with this process. To add color to uncompressed Micro Illustrator files, RUN the BASIC program below after placing your color values in the variables in line 10, and you picture filename in line 20.  
 ```

@@ -1,5 +1,5 @@
 ---
-title: Assembly Course from ZMagazine
+title: Assembly Course from Z-Magazine
 ---
 # Assembly Language Course (from Z*Magazine)  
   

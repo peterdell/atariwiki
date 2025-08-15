@@ -164,6 +164,6 @@ ATARI Personal Financial Management System as part of The Home Manager Kit
   
 ## Thanks  
   
-[James Bradford](../Thankssection-Thanks-JamesBradford/index.md) help in preserving this software  
+James Bradford for his help in preserving this software  
   
 Thank you Bill Lange for providing the articles from the 1982 M.A.C.E. Newsletters, the ad pictures and the help to solve the mystery around the box.  

@@ -35,9 +35,9 @@ Please note, that must stand before {{{?[}}} always (!) A condition code. There 
   
 Other control structures are:  
 (((  
-[-ausdruck1-_Cc?_-ausdruck2-](../-ausdruck1-_Cc?_-ausdruck2-/index.md)]?  
-[-ausdruck1-_Cc?](../-ausdruck1-_Cc?/index.md)  
-[-ausdruck1-](../-ausdruck1-/index.md)]  
+\[<ausdruck1> Cc? [[<ausdruck2>\]]?  
+\[<ausdruck1> Cc?\]  
+\[<ausdruck1>\]]  
 )))  
   
 The analogous expressions in Forth are:  
@@ -46,7 +46,7 @@ The analogous expressions in Forth are:
 BEGIN UNTIL <ausdruckl>  
 BEGIN REPEAT <ausdruck1>  
 )))  
-Here, too, must not be left out at the assembler cc words. Moreover, exactly one {{{?[}}}_between_{{{}}}_and_{{{](../}}}_between_{{{}}}_and_{{{/index.md)]?}}} is permitted. Also note the difference between {{{]]}}} and {{{]]?}}}!  
+Here, too, must not be left out at the assembler cc words. Moreover, exactly one {{{?\[}}} between {{{[[}}} and {{{\]]?}}} is permitted. Also note the difference between {{{]]}}} and {{{]]?}}}!  
   
 As a condition code will be accepted:  
 (((  

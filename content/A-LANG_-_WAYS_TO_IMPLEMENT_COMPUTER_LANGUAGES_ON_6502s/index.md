@@ -153,9 +153,9 @@ could be eliminated.
 Creating code when everything was implemented would go through  
 the following steps (with product types in square brackets):  
   
-~[Simple_Code_as_ASCII_text_created_by_a_programmer](../Simple_Code_as_ASCII_text_created_by_a_programmer/index.md) ->  
+\[Simple Code as ASCII text, created by a programmer\] ->  
 Simple compiler. ->  
-~[ASM__Code_as_ASCII_text](../ASM__Code_as_ASCII_text/index.md) ->  
+\[ASM+ Code as ASCII text\] ->  
 Special preprocessor and/or done as part of the "linker" step ->  
 ~[List of procedures & what they call; also input/output params, globals,  
 and a list of variable sizes which need allocation] ->  
@@ -180,7 +180,7 @@ does a peephole optimization pass on the assembly-with-some-macros.
 Pass two of ASM+ assembler. Transform all normal macro expansions into  
 6502 code, then do another peephole optimization.  
   
-~[Executable_Code](../Executable_Code/index.md)  
+\[Executable Code\]  
   
 "Compiling" a Simple or ASM+ file is relatively cheap.  
 Linking on larger systems would get expensive, since there would be  

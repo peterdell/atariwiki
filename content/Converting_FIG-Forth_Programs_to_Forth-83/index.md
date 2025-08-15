@@ -169,7 +169,7 @@ implementations.
 1. Search for all instances of PICK and ROLL, replace them by 1- PICK and 1- ROLL respectively.  
 1. Examine all DO...LOOPs.  Any loop which might be entered with the limit equal to the index should have DO replaced with ?DO.  
 1. Search for all instances of LEAVE. Note that the action of LEAVE will be immediate. If it occurs within a IF...ELSE...THEN clause, LEAVE should be the last word before the ELSE or THEN. If LEAVE is used within a DO...+LOOP construct, make sure that the incrementing value will not remain on the stack if LEAVE is executed.  
-1. Search for all instances of ' (tick) within a colon-definition.  If it was not preceded by ~[COMPILE](../COMPILE/index.md),  replace it with ~['](../'/index.md).  
+1. Search for all instances of ' (tick) within a colon-definition.  If it was not preceded by \[COMPILE\],  replace it with \['\].  
 1. Search for all instances of ." (dot-quote) outside of colon definitions, replace the ." with .( and the closing delimiter " with ) to prevent compilation failures.  
 1. Search for all instances of NFA, PFA, LFA, and CFA. It is best to examine these and recode them individually, but you can make some "brute force" substitutions as follows:  
 ```
@@ -190,7 +190,7 @@ Bear in mind that the old definitions had the following actions:
          PFA       ( nfa --- pfa )
 ```
 These were predicated on the fact that ' (tick) returned the  
-parameter field address. Since ' and ~['](../'/index.md) now return the code  
+parameter field address. Since ' and \['\] now return the code  
 field address, the new words suggested by Kim Harris revolve  
 around that value:  
 ```

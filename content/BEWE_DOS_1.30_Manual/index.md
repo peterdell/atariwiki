@@ -48,7 +48,7 @@ UPPER CASE LETTERS, and other characters such as numbers etc. must be written ex
   
 lower case letters - It must be substituted by corresponding parameter, for example name of the file you want to work with.  
   
-~[parameter](../parameter/index.md) - This means that the parameter may be used, but if you needn't it, you can simply skip this one, and type rest of the example. (Don't type the characters "~["_and_"](../"_and_"/index.md)" !)  
+\[parameter\] - This means that the parameter may be used, but if you needn't it, you can simply skip this one, and type rest of the example. (Don't type the characters "\[" and "\]" !)  
   
 (ON|OFF) - This tell you that you need to type "ON", or "OFF" (not both).  
   
@@ -64,11 +64,11 @@ Dn: - The specification of a disk drive, where "n" is number of the drive. You c
   
 device: - Specification of device, which is not a disk drive. For example "E:" for screen editor, "C:" for tape recorder, "P:" for printer etc.  
   
-filename - Full name of a file - it is "name~[.ext](../.ext/index.md)". While writing a file, you can add "/A" after filename to add the new file at the end of old file with the same name. (Without of "/A" the new file will replace the old one.) A filename with wild cards in it may be also called as "filter".  
+filename - Full name of a file - it is "name\[.ext\]". While writing a file, you can add "/A" after filename to add the new file at the end of old file with the same name. (Without of "/A" the new file will replace the old one.) A filename with wild cards in it may be also called as "filter".  
   
-path - Specification of directory, in which the wanted file is. There are two kinds of path - Absolute: ">~[name](../name/index.md)~[-name](../-name/index.md)...", and relative: "~[-](../-/index.md)~[-](../-/index.md)...~[name](../name/index.md)~[-name](../-name/index.md)...". See explanation later in this manual for more details.  
+path - Specification of directory, in which the wanted file is. There are two kinds of path - Absolute: ">\[name\]\[>name\]...", and relative: "\[<\]\[<\]...\[name\]\[>name\]...". See explanation later in this manual for more details.  
   
-file - This means full specification of file to work with. The syntax is "~[Dn:](../Dn:/index.md)~[path-](../path-/index.md)filename".  
+file - This means full specification of file to work with. The syntax is "\[Dn:\]\[path>\]filename".  
   
   
 Every numbers are entered as hexadecimal numbers (without of the "$" identificator). File positions are up to 6 digits long, while memory adresses and sector numbers are up to 4 digits long.  
@@ -1035,7 +1035,7 @@ This table allows machine code programs to get parameters from the CP, and to us
 * -2: WRTCMD - There is the SIO command used for every write operations. It is "P" for writting without of verify, or "W" for writting with verify. (Any other value may cause big troubles.) This byte is changed by the "VERIFY" command. It is recommended to use the SIO command from this byte for all write operations in every programs.  
 *  +0: COMTAB - At this point, there is an instruction for starting the CP. You can use the instruction "JMP ($0A)" under any DOS; it will allways start a CP, DUP menu, or something like that.  
 * +3: CRNAME - Here is an instruction, which jumps to the "CRNAME" routine. This routine will get the next parameter from command line in "LBUF", add a "Dn:" if none was specified, and place the result in "COMFNAM"  
-* +6: DIVIO - here is the adress of "DIVIO" routine. This routine may be used to start a batch file or the HardCopy function. Before starting this routine, the complete filename ("device:" or "Dn:~[path-](../path-/index.md)filename") must be placed in "COMFNAM", and the "Y" register must be set to 0 for the HardCopy function, or 1 for a batch file. This routine will return any errors in the "Y" register and "N" flag in the same way as CIO or SIO. (That's different from SpartaDOS 3.x)  
+* +6: DIVIO - here is the adress of "DIVIO" routine. This routine may be used to start a batch file or the HardCopy function. Before starting this routine, the complete filename ("device:" or "Dn:\[path>\]filename") must be placed in "COMFNAM", and the "Y" register must be set to 0 for the HardCopy function, or 1 for a batch file. This routine will return any errors in the "Y" register and "N" flag in the same way as CIO or SIO. (That's different from SpartaDOS 3.x)  
 * +8: XDIVIO - There is the adress of "XDIVIO" routine. This routine may be used to stop a batch file or the HardCopy function. Before starting this routine, the "Y" register must be 0 for the HardCopy function, or 1 for a batch file.  
 * +10: BUFOFF -  This is the position of next character in "LBUF" for the "CRNAME" routine.  
 * +13: DATER /  +16: TIMER - This is the main variable for date and time (3+3 bytes). It is in the format "day, month, year; hour, min., sec." This variable is used by "GETTD" and "SETTD" routines, and while creating a file.  

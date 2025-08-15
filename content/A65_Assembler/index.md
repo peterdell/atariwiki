@@ -29,9 +29,9 @@ A start at implementing support for the 65C02 opcodes is in the code, but
 what is there has not been tested very thouroughly and most of the opcodes  
 and addressing modes are not in place yet.  Otherwise, the machine  
 instructions are as any other standard 6502 assembler would expect.  
-Expressions can include +, -, * and / operators as well as HIGH[](..//index.md) and LOW[](..//index.md)  
+Expressions can include +, -, * and / operators as well as HIGH\[\] and LOW\[\]  
 functions to extract the high and low bytes of 16-bit numbers.  Brackets,  
-[_and](../_and/index.md), may be used to group terms in an expression if necessary.  Symbols  
+\[ and \], may be used to group terms in an expression if necessary.  Symbols  
 may have up to 11 characters, including upper and lower case letters,  
 underscores and numbers.  Symbols must start with an underscore or letter,  
 and case is significant except for the predefined assembler opcodes and the  
@@ -115,7 +115,7 @@ load address) rather than a random value left over in memory.
 Errors are marked in the listing file (as before) but they are also echoed  
 to the screen, and the total number of errors (in HEX) are reported at the  
 end of the assembly.  If any errors occur, the automatic return to the DOS  
-prompt is delayed until the [RETURN](../RETURN/index.md) key is pressed to give you an opportunity  
+prompt is delayed until the \[RETURN\] key is pressed to give you an opportunity  
 to note any (unexpected) errors reported.  
   
 Finally, some errors that were previously accepted (and generated bad code)  

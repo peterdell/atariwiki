@@ -63,7 +63,7 @@ A meta compiler is a  single  pass  compiler  written  in  forth, producing  cod
 compiling.  Which source code to use depends on which environment  theapplication  is  compiled  for,  local or target.  Two sources for one  
 application can cause many headaches in  application  development  and maintenance.  
   
-Several immediate and defining  words  create  problems  in  meta compiling.   These words include but are not limited to:  program flow control constructs, "compile", "~[compile](../compile/index.md)" "create", "."" (dot-quote), and  "does>" .  Since immediate and defining words refer to and modify the local environment, problems arises when  compiling  for  a  target environment.  
+Several immediate and defining  words  create  problems  in  meta compiling.   These words include but are not limited to:  program flow control constructs, "compile", "\[compile\]" "create", "."" (dot-quote), and  "does>" .  Since immediate and defining words refer to and modify the local environment, problems arises when  compiling  for  a  target environment.  
   
 The usual solution changes words referring to a local environment to  refer to a target environment and this fix introduces ambiguities. As an example of these ambiguities let's look at constants.  
   
@@ -254,7 +254,7 @@ compiler.
   
 -  address_literal creates an embedded address constant.  
   
--  compile, interpret, and ~[compile](../compile/index.md) change to use e,  
+-  compile, interpret, and \[compile\] change to use e,  
   
 -  back changes to use a,  
   
@@ -651,8 +651,8 @@ constants storage
 -  Naming relocatable addresses as constants.  (This is  ok  for  
 non-relocatable addresses).  
   
--  Address  calculations  using  ~[...](attachments/...)  literal.   (They  should  
-change to ~[...](attachments/...) address.literal).  
+-  Address  calculations  using  \[...\]  literal.   (They  should  
+change to \[...\] address.literal).  
   
   
 All of the tricks are either bad or lazy  programming  practices.  

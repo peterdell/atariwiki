@@ -45,17 +45,17 @@ whereas single density (810 drive) sectors contain only 128,
 certain absolute byte number references may vary depending upon  
 the diskette in use. Throughout this chapter, in such cases, the  
 single density number is given followed by the double density  
-number in square brackets ~[thus~](../thus~/index.md).  
+number in square brackets \[thus~\].  
   
 ## DATA SECTORS  
   
-A Data Sector is used to contain the file's data bytes. Each 128 ~[256~](../256~/index.md) byte data sector is organized to hold 125 ~[253~](../253~/index.md) bytes of data and three bytes of control. The data bytes start with the first byte (byte 0) in the sector and run contiguously up to, and including, byte 124 ~[252~](../252~/index.md). The control information starts at byte 125 ~[253~](../253~/index.md)  
+A Data Sector is used to contain the file's data bytes. Each 128 \[256~\] byte data sector is organized to hold 125 \[253~\] bytes of data and three bytes of control. The data bytes start with the first byte (byte 0) in the sector and run contiguously up to, and including, byte 124 \[252~\]. The control information starts at byte 125 \[253~\]  
   
-The sector byte count is contained in byte 127 ~[255~](../255~/index.md). This value is the actual number of data bytes in this particular sector. The value may range from zero (no data) to 125 ~[253~](../253~/index.md) (a full sector). Any data sector in a file may be a short sector (contain less than 125 ~[253~](../253~/index.md) data bytes).  
+The sector byte count is contained in byte 127 \[255~\]. This value is the actual number of data bytes in this particular sector. The value may range from zero (no data) to 125 \[253~\] (a full sector). Any data sector in a file may be a short sector (contain less than 125 \[253~\] data bytes).  
   
-The left six bits of byte 125 ~[253~](../253~/index.md) contain the file number of the file. This number corresponds to the location of the file's entry in the Directory. Directory entry zero in Directory sector $169 has a file number of zero. Entry one in Directory sector $169 has a file number one, and so forth. The file number value may range from zero to 63 ($3F). The file number is used to insure that the sectors of one file do not get mixed up with the sectors of another file.  
+The left six bits of byte 125 \[253~\] contain the file number of the file. This number corresponds to the location of the file's entry in the Directory. Directory entry zero in Directory sector $169 has a file number of zero. Entry one in Directory sector $169 has a file number one, and so forth. The file number value may range from zero to 63 ($3F). The file number is used to insure that the sectors of one file do not get mixed up with the sectors of another file.  
   
-The right two bits of byte 125 ~[253~](../253~/index.md) (and all eight bits of byte 126 ~[254~](../254~/index.md)) are used to point to the next data sector in the file. The ten bit number contains the actual disk sector number of the next sector. Its value ranges from zero to 719 ($2CF). If the value is zero then there are no more sectors in the file sector chain. The last sector in the file sector chain is the End-Of-File sector. The End-of-File sector will almost always be a short sector.  
+The right two bits of byte 125 \[253~\] (and all eight bits of byte 126 \[254~\]) are used to point to the next data sector in the file. The ten bit number contains the actual disk sector number of the next sector. Its value ranges from zero to 719 ($2CF). If the value is zero then there are no more sectors in the file sector chain. The last sector in the file sector chain is the End-Of-File sector. The End-of-File sector will almost always be a short sector.  
   
 ## DISK DIRECTORY  
   

@@ -124,7 +124,7 @@ user instead of 'Link'.
 ~NoLink    = disable link creation for the word in CamelCase.  
 [1](../1/index.md)        = make a reference to a bartnote numbered 1.  
 [1](../1/index.md)       = mark the bartnote number 1.  
-[link](../link/index.md)     = create text '[link](../link/index.md)'.  
+\[link\]     = create text '[link](../link/index.md)'.  
   
 ### heading   = small heading with text 'heading'  
 ## heading  = medium heading with text 'heading'  
@@ -222,7 +222,7 @@ text2
   
 HTML funktioniert nicht.  
 Um einen Codeblock darzustellen, setzt du diesen zu Beginn in dreifach geschweifte Klammern '{' und am Ende '}'.  
-Falls eckige Klammern ([]) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md) erscheint als [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md).  
+Falls eckige Klammern ([]) in einer Seite erforderlich sind, ohne einen Link erzeugen zu wollen, müssen zwei einleitende klammern gesetzt werden. Der Text \[Beispiel Kein Link\] erscheint als [Beispiel_Kein_Link](../Beispiel_Kein_Link/index.md).  
   
   
 ### BIN-Image  

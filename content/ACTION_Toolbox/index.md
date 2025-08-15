@@ -28,7 +28,7 @@ For efficiency and versatility, the following two procedures fill the gap nicely
   
 ### 1: WORDFIND  
   
-This procedure strips each Word, one at a time, from String--which is a global __BYTE ARRAY__ similar to a BASIC string variable. In the process it discards the spaces between Words, no matter how many times you pressed the [SPACEBAR](../SPACEBAR/index.md).  
+This procedure strips each Word, one at a time, from String--which is a global __BYTE ARRAY__ similar to a BASIC string variable. In the process it discards the spaces between Words, no matter how many times you pressed the \[SPACEBAR\].  
   
 In its first loop, __Wordfind()__ searches String for a non-space character, incrementing the Index into the array as it goes. Upon finding one, it stores the Index value in Start. The next loop searches for a space - and the end of the Word - while continuing to increment Index.  
   
