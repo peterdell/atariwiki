@@ -89,8 +89,8 @@ Synapse Assembler has been written by Steve Hales. Steve Hales was and still is 
 ## ROM-Images  
 - [Synassembler.rom](attachments/Synassembler.rom) ; rom image for Atari 400-800 with OS B; md5: e5dd9f57ff9b807d52a99869dfbfcc17  
 - [Synassembler_XL.rom](attachments/Synassembler_XL.rom) ; rom image for Atari XL-XE; md5: 7375df1158ad81f52160f417a49ff78e  
-- [Synassembler(classic).zip](attachments/Synassembler(classic).zip) ; rom images for Atari 400-800 with OS B with different themes  
-- [Synassembler(XL-XE).zip](attachments/Synassembler(XL-XE).zip) ; rom images for Atari XL-XE with different themes  
+- [Synassemblerclassic.zip](attachments/Synassemblerclassic.zip) ; rom images for Atari 400-800 with OS B with different themes  
+- [SynassemblerXL-XE.zip](attachments/SynassemblerXL-XE.zip) ; rom images for Atari XL-XE with different themes  
   
 ## ATR-Image  
 - [SynAssembler.atr](attachments/SynAssembler.atr) ; atr image for all Atari computers ; with special DOS for direct jump back to the program  

@@ -12,9 +12,9 @@ Loading instructions:
 - [Atari_Energy_Czar_CX4121-1.pdf](attachments/Atari_Energy_Czar_CX4121-1.pdf) ; version 1 with bookmarks ; size: 4.5 MB  
 - [Atari_Energy_Czar_CX4121-2.pdf](attachments/Atari_Energy_Czar_CX4121-2.pdf) ; version 2 without bookmarks ; size: 21.6 MB  
 ## CAS-Image  
-- [Atari_Energy_Czar_CX4121_(Basic).cas](attachments/Atari_Energy_Czar_CX4121_(Basic).cas) ; cassette-version, please use with BASIC cartridge  
+- [Atari_Energy_Czar_CX4121_Basic.cas](attachments/Atari_Energy_Czar_CX4121_Basic.cas) ; cassette-version, please use with BASIC cartridge  
 ## ATR-Image  
-- [Atari_Energy_Czar_CX4121_(Basic).atr](attachments/Atari_Energy_Czar_CX4121_(Basic).atr) ; diskette-version, please use with BASIC cartridge  
+- [Atari_Energy_Czar_CX4121_Basic.atr](attachments/Atari_Energy_Czar_CX4121_Basic.atr) ; diskette-version, please use with BASIC cartridge  
 ## Box  
 ![](attachments/Box1.jpg)  
 Atari Energy Czar CX4121 - Box front  

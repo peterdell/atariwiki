@@ -25,7 +25,7 @@ Da wir leider von AUSTRO.RECOVER keine originale Diskette haben, sondern ledigli
 - [AUSTRO.RECOVER ATX-Image von Version 1.00](attachments/Austro_Recover.ATX) ; MD5-Checksum: a0bc419f85cf98ceea5264c87de6923c ; Mega-Dank an Floppydoc für das Erstellen der ATX-Datei aus den Kryo-RAW-Dateien einer gebrauchten Diskette. Leider haben wir derzeit nur so eine Version, kein Original! Sofern jemand eine originale Diskette besitzt, würden wir uns sehr freuen, wenn diese leihweise zur Verfügung gestellt werden könnte. :-)))  
   
 ## ATR-Image  
-- [AUSTRO.RECOVER ATR-Image von Version 1.00](attachments/Austro.Recover_(1985)(Austro.Com)(AT).atr) ; MD5-Checksum: 40734966d67f5524c16a15ce5b794f84 ; Mega-Dank an DjayBee von AtariAge für das Erstellen der ATR-Datei aus der oben stehenden ATX-Datei. Damit hast Du allen Atari-Usern einen großen Gefallen getan! :-) Bitte weiter so. :-)))  
+- [AUSTRO.RECOVER ATR-Image von Version 1.00](attachments/Austro.Recover_1985Austro.ComAT.atr) ; MD5-Checksum: 40734966d67f5524c16a15ce5b794f84 ; Mega-Dank an DjayBee von AtariAge für das Erstellen der ATR-Datei aus der oben stehenden ATX-Datei. Damit hast Du allen Atari-Usern einen großen Gefallen getan! :-) Bitte weiter so. :-)))  
   
 ## Handbuch  
 __Leider haben wir derzeit kein Handbuch zu AUSTRO.RECOVER. Jede Hilfe hierzu ist auf das Herzlichste willkommen. :-)))__  

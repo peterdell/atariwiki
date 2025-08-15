@@ -1,6 +1,6 @@
 # Huishoud-Boek (Disk: DXN 421)  
 ## Disk-Image:  
-[Huishoudboek_(DXN_421).zip](attachments/Huishoudboek_(DXN_421).zip)  
+[Huishoudboek_DXN_421.zip](attachments/Huishoudboek_DXN_421.zip)  
 ## Box  
 ||Box-Front cover||Box - Back cover  
 | ![](attachments/Huishoudboek_front.jpg) | ![](attachments/Huishoudboek_back.jpg)  

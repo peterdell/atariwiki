@@ -1,7 +1,7 @@
 # Atari Macro Assembler and Program-Text Editor CX8121  
 ## ATR- and ATX-Images  
 - [Atari Macro Assembler V1.0A and Program-Text Editor 1.0 and Editor Customizing Manager 0.0 (Basic) - Original Diskette in an ATX image](attachments/Atari_Macro_Assembler_and_Program_Text_Editor.atx)  
-- [Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0_and_Editor_Customizing_Manager_0.0_(Basic).zip](attachments/Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0_and_Editor_Customizing_Manager_0.0_(Basic).zip)  
+- [Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0_and_Editor_Customizing_Manager_0.0_Basic.zip](attachments/Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0_and_Editor_Customizing_Manager_0.0_Basic.zip)  
 - [Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0.zip](attachments/Atari_Macro_Assembler_V1.0A_and_Program-Text_Editor_1.0.zip)  
 - [Atari_Macro_Assembler_Ver._1.0C.zip](attachments/Atari_Macro_Assembler_Ver._1.0C.zip)  
 - [Atari_Macro_Assembler_Ver._1.0D_with_OSS_DOS_XL_2.30p_Color.atr](attachments/Atari_Macro_Assembler_Ver._1.0D_with_OSS_DOS_XL_2.30p_Color.atr) ; fix for DOS XL ; Thank you so much [drac030](http://drac030.krap.pl/en-fixes.php) for your help! :-)))  

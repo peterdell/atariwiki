@@ -2,8 +2,8 @@
 The Atari Proofreader has a very unique serial number beginning with the letter A instead of D, which is normal for diskettes.  
   
 ## ATR-Files  
-- [Atari_Proofreader_(1985)(Atari)(US)(Disk_1_of_2)(Program_Diskette)(cr_CSS).atr](attachments/Atari_Proofreader_(1985)(Atari)(US)(Disk_1_of_2)(Program_Diskette)(cr_CSS).atr)  
-- [Atari_Proofreader_(1985)(Atari)(US)(Disk_2_of_2)(Dictionary_Diskette).atr](attachments/Atari_Proofreader_(1985)(Atari)(US)(Disk_2_of_2)(Dictionary_Diskette).atr)  
+- [Atari_Proofreader_1985AtariUSDisk_1_of_2Program_Diskettecr_CSS.atr](attachments/Atari_Proofreader_1985AtariUSDisk_1_of_2Program_Diskettecr_CSS.atr)  
+- [Atari_Proofreader_1985AtariUSDisk_2_of_2Dictionary_Diskette.atr](attachments/Atari_Proofreader_1985AtariUSDisk_2_of_2Dictionary_Diskette.atr)  
 - [Atari_Proofreader-Program_Diskette-DX_5073.atr](attachments/Atari_Proofreader-Program_Diskette-DX_5073.atr)  
 - [Atari_Proofreader-Dictionary_Diskette-DX5074.atr](attachments/Atari_Proofreader-Dictionary_Diskette-DX5074.atr)  
   
@@ -12,8 +12,8 @@ The Atari Proofreader has a very unique serial number beginning with the letter 
 - [Atari_Proofreader-Dictionary_Diskette-DX5074.atx](attachments/Atari_Proofreader-Dictionary_Diskette-DX5074.atx)  
   
 ## Manuals  
-- [Atari_Proofreader_AX2033-CO16083-73_REV._A_(1985)-Print-OCR.pdf](attachments/Atari_Proofreader_AX2033-CO16083-73_REV._A_(1985)-Print-OCR.pdf) ; size: 7.4 MB ; ready to print version with OCR  
-- [Atari_Proofreader_AX2033-CO16083-73_REV._A_(1985)-Screen-OCR.pdf](attachments/Atari_Proofreader_AX2033-CO16083-73_REV._A_(1985)-Screen-OCR.pdf) ; size: 1.1 MB ; screen optimized version with OCR  
+- [Atari_Proofreader_AX2033-CO16083-73_REV._A_1985-Print-OCR.pdf](attachments/Atari_Proofreader_AX2033-CO16083-73_REV._A_1985-Print-OCR.pdf) ; size: 7.4 MB ; ready to print version with OCR  
+- [Atari_Proofreader_AX2033-CO16083-73_REV._A_1985-Screen-OCR.pdf](attachments/Atari_Proofreader_AX2033-CO16083-73_REV._A_1985-Screen-OCR.pdf) ; size: 1.1 MB ; screen optimized version with OCR  
   
 ## Pictures  
 ![](attachments/proofreader_d7.jpg)  

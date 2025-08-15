@@ -8,7 +8,7 @@ Diese deutsche Lernsoftware scheint verloren in der Zeit. Jeder Hinweis auf sie,
 - [Himmelsschreiber_-_D7_-_DXG_5704.pro](attachments/Himmelsschreiber_-_D7_-_DXG_5704.pro) ; deutsche Version vom englischen Sky Writer ; PRO image-Datei, geschützt ; vielen lieben Dank an eine gute Atari-Seele in Deutschland für den Verkauf und Marsupilami, der die Version gekauft hat, eingescannt und digitalisiert hat, die deutsche Gemeinschaft ist euch zu großem Dank verpflichtet!  
   
 ## ATR image  
-- [Himmelsschreiber_(1983)(Atari)(DE)(BASIC)(cr_CSS).atr](attachments/Himmelsschreiber_(1983)(Atari)(DE)(BASIC)(cr_CSS).atr) ; deutsche Version vom englischen Sky Writer ; ATR-Version vom CSS, wir danken ganz herzlich für die Erstellung einer Version, mit der man problemfrei arbeiten kann. Vielen lieben Dank! Wir sind in Deiner Schuld!  
+- [Himmelsschreiber_1983AtariDEBASICcr_CSS.atr](attachments/Himmelsschreiber_1983AtariDEBASICcr_CSS.atr) ; deutsche Version vom englischen Sky Writer ; ATR-Version vom CSS, wir danken ganz herzlich für die Erstellung einer Version, mit der man problemfrei arbeiten kann. Vielen lieben Dank! Wir sind in Deiner Schuld!  
   
 ## Bilder  
 ![](attachments/Himmel_Schreiber_Cover.jpg)  

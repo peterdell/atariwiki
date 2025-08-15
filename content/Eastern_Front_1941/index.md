@@ -5,10 +5,10 @@ Copyright (C) 1981-1983 by Chris Crawford, Atari, Inc. and (APX-10050) ; include
 Eastern Front 1941 is by far one of the most important games ever written for the Atari. Chris Crawford, a genius of his own, even used AI in his program! Please look for yourself in the source code below. Maybe, the reader can imagine, how far ahead he was of his time and still is! Besides this, publishing the source code was a revolution! Chris opened by this a complete new field, which was a giant leap to make Atari great. AtariWiki respects his work by inserting the chapter 'Source Code'. This site is still under construction, because it takes some time to follow a genius's thoughts.  
   
 ## CAR Images  
-- [Eastern_Front_(1941)_(1982)(Atari)(US).car](attachments/Eastern_Front_(1941)_(1982)(Atari)(US).car)  
+- [Eastern_Front_1941_1982AtariUS.car](attachments/Eastern_Front_1941_1982AtariUS.car)  
   
 ## BIN Images  
-- [Eastern_Front_(1941).bin](attachments/Eastern_Front_(1941).bin)  
+- [Eastern_Front_1941.bin](attachments/Eastern_Front_1941.bin)  
   
 ## ATR Images  
 - [Eastern_Front_1941.zip](attachments/Eastern_Front_1941.zip) ; size: 583 KB ; collection of many ATR images, including source codes and scenario editor APX-20233  

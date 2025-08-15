@@ -9,8 +9,8 @@ The Bond Analysis program will allow the business minded investor to 'study and 
   
 As a final note, it is important that the investor understand exactly the data which these two programs provide. Utilizing the ATARI 800 computer, these programs provide an analysis of either a stock or bond. They do not project the future for your portfolio. They can not tell you whether your stock will split or fall. All these programs do is provide the user with a means through which he can compare different portfolios in a simple and accurate format which will also provide him with certain consequential calculations. Therefore, if you're in need of a means with which you can organize, analyze, and compute certain information for investment and tax purposes, then the ATARI Investment analysis program series should fit all your investment analysis needs.  
 ## ATR images  
-- [Bond_Analysis_CX8106_(Original).atr](attachments/Bond_Analysis_CX8106_(Original).atr) ; original diskette  
-- [Bond_Analysis_CX8106_(working).atr](attachments/Bond_Analysis_CX8106_(working).atr) ; working diskette from the original one  
+- [Bond_Analysis_CX8106_Original.atr](attachments/Bond_Analysis_CX8106_Original.atr) ; original diskette  
+- [Bond_Analysis_CX8106_working.atr](attachments/Bond_Analysis_CX8106_working.atr) ; working diskette from the original one  
 ## Manuals  
 - [Bond_Analysis_CX8106_Version_1.pdf](attachments/Bond_Analysis_CX8106_Version_1.pdf) ; version with bookmarks ; size: 1.3 MB  
 - [Bond_Analysis_CX8106_Version_2.pdf](attachments/Bond_Analysis_CX8106_Version_2.pdf) ; version without bookmarks ; size: 11.3 MB  

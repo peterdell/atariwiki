@@ -2,9 +2,9 @@
   
 ## ATR-Images:  
   
-[An_Invitation_to_Programming_Side_1_(Lessons_1-3).atr](attachments/An_Invitation_to_Programming_Side_1_(Lessons_1-3).atr) Lessons 1-3 disk  
+[An_Invitation_to_Programming_Side_1_Lessons_1-3.atr](attachments/An_Invitation_to_Programming_Side_1_Lessons_1-3.atr) Lessons 1-3 disk  
   
-[An_Invitation_to_Programming_Side_2_(Lessons_4-6).atr](attachments/An_Invitation_to_Programming_Side_2_(Lessons_4-6).atr) Lessons 4-6 disk  
+[An_Invitation_to_Programming_Side_2_Lessons_4-6.atr](attachments/An_Invitation_to_Programming_Side_2_Lessons_4-6.atr) Lessons 4-6 disk  
   
 ## Manuals:  
   

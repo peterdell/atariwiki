@@ -329,7 +329,7 @@ edit command:  C
   
 purpose:       Change memory contents  
   
-usage:         c hxnum1 < (,)(hxnum) [()(hxnum)__...](attachments/()(hxnum)__...)  
+usage:         c hxnum1 < (,)(hxnum) [hxnum__...](attachments/hxnum__...)  
   
 Although MAC/65 does not included a debug capability, there are a few machine  
 level commands included for the convenience of the user who would, for example,  
@@ -386,7 +386,7 @@ edit command:  ENTER
 purpose:       allow entry of ASCII (or ATASCII)  
 text files into MAC/65 editor memory  
   
-usage:         ENTER #filespec [_(M)_(A)](../_(M)_(A)/index.md)  
+usage:         ENTER #filespec [_M_A](../_M_A/index.md)  
   
 ENTER will cause the Editor to get ASCII text from the specified device.  ENTER  
 will clear the text area before entering from the filespec.  That is any user  
@@ -571,7 +571,7 @@ edit command:  REP
 purpose:       REPlaces occurrence(s) of a given string  
 with another given string.  
   
-usage: REP/old string/new string/ [1no1_1no2](../1no1_1no2/index.md)] [(A)(Q)](../(A)(Q)/index.md)  
+usage: REP/old string/new string/ [1no1_1no2](../1no1_1no2/index.md)] [AQ](../AQ/index.md)  
   
 The REP command will search the specified lines (all or 1no1 through 1no2) for  
 the "old string"  
@@ -752,7 +752,7 @@ line number + mandatory space + source statement
   
 The source statement may be in one of the following forms:  
   
-[label](../label/index.md) [(6502_instruction)_(directive)](../(6502_instruction)_(directive)/index.md) [comment](../comment/index.md)  
+[label](../label/index.md) [6502_instruction_directive](../6502_instruction_directive/index.md) [comment](../comment/index.md)  
   
 The following examples are valid source lines:  
   
@@ -1197,8 +1197,8 @@ purpose:    specifies the contents of individual
 bytes in the output object  
   
 usage:  
-[label](../label/index.md) .BYTE  [_exp](../_exp/index.md) (exp)(strvar)[(exp)(strvar)_...](attachments/(exp)(strvar)_...)  
-[label](../label/index.md) .SBYTE [_exp](../_exp/index.md)(exp)(strvar)[(exp)(strvar)_...](attachments/(exp)(strvar)_...)  
+[label](../label/index.md) .BYTE  [_exp](../_exp/index.md) (exp)(strvar)[expstrvar_...](attachments/expstrvar_...)  
+[label](../label/index.md) .SBYTE [_exp](../_exp/index.md)(exp)(strvar)[expstrvar_...](attachments/expstrvar_...)  
   
 The .BYTE and .SBYTE directives allow the user to generate individual bytes of  
 memory image in the output object.  Expressions must evaluate to an 8-bit  
@@ -1265,7 +1265,7 @@ significant bit of the last byte of a
 string argument is inverted  
   
 usage:  
-[label](../label/index.md) .CBYTE [_exp](../_exp/index.md)(exp)(strvar) [(exp)(strvar)...](attachments/(exp)(strvar)...)  
+[label](../label/index.md) .CBYTE [_exp](../_exp/index.md)(exp)(strvar) [expstrvar...](attachments/expstrvar...)  
   
 The .CBYTE directive may often be used to advantage when building tables of  
 strings, etc., where it is desirable to indicate the end of a string by some  

@@ -1,11 +1,11 @@
 # An Invitation to Programming 1 - Fundamentals of Basic Programming CX4101  
   
 ## ATR-Images:  
-[An_Invitation_to_Programming_Side_1_(Lessons_1-3).atr](attachments/An_Invitation_to_Programming_Side_1_(Lessons_1-3).atr) Lessons 1-3 disk  
+[An_Invitation_to_Programming_Side_1_Lessons_1-3.atr](attachments/An_Invitation_to_Programming_Side_1_Lessons_1-3.atr) Lessons 1-3 disk  
   
-[An_Invitation_to_Programming_Side_2_(Lessons_4-6).atr](attachments/An_Invitation_to_Programming_Side_2_(Lessons_4-6).atr) Lessons 4-6 disk  
+[An_Invitation_to_Programming_Side_2_Lessons_4-6.atr](attachments/An_Invitation_to_Programming_Side_2_Lessons_4-6.atr) Lessons 4-6 disk  
   
-[Programmieren_leicht_gemacht_TXG4110_(Basic).atr](attachments/Programmieren_leicht_gemacht_TXG4110_(Basic).atr) Programmieren leicht gemacht-Lernen Sie BASIC mit Dagmar Berghoff-TXG4110  
+[Programmieren_leicht_gemacht_TXG4110_Basic.atr](attachments/Programmieren_leicht_gemacht_TXG4110_Basic.atr) Programmieren leicht gemacht-Lernen Sie BASIC mit Dagmar Berghoff-TXG4110  
   
 ## Manuals:  
 [An_Invitation_to_Programming_1-Screen_Version.pdf](attachments/An_Invitation_to_Programming_1-Screen_Version.pdf) (897 KB) (C) 1979 Atari  

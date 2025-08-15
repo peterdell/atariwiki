@@ -9,15 +9,15 @@ As of 2018, there is still much chaos regarding AtariWriter. We have a normal ve
   
   
 ## CAR Images  
-- [AtariWriter_(Version_A_Brown_Label).car](attachments/AtariWriter_(Version_A_Brown_Label).car)  
-- [AtariWriter_(Version_C_Silver_Label).car](attachments/AtariWriter_(Version_C_Silver_Label).car)  
+- [AtariWriter_Version_A_Brown_Label.car](attachments/AtariWriter_Version_A_Brown_Label.car)  
+- [AtariWriter_Version_C_Silver_Label.car](attachments/AtariWriter_Version_C_Silver_Label.car)  
 - [AtariWriter_1982.car](attachments/AtariWriter_1982.car)  
   
 ## ROM Images  
   
 ## BIN Images  
-- [AtariWriter_(Version_A_Brown_Label).bin](attachments/AtariWriter_(Version_A_Brown_Label).bin)  
-- [AtariWriter_(Version_C_Silver_Label).bin](attachments/AtariWriter_(Version_C_Silver_Label).bin)  
+- [AtariWriter_Version_A_Brown_Label.bin](attachments/AtariWriter_Version_A_Brown_Label.bin)  
+- [AtariWriter_Version_C_Silver_Label.bin](attachments/AtariWriter_Version_C_Silver_Label.bin)  
   
 ## ATX Images  
   
@@ -33,26 +33,26 @@ As of 2018, there is still much chaos regarding AtariWriter. We have a normal ve
 - [Atari_Writer_Clipart.atr](attachments/Atari_Writer_Clipart.atr)  
 - [Atari_Writer_Plus_130_XE.atr](attachments/Atari_Writer_Plus_130_XE.atr)  
 - [Atari_Writer_Plus_800_XL.atr](attachments/Atari_Writer_Plus_800_XL.atr)  
-- [AtariWriter_Plus_(800XLXE).atr](attachments/AtariWriter_Plus_(800XLXE).atr)  
+- [AtariWriter_Plus_800XLXE.atr](attachments/AtariWriter_Plus_800XLXE.atr)  
 - [Atari_Writer_Plus_Demo.atr](attachments/Atari_Writer_Plus_Demo.atr)  
 - [Atari_Writer_Plus_Dictionary.atr](attachments/Atari_Writer_Plus_Dictionary.atr)  
 - [Atari_Writer_Plus_XE.atr](attachments/Atari_Writer_Plus_XE.atr)  
 - [Atari_Writer_Plus_XL-XE.atr](attachments/Atari_Writer_Plus_XL-XE.atr)  
 - [Atari_Writer_Plus_XL.atr](attachments/Atari_Writer_Plus_XL.atr)  
 - [Atari_Writer_Utils.atr](attachments/Atari_Writer_Utils.atr)  
-- [Atari_Writer__(1985)_(Atari)_(Side_A).atr](attachments/Atari_Writer__(1985)_(Atari)_(Side_A).atr)  
-- [Atari_Writer__(1985)_(Atari)_(Side_B).atr](attachments/Atari_Writer__(1985)_(Atari)_(Side_B).atr)  
+- [Atari_Writer__1985_Atari_Side_A.atr](attachments/Atari_Writer__1985_Atari_Side_A.atr)  
+- [Atari_Writer__1985_Atari_Side_B.atr](attachments/Atari_Writer__1985_Atari_Side_B.atr)  
 - [Atari_Writer__A.atr](attachments/Atari_Writer__A.atr)  
 - [Atari_Writer__B.atr](attachments/Atari_Writer__B.atr)  
-- [AtariWriter_Plus_(v1s1).atr](attachments/AtariWriter_Plus_(v1s1).atr)  
-- [AtariWriter_Plus_(v1s2doc).atr](attachments/AtariWriter_Plus_(v1s2doc).atr)  
-- [AtariWriter_Plus_(v2)_2.atr](attachments/AtariWriter_Plus_(v2)_2.atr)  
-- [AtariWriter_Plus_(v2).atr](attachments/AtariWriter_Plus_(v2).atr)  
+- [AtariWriter_Plus_v1s1.atr](attachments/AtariWriter_Plus_v1s1.atr)  
+- [AtariWriter_Plus_v1s2doc.atr](attachments/AtariWriter_Plus_v1s2doc.atr)  
+- [AtariWriter_Plus_v2_2.atr](attachments/AtariWriter_Plus_v2_2.atr)  
+- [AtariWriter_Plus_v2.atr](attachments/AtariWriter_Plus_v2.atr)  
 - [Atariwriter_Plus_A.atr](attachments/Atariwriter_Plus_A.atr)  
 - [Atariwriter_Plus_B.atr](attachments/Atariwriter_Plus_B.atr)  
 - [Atariwriter_Plus.atr](attachments/Atariwriter_Plus.atr)  
-- [AtariWriter_80_(800XLXE).atr](attachments/AtariWriter_80_(800XLXE).atr)  
-- [AtariWriter_80_(130XE).atr](attachments/AtariWriter_80_(130XE).atr)  
+- [AtariWriter_80_800XLXE.atr](attachments/AtariWriter_80_800XLXE.atr)  
+- [AtariWriter_80_130XE.atr](attachments/AtariWriter_80_130XE.atr)  
 - [AtariWriter_80_-_Dictionary.atr](attachments/AtariWriter_80_-_Dictionary.atr)  
   
 ## XEX file  

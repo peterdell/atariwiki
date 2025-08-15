@@ -27,18 +27,18 @@ Thank you so much Tomasz 'Kr0tki' Krasuski for the info in building the runtime,
   
 ## ROM-Images  
 - [BASIC_XE_4.1.rom](attachments/BASIC_XE_4.1.rom)  
-- [OSS_Basic_XE_7.2_(universal).rom](attachments/OSS_Basic_XE_7.2_(universal).rom) ; should work with SpartaDOS ; this is __not__ an official OSS-, ICD- nor FTe- product ; author unknown  
+- [OSS_Basic_XE_7.2_universal.rom](attachments/OSS_Basic_XE_7.2_universal.rom) ; should work with SpartaDOS ; this is __not__ an official OSS-, ICD- nor FTe- product ; author unknown  
   
 ## BIN-Image  
-- [Basic_XE_v4.2_(1986-02-09)(Lawrow_Stephen_D.)(US)(034M).bin](attachments/Basic_XE_v4.2_(1986-02-09)(Lawrow_Stephen_D.)(US)(034M).bin) ; '034M'-version created by a good soul from AtariAge ; thank you so much good soul! :-)))  
-- [Basic_XE_v4.2_(1986-02-09)(Lawrow_Stephen_D.)(US)(043M).bin](attachments/Basic_XE_v4.2_(1986-02-09)(Lawrow_Stephen_D.)(US)(043M).bin) ; just runs in Altirra with OSS '043M' ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st runtime, we owe you so much. :-)))  
-- [Basic_XE_v4.2_(1986-02-09)(OSS)(US)(M091).bin](attachments/Basic_XE_v4.2_(1986-02-09)(OSS)(US)(M091).bin) ; 'M091'-version created by Tomasz 'Kr0tki' Krasuski; thank you so much Tomasz 'Kr0tki' Krasuski for building the runtime, we owe you so much. :-)))  
+- [Basic_XE_v4.2_1986-02-09Lawrow_Stephen_D.US034M.bin](attachments/Basic_XE_v4.2_1986-02-09Lawrow_Stephen_D.US034M.bin) ; '034M'-version created by a good soul from AtariAge ; thank you so much good soul! :-)))  
+- [Basic_XE_v4.2_1986-02-09Lawrow_Stephen_D.US043M.bin](attachments/Basic_XE_v4.2_1986-02-09Lawrow_Stephen_D.US043M.bin) ; just runs in Altirra with OSS '043M' ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st runtime, we owe you so much. :-)))  
+- [Basic_XE_v4.2_1986-02-09OSSUSM091.bin](attachments/Basic_XE_v4.2_1986-02-09OSSUSM091.bin) ; 'M091'-version created by Tomasz 'Kr0tki' Krasuski; thank you so much Tomasz 'Kr0tki' Krasuski for building the runtime, we owe you so much. :-)))  
   
 ## ATR-Image  
 - [BASIC_XE_Extension_Disk.atr](attachments/BASIC_XE_Extension_Disk.atr) ; original BASIC XE Extension Disk, works with with version 4.1  
 - [BASIC_XE_4.2_Extension_Disk_with_DOS_XL_v2.30p.atr](attachments/BASIC_XE_4.2_Extension_Disk_with_DOS_XL_v2.30p.atr) ; BASIC XE Extension Disk, works with with version 4.2 ; thank you so much drac030 from AtariAge, your work is very much appreciated! :-)  
 - [Some example programs](attachments/BXL_BXE_programs.zip) ; thanks to Charlie Chaplin from AtariAge. :-)  
-- [Basic XE Detokenizer Ver. 1.11 (4-6-89)](attachments/Basic_XE_Detokenizer_Ver._1.11_(4-6-89)_by_Psycho.atr)  
+- [Basic XE Detokenizer Ver. 1.11 (4-6-89)](attachments/Basic_XE_Detokenizer_Ver._1.11_4-6-89_by_Psycho.atr)  
   
 ## Manuals  
 - [OSS-Basic XE Reference Manual](https://data.atariwiki.org/DOC/OSS_BASIC_XE_Reference_Manual.pdf) 39.0 MB, OCR, onesided, incredible quality made by GoodByteXL. Thank you so much GoodByteXL, you really make the best PDF-files available. Please go ahead with your outstanding work! :-)))  

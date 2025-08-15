@@ -29,17 +29,17 @@ Das Handbuch in elektronischer Form (PDF-Datei, s. u.) entspricht dem originalen
   
 ### ATR- und CAS-Images:  
   
-Atari Statistics I CX4103 (deutsch) (Disk Version) Disketten-Image: [Atari_Statistik_I_Rev_1.2_CX4103_(Disk_Version)_(deutsch)_(Basic).atr](attachments/Atari_Statistik_I_Rev_1.2_CX4103_(Disk_Version)_(deutsch)_(Basic).atr)   
+Atari Statistics I CX4103 (deutsch) (Disk Version) Disketten-Image: [Atari_Statistik_I_Rev_1.2_CX4103_Disk_Version_deutsch_Basic.atr](attachments/Atari_Statistik_I_Rev_1.2_CX4103_Disk_Version_deutsch_Basic.atr)   
   
-Atari Statistics I CX4103 (englisch) (Disk Version) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_(Disk_Version)_(Basic).atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_(Disk_Version)_(Basic).atr)   
+Atari Statistics I CX4103 (englisch) (Disk Version) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Disk_Version_Basic.atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Disk_Version_Basic.atr)   
   
-Atari Statistics I CX4103 (englisch) Side A (Cassette Version) Kassetten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Side_A_(Cassette_Version)_(Basic).cas](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Side_A_(Cassette_Version)_(Basic).cas)   
+Atari Statistics I CX4103 (englisch) Side A (Cassette Version) Kassetten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Side_A_Cassette_Version_Basic.cas](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Side_A_Cassette_Version_Basic.cas)   
   
-Atari Statistics I CX4103 (englisch) Side B (Disk Version) Kassetten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Side_B_(Disk_Version)_(Basic).cas](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Side_B_(Disk_Version)_(Basic).cas)   
+Atari Statistics I CX4103 (englisch) Side B (Disk Version) Kassetten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Side_B_Disk_Version_Basic.cas](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Side_B_Disk_Version_Basic.cas)   
   
-Atari Statistics I CX4103 (englisch) (Cassette Version-Autorun) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_(Cassette_Version-Autorun)_(Basic).atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_(Cassette_Version-Autorun)_(Basic).atr)   
+Atari Statistics I CX4103 (englisch) (Cassette Version-Autorun) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Cassette_Version-Autorun_Basic.atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Cassette_Version-Autorun_Basic.atr)   
   
-Atari Statistics I CX4103 (englisch) (Complete Cassette Import) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_(Complete_Cassette_Import)_(Basic).atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_(Complete_Cassette_Import)_(Basic).atr)  
+Atari Statistics I CX4103 (englisch) (Complete Cassette Import) Disketten-Image: [Atari_Statistics_I_Rev_1.2_CX4103_Complete_Cassette_Import_Basic.atr](attachments/Atari_Statistics_I_Rev_1.2_CX4103_Complete_Cassette_Import_Basic.atr)  
   
 ### Handbücher:  
   

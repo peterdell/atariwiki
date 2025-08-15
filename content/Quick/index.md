@@ -26,7 +26,7 @@ All German versions can be published here, except the English versions of 2.1 an
 We are sorry, we can't offer the ATR images of version 2.1 and 2.2 in English for free, but the right holder: [dgs](http://www.dgs.clara.net/) offers them for a cheap price. Quick version 2.2 english currently costs US$5 on its own, or US$7 when included in the full DGS commercial software pack. Both are delivered as a ZIP file containing ATR files of the disks (including two support disks), along with a PDF of the English manual.  
   
 ## Manual  
-- [Quick_v2_0_Handbuch_(deutsch).pdf](attachments/Quick_v2_0_Handbuch_(deutsch).pdf) ; size: 563 KB ; German Quick manual ; Thank you so much Mr. Barcardi for help in this, we really appreciate this. :-)  
+- [Quick_v2_0_Handbuch_deutsch.pdf](attachments/Quick_v2_0_Handbuch_deutsch.pdf) ; size: 563 KB ; German Quick manual ; Thank you so much Mr. Barcardi for help in this, we really appreciate this. :-)  
   
 ## Articles  
 - [original_Quick_Articles_from_german_Atari_Magazin](../original_Quick_Articles_from_german_Atari_Magazin/index.md)  

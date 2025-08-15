@@ -79,22 +79,22 @@ Für c) bis e) einschließlich gilt:
 - [Atari_Graph_It_CX4109_Band_B_Seite_2.cas](attachments/Atari_Graph_It_CX4109_Band_B_Seite_2.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
   
 (deutsch):  
-- [Graph_It_II_(TXG_9517)_Kassette_A_Seite_1.cas](attachments/Graph_It_II_(TXG_9517)_Kassette_A_Seite_1.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
-- [Graph_It_II_(TXG_9517)_Kassette_A_Seite_2.cas](attachments/Graph_It_II_(TXG_9517)_Kassette_A_Seite_2.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
-- [Graph_It_II_(TXG_9517)_Kassette_B_Seite_1.cas](attachments/Graph_It_II_(TXG_9517)_Kassette_B_Seite_1.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
-- [Graph_It_II_(TXG_9517)_Kassette_B_Seite_2.cas](attachments/Graph_It_II_(TXG_9517)_Kassette_B_Seite_2.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
+- [Graph_It_II_TXG_9517_Kassette_A_Seite_1.cas](attachments/Graph_It_II_TXG_9517_Kassette_A_Seite_1.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
+- [Graph_It_II_TXG_9517_Kassette_A_Seite_2.cas](attachments/Graph_It_II_TXG_9517_Kassette_A_Seite_2.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
+- [Graph_It_II_TXG_9517_Kassette_B_Seite_1.cas](attachments/Graph_It_II_TXG_9517_Kassette_B_Seite_1.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
+- [Graph_It_II_TXG_9517_Kassette_B_Seite_2.cas](attachments/Graph_It_II_TXG_9517_Kassette_B_Seite_2.cas) ; bitte mit BASIC-Modul starten, dann den Befehl "CLOAD" eingeben und 2 x RETURN drücken  
   
 ## ATR-Images:  
-Atari Graph It CX4109 (englisch, 1980) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Atari_Graph_It_CX4109_(Basic).atr](attachments/Atari_Graph_It_CX4109_(Basic).atr)  
-Atari Graph It CX4109 (englisch, 1980) alle Kassetten-Images auf einem Disk-Image __mit__ Vorprogramm: [Atari_Graph_It_CX4109_(Basic)_(Complete_Cassette_Import).atr](attachments/Atari_Graph_It_CX4109_(Basic)_(Complete_Cassette_Import).atr)  
+Atari Graph It CX4109 (englisch, 1980) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Atari_Graph_It_CX4109_Basic.atr](attachments/Atari_Graph_It_CX4109_Basic.atr)  
+Atari Graph It CX4109 (englisch, 1980) alle Kassetten-Images auf einem Disk-Image __mit__ Vorprogramm: [Atari_Graph_It_CX4109_Basic_Complete_Cassette_Import.atr](attachments/Atari_Graph_It_CX4109_Basic_Complete_Cassette_Import.atr)  
   
-Atari Graph It TXG9517 (deutsch, 1980) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Atari_Graph_It_TXG9517_(deutsch)_(Basic).atr](attachments/Atari_Graph_It_TXG9517_(deutsch)_(Basic).atr)  
-Atari Graph It TXG9517 (deutsch, 1980) alle Kassetten-Images auf einem Disk-Image __mit__ Vorprogramm: [Atari_Graph_It_CX4109_(Basic)_(Complete_Cassette_Import)_(deutsch)_mit_Vorprogramm.atr](attachments/Atari_Graph_It_CX4109_(Basic)_(Complete_Cassette_Import)_(deutsch)_mit_Vorprogramm.atr)  
+Atari Graph It TXG9517 (deutsch, 1980) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Atari_Graph_It_TXG9517_deutsch_Basic.atr](attachments/Atari_Graph_It_TXG9517_deutsch_Basic.atr)  
+Atari Graph It TXG9517 (deutsch, 1980) alle Kassetten-Images auf einem Disk-Image __mit__ Vorprogramm: [Atari_Graph_It_CX4109_Basic_Complete_Cassette_Import_deutsch_mit_Vorprogramm.atr](attachments/Atari_Graph_It_CX4109_Basic_Complete_Cassette_Import_deutsch_mit_Vorprogramm.atr)  
   
 Enhancements to Graph It, APX-20074 (englisch, 1982) (C) Howard D. Siebenrock  
-[Enhancements_to_Graph_It_APX-20074_(C)_1982_Howard_D._Siebenrock-final.atr](attachments/Enhancements_to_Graph_It_APX-20074_(C)_1982_Howard_D._Siebenrock-final.atr)  
+[Enhancements_to_Graph_It_APX-20074_C_1982_Howard_D._Siebenrock-final.atr](attachments/Enhancements_to_Graph_It_APX-20074_C_1982_Howard_D._Siebenrock-final.atr)  
   
-Atari Graph It TXG9517 (deutsch, 1983) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Graph_It_(TXG_9517)_(C)_1983_by_Atari_Deutschland_GMBH.atr](attachments/Graph_It_(TXG_9517)_(C)_1983_by_Atari_Deutschland_GMBH.atr)  
+Atari Graph It TXG9517 (deutsch, 1983) alle Kassetten-Images auf einem Disk-Image __ohne__ Vorprogramm: [Graph_It_TXG_9517_C_1983_by_Atari_Deutschland_GMBH.atr](attachments/Graph_It_TXG_9517_C_1983_by_Atari_Deutschland_GMBH.atr)  
   
 ## Handbücher:  
 Für den Bildschirm optimiertes Handbuch (englisch) als PDF-Datei (3,1 MB): [Graph_It_CX4109_Screen_Version.pdf](attachments/Graph_It_CX4109_Screen_Version.pdf)  

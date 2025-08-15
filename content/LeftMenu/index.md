@@ -97,7 +97,7 @@ __What's New?__
 ---
 [Voice and Data Cassettes](../ArticlesVoiceAndDataCassettes/index.md)  
 ---
-[Atari Program Exchange (APX)](../Atari_Program_Exchange_(APX)_Software/index.md)  
+[Atari Program Exchange (APX)](../Atari_Program_Exchange_APX_Software/index.md)  
 ---
 [Atari_Learning_System_Software](../Atari_Learning_System_Software/index.md)  
 ---

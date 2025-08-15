@@ -9,7 +9,7 @@ In diesem Programm der „Spielend lernen mit ATARI“-Serie, wird Sie [Dagmar B
 Ein Beispiel der Tagesschau mit der wundervollen Dagmar Berghoff finden Sie weiter unten im Abschnitt Filme. In diesem Kursus wurde ferner die Musik von Barry White & The Love Unlimited Orchestra verwendet. Es wird der instrumentale Titel: "Love's theme" verwendet. Den vollständigen Titel finden Sie ebenfalls im Abschnitt Filme weiter unten. Vielen lieben Dank an: Marsupilami von Atariage [Atarinside](https://atarinside.dyndns.org/blog/index.php/atari-deutschland/) für das Auffinden und Zusammenstellen der Clips, wir sind Dir sehr dankbar!  
   
 ## ATR-Images  
-- [Programmieren_leicht_gemacht_TXG4110_(Basic).atr](attachments/Programmieren_leicht_gemacht_TXG4110_(Basic).atr) ; Programmieren leicht gemacht - Lernen Sie BASIC mit [Dagmar Berghoff](https://de.wikipedia.org/wiki/Dagmar_Berghoff) - TXG4110 ; Ex­trak­ti­on der einzelnen Kursteile von der Kassette als Basic-Programme auf einer einzelnen Diskette zum schnellerem Einladen.  
+- [Programmieren_leicht_gemacht_TXG4110_Basic.atr](attachments/Programmieren_leicht_gemacht_TXG4110_Basic.atr) ; Programmieren leicht gemacht - Lernen Sie BASIC mit [Dagmar Berghoff](https://de.wikipedia.org/wiki/Dagmar_Berghoff) - TXG4110 ; Ex­trak­ti­on der einzelnen Kursteile von der Kassette als Basic-Programme auf einer einzelnen Diskette zum schnellerem Einladen.  
   
 ## CAS-Images  
 - [Programmieren_leicht_gemacht_TXG4110.cas](attachments/Programmieren_leicht_gemacht_TXG4110.cas) ; Programmieren leicht gemacht - Lernen Sie BASIC mit [Dagmar Berghoff](https://de.wikipedia.org/wiki/Dagmar_Berghoff) - TXG4110 ; der komplette Kurs in einer CAS-Datei beinhaltet beide Seiten der Kassette, d. h. sowohl die Seite 1, als auch die Seite 2.  

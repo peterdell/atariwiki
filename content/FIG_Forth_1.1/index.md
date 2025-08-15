@@ -3,7 +3,7 @@
 Enhanced FigForth, disk block based.  
   
 ## ATR-Images  
-- [Forth_with_DOS_2.5_SD_(OS-B).atr](attachments/Forth_with_DOS_2.5_SD_(OS-B).atr) ; APX Extended fig-Forth 1.1 and valForth 1.1 with DOS 2.5 color ; OS B required  
+- [Forth_with_DOS_2.5_SD_OS-B.atr](attachments/Forth_with_DOS_2.5_SD_OS-B.atr) ; APX Extended fig-Forth 1.1 and valForth 1.1 with DOS 2.5 color ; OS B required  
   
 ## Screens  
   

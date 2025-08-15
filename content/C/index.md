@@ -32,15 +32,15 @@ C programming language for the Atari. A subset of C, C/65 only generated assembl
   
 ### Manuals  
 - [OSS C-65 Manual.pdf](http://data.atariwiki.org/DATA/OSS_C-65-Manual.pdf) ; size: 40,2 MB; thanks to Serious Computerist  
-- [OSS_C-65_Reference_Manual-(C)_1982_OSS_Inc..pdf](attachments/OSS_C-65_Reference_Manual-(C)_1982_OSS_Inc..pdf) ;full OSS C/65 Reference Manual with OCR; mega-thanks to Fuji-Man from AtariAge!  
+- [OSS_C-65_Reference_Manual-C_1982_OSS_Inc..pdf](attachments/OSS_C-65_Reference_Manual-C_1982_OSS_Inc..pdf) ;full OSS C/65 Reference Manual with OCR; mega-thanks to Fuji-Man from AtariAge!  
 - [C/65 Manual (text version)](../C65Manual-Text/index.md)  
 - [OSS_C_65_Quick_Start_Guide.pdf](attachments/OSS_C_65_Quick_Start_Guide.pdf)  
   
 ### ATR images  
 - [OSS_C-65.atr](attachments/OSS_C-65.atr) OSS C/65  
 - [OSS_C-65_with_TURBO-DOS_XE.atr](attachments/OSS_C-65_with_TURBO-DOS_XE.atr) OSS C/65 with TURBO-DOS XE  
-- [C-65_(A)_-_C-65_with_DOS_XL_2.30.atr](attachments/C-65_(A)_-_C-65_with_DOS_XL_2.30.atr) OSS C/65 with DOS XL 2.30 - Part A with the compiler  
-- [C-65_(B)__-_MAC-65_with_DOS_XL_2.30.atr](attachments/C-65_(B)__-_MAC-65_with_DOS_XL_2.30.atr) OSS C/65 with DOS XL 2.30 and MAC/65 as editor for creating C source files - Part B  
+- [C-65_A_-_C-65_with_DOS_XL_2.30.atr](attachments/C-65_A_-_C-65_with_DOS_XL_2.30.atr) OSS C/65 with DOS XL 2.30 - Part A with the compiler  
+- [C-65_B__-_MAC-65_with_DOS_XL_2.30.atr](attachments/C-65_B__-_MAC-65_with_DOS_XL_2.30.atr) OSS C/65 with DOS XL 2.30 and MAC/65 as editor for creating C source files - Part B  
 - [C-65_with_OS-Aplus-1.atr](attachments/C-65_with_OS-Aplus-1.atr) OSS C/65 with OS/A+ Disk 1  
 - [C-65_with_OS-Aplus-2.atr](attachments/C-65_with_OS-Aplus-2.atr) OSS C/65 with OS/A+ Disk 2  
   
@@ -53,11 +53,11 @@ OSS C/65 Cover
 ### ATR images  
 - [Deep_Blue_C_A.atr](attachments/Deep_Blue_C_A.atr)  
 - [Deep_Blue_C_B.atr](attachments/Deep_Blue_C_B.atr)  
-- [Deep_Blue_C_Compiler_version_1.1_(1982).atr](attachments/Deep_Blue_C_Compiler_version_1.1_(1982).atr)  
+- [Deep_Blue_C_Compiler_version_1.1_1982.atr](attachments/Deep_Blue_C_Compiler_version_1.1_1982.atr)  
 - [Cplusplus_1.2_A.atr](attachments/Cplusplus_1.2_A.atr)  
 - [Cplusplus_1.2_B.atr](attachments/Cplusplus_1.2_B.atr)  
-- [Deep_Blue_C_(alt)_A.atr](attachments/Deep_Blue_C_(alt)_A.atr)  
-- [Deep_Blue_C_(alt)_B.atr](attachments/Deep_Blue_C_(alt)_B.atr)  
+- [Deep_Blue_C_alt_A.atr](attachments/Deep_Blue_C_alt_A.atr)  
+- [Deep_Blue_C_alt_B.atr](attachments/Deep_Blue_C_alt_B.atr)  
 - [Antic_Deep_Blue_C_compiler.atr](attachments/Antic_Deep_Blue_C_compiler.atr) ; Compiler version 1.2  
 - [Antic_Deep_Blue_C_compiler_Docs.atr](attachments/Antic_Deep_Blue_C_compiler_Docs.atr) ; Compiler version 1.2 documents  
   
@@ -69,9 +69,9 @@ OSS C/65 Cover
 ### ATR images  
 - [Lightspeed_C_1.15_A.atr](attachments/Lightspeed_C_1.15_A.atr)  
 - [Lightspeed_C_1.15_B.atr](attachments/Lightspeed_C_1.15_B.atr)  
-- [Lightspeed_C_(s1).atr](attachments/Lightspeed_C_(s1).atr)  
-- [Lightspeed_C_(s2).atr](attachments/Lightspeed_C_(s2).atr)  
-- [Lightspeed_C_(s3).atr](attachments/Lightspeed_C_(s3).atr)  
+- [Lightspeed_C_s1.atr](attachments/Lightspeed_C_s1.atr)  
+- [Lightspeed_C_s2.atr](attachments/Lightspeed_C_s2.atr)  
+- [Lightspeed_C_s3.atr](attachments/Lightspeed_C_s3.atr)  
   
 ## CC65 ; CC65 is an Open Source C cross compiler for Atari 8-bit computers  
 - [CC65 suite](attachments/CC65_suite.zip) ; size: 4.4 MB ; complete developer package from all over the internet. Working! Thanks to Carnegie Mellon University's School of Computer Science for hosting many files. :-)  

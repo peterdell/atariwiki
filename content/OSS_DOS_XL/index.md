@@ -16,18 +16,18 @@ OSS DOS XL manual cover
 - [OSS DOS XL Handbuch (German)](attachments/dosxldt.djvu) ; German DJVU-version, size: 2.3 MB  
   
 ## ATR-Images  
-- [DOS_XL_v2.30p_(1983)(OSS)(US)(Side_A)(Double_Density).atr](attachments/DOS_XL_v2.30p_(1983)(OSS)(US)(Side_A)(Double_Density).atr) ; Original Masterdisk from OSS with double density ; many thanks to the preservation project for providing us with reliable software!  
-- [DOS_XL_v2.30p_(1983)(OSS)(US)(Side_B)(Single_Density).atr](attachments/DOS_XL_v2.30p_(1983)(OSS)(US)(Side_B)(Single_Density).atr) ; Original Masterdisk from OSS with single density ; many thanks to the preservation project for providing us with reliable software!  
+- [DOS_XL_v2.30p_1983OSSUSSide_ADouble_Density.atr](attachments/DOS_XL_v2.30p_1983OSSUSSide_ADouble_Density.atr) ; Original Masterdisk from OSS with double density ; many thanks to the preservation project for providing us with reliable software!  
+- [DOS_XL_v2.30p_1983OSSUSSide_BSingle_Density.atr](attachments/DOS_XL_v2.30p_1983OSSUSSide_BSingle_Density.atr) ; Original Masterdisk from OSS with single density ; many thanks to the preservation project for providing us with reliable software!  
 - [OSS_DOS_XL_2.30p_Masterdisk_SD.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_SD.atr) ; Masterdisk for SD diskettes; usable for everything, but without further options, please see the manual below ; Indus GT files are included ; CONFIG.BAS, GTRPM.COM, GTSYNC.COM, SMALL.HLP, HELP.POK and a different STARTUP.EXC are included  
 - [OSS_DOS_XL_2.30p_Masterdisk_DD.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_DD.atr) ; same as above for DD diskettes  
 ![](attachments/p.jpg)  
 OSS DOS XL 2.30p   
-- [OSS_DOS_XL_2.30p_Masterdisk_SD_(XL-XE)_OSS_carts_only.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_SD_(XL-XE)_OSS_carts_only.atr) ; Masterdisk for SD diskettes; usable for XL- and XE-machines with OSS Supercarts only, takes advantage of the special carts while using less ram and offering further options, please see the manual below  
-- [OSS_DOS_XL_2.30p_Masterdisk_DD_(XL-XE)_OSS_carts_only.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_DD_(XL-XE)_OSS_carts_only.atr) ; same as above for DD diskettes  
+- [OSS_DOS_XL_2.30p_Masterdisk_SD_XL-XE_OSS_carts_only.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_SD_XL-XE_OSS_carts_only.atr) ; Masterdisk for SD diskettes; usable for XL- and XE-machines with OSS Supercarts only, takes advantage of the special carts while using less ram and offering further options, please see the manual below  
+- [OSS_DOS_XL_2.30p_Masterdisk_DD_XL-XE_OSS_carts_only.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_DD_XL-XE_OSS_carts_only.atr) ; same as above for DD diskettes  
 ![](attachments/C.jpg)  
 OSS DOS XL 2.30C   
-- [OSS_DOS_XL_2.30p_Masterdisk_SD_(XL-XE)_non_OSS_carts.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_SD_(XL-XE)_non_OSS_carts.atr) ; Masterdisk for SD diskettes; usable for XL- and XE-machines with NON-OSS Supercarts only, takes advantage of further options, but uses more ram, please see the manual below  
-- [OSS_DOS_XL_2.30p_Masterdisk_DD_(XL-XE)_non_OSS_carts.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_DD_(XL-XE)_non_OSS_carts.atr) ; same as above for DD diskettes  
+- [OSS_DOS_XL_2.30p_Masterdisk_SD_XL-XE_non_OSS_carts.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_SD_XL-XE_non_OSS_carts.atr) ; Masterdisk for SD diskettes; usable for XL- and XE-machines with NON-OSS Supercarts only, takes advantage of further options, but uses more ram, please see the manual below  
+- [OSS_DOS_XL_2.30p_Masterdisk_DD_XL-XE_non_OSS_carts.atr](attachments/OSS_DOS_XL_2.30p_Masterdisk_DD_XL-XE_non_OSS_carts.atr) ; same as above for DD diskettes  
 ![](attachments/X.jpg)  
 OSS DOS XL 2.30X   
 - [OSS_DOS_XL_2.30p_SD.atr](attachments/OSS_DOS_XL_2.30p_SD.atr) ; SD format ; plain version, just DOS XL  

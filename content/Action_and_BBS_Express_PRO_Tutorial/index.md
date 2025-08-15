@@ -2574,7 +2574,7 @@ this quite a bit.
 There is another thing you can do with  
 variables where you declare them.  You  
 can assign them to a value using  
-~square brackets].  
+~[square brackets].  
   
 ```
   INT i=[-32]

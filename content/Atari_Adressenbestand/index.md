@@ -1,6 +1,6 @@
 # Atari Adressenbestand  
 ## CAS-Image:  
-[Atari_Adressenbestand_(CXN_4104).zip](attachments/Atari_Adressenbestand_(CXN_4104).zip)  
+[Atari_Adressenbestand_CXN_4104.zip](attachments/Atari_Adressenbestand_CXN_4104.zip)  
 ## Handbuch:  
 [Atari_Adressenbestand_manual.pdf](attachments/Atari_Adressenbestand_manual.pdf)  
 ## Bilder:  

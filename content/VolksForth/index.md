@@ -70,7 +70,7 @@ This is a list of all Forth words contained in the VolksForth distribtion. Curre
   
 - [Read_Joysticks](../Read_Joysticks/index.md)  
 - [Position_Command](../Position_Command/index.md) -- position the cursor on the screen  
-- [Accessing_Memory_(PEEK_POKE)](../Accessing_Memory_(PEEK_POKE)/index.md)  
+- [Accessing_Memory_PEEK_POKE](../Accessing_Memory_PEEK_POKE/index.md)  
 - [Graphics](../Graphics/index.md) Command (Setting a graphics mode using the CIO OS ROM)  
 - [Setcolor](../Setcolor/index.md) Command  
 - [Random](../Random/index.md) command  

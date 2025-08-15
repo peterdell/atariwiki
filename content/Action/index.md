@@ -93,12 +93,12 @@ You can use it under SpartaDOS and DosXL with "D1:ACTIONED MYSRC.ACT" to direct 
 - [https://gury.atari8.info/effectus/](https://gury.atari8.info/effectus/) - Thank you soooo much Gury! That is totally incredible, we now can use high end editors, eclipse and have the results in a flash! We are deep in your debt! Thank you so much, really. :-)  
   
 ### Original CAR-Images  
-- [ACTION_Version_3.6_(C)_1983_ACS_034M.car](attachments/ACTION_Version_3.6_(C)_1983_ACS_034M.car)  
-- [ACTION_Version_3.6_(C)_1983_ACS_M091.car](attachments/ACTION_Version_3.6_(C)_1983_ACS_M091.car)  
+- [ACTION_Version_3.6_C_1983_ACS_034M.car](attachments/ACTION_Version_3.6_C_1983_ACS_034M.car)  
+- [ACTION_Version_3.6_C_1983_ACS_M091.car](attachments/ACTION_Version_3.6_C_1983_ACS_M091.car)  
   
 ### Original ROM-Images  
-- [ACTION_Version_3.6_(C)_1983_ACS_034M.rom](attachments/ACTION_Version_3.6_(C)_1983_ACS_034M.rom)  
-- [ACTION_Version_3.6_(C)_1983_ACS_M091.rom](attachments/ACTION_Version_3.6_(C)_1983_ACS_M091.rom)  
+- [ACTION_Version_3.6_C_1983_ACS_034M.rom](attachments/ACTION_Version_3.6_C_1983_ACS_034M.rom)  
+- [ACTION_Version_3.6_C_1983_ACS_M091.rom](attachments/ACTION_Version_3.6_C_1983_ACS_M091.rom)  
   
 ### Original ATR-Images  
 - [OSS_ACTION_Programmers_Aid_Disk_100.atr](attachments/OSS_ACTION_Programmers_Aid_Disk_100.atr) - Rebuild from damaged discs and files around the world  

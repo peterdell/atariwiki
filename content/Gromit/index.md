@@ -2,7 +2,7 @@
   
 *800XL - im Originalzustand  
 *XC12  
-*SDrive - Eigenbau [_mit_Unterstuetzung_;)](../_mit_Unterstuetzung_;)/index.md)  
+*SDrive - Eigenbau [_mit_Unterstuetzung_;](../_mit_Unterstuetzung_;/index.md)  
 ---
 [gromit.jpg](attachments/gromit.jpg)  
 Bester Freund von Wallace  

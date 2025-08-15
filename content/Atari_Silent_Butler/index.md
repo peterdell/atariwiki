@@ -33,8 +33,8 @@ The records disk is supposed to hold a year of data and can be backed up, but th
   
 Silent Butler is simple to use and is functionally adequate for home needs. But I could recommend it for more users if Atari produced a single density version that would work on other drives besides the 1050.  
 ## ATR images  
-- [Silent Butler A-Program Disk](attachments/Silent_Buttler_Disk_1_(Program_Disk).atr) ; original Program Disk, MD-Disk format, thanks to Erhard Pütz for digitizing  
-- [Silent Butler B-Record Disk](attachments/Silent_Buttler_Disk_2_(Record_Disk).atr) ; original Record Disk, MD-Disk format, thanks to Erhard Pütz for digitizing  
+- [Silent Butler A-Program Disk](attachments/Silent_Buttler_Disk_1_Program_Disk.atr) ; original Program Disk, MD-Disk format, thanks to Erhard Pütz for digitizing  
+- [Silent Butler B-Record Disk](attachments/Silent_Buttler_Disk_2_Record_Disk.atr) ; original Record Disk, MD-Disk format, thanks to Erhard Pütz for digitizing  
 - [Silent Butler A-Program Disk](attachments/Silent_Butler_A-Program_Disk-1.atr) ; Program Disk from Holmes archive, SD-Disk format  
 - [Silent Butler A-Program Disk](attachments/Silent_Butler_A-Program_Disk-2.atr) ; same as above, but from Vidar, MD-Disk format  
 - [Silent_Butler_B-Record_Disk.atr](attachments/Silent_Butler_B-Record_Disk.atr) ; Record Disk from FULS from AtariAge, SD-Disk format  

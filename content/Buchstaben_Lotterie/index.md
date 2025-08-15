@@ -29,7 +29,7 @@ Dieses Spiel enthält insgesamt 250 unterschiedlich schwierige Worte. Langeweile
 - [Buchstabenlotterie_-_D7_-_DXG_5705.pro](attachments/Buchstabenlotterie_-_D7_-_DXG_5705.pro) ; AtariWiki can't thank [Atarinside](https://www.atarinside.com/) much enough for buying, sharing and providing this lost to believe diskette. Tera-thanks in the name of the German Atari community! :-)))  
   
 ## ATR Image  
-- [Buchstabenlotterie_(1982)(Atari)(DE)(BASIC)(cr_CSS).atr](attachments/Buchstabenlotterie_(1982)(Atari)(DE)(BASIC)(cr_CSS).atr) ; we deeply thank CSS for creating the ATR, thank you so much! :-)  
+- [Buchstabenlotterie_1982AtariDEBASICcr_CSS.atr](attachments/Buchstabenlotterie_1982AtariDEBASICcr_CSS.atr) ; we deeply thank CSS for creating the ATR, thank you so much! :-)  
   
 ## Manual  
 - [Buchstabenlotterie-D7-DXG-5705.pdf](attachments/Buchstabenlotterie-D7-DXG-5705.pdf) ; Größe: 5,2 MB ; AtariWiki thanks [Atarinside](https://www.atarinside.com/) for scanning and providing the manual. Thank you so much! :-)  

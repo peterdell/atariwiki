@@ -45,7 +45,7 @@ AtariWiki highly recommends the findings of tschak909 from AtariAge. Please take
 [U.S._Government_CX6002](../U.S._Government_CX6002/index.md) ; donated by someone who would not like to be mentioned. ; Cassette A-Side 2 is from FULS from AtariAge. Thank you for your help to complete this package. We really appreciate that. :-)  
   
 [Supervisory_Skills_CX6003](../Supervisory_Skills_CX6003/index.md) ; donated by someone who would not like to be mentioned.  
-[World_History_(Western)_CX6004](../World_History_(Western)_CX6004/index.md) ; donated by Tempest from AtariAge. Thank you so much! :-) We really appreciate your help for all.  
+[World_History_Western_CX6004](../World_History_Western_CX6004/index.md) ; donated by Tempest from AtariAge. Thank you so much! :-) We really appreciate your help for all.  
 [Basic_Sociology_CX6005](../Basic_Sociology_CX6005/index.md) ; thank you Bill Lange for providing this treasure to the Atari community. We really owe you very much!  
 [Counseling_Procedures_CX6006](../Counseling_Procedures_CX6006/index.md) ; donated by Tempest from AtariAge. Thank you so much! :-) We really appreciate your help for all.  
 [Principles_of_Accounting_CX6007](../Principles_of_Accounting_CX6007/index.md) ; from Atarimania, thank you so much!  

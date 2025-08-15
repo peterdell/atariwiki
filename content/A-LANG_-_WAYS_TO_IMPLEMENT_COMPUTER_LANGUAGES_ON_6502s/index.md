@@ -154,7 +154,7 @@ the following steps (with product types in square brackets):
 Simple compiler. ->  
 ~[ASM__Code_as_ASCII_text](../ASM__Code_as_ASCII_text/index.md) ->  
 Special preprocessor and/or done as part of the "linker" step ->  
-~List of procedures & what they call; also input/output params, globals,  
+~[List of procedures & what they call; also input/output params, globals,  
 and a list of variable sizes which need allocation] ->  
   
 (At this step "compilation" is done. Now to link:)  
@@ -323,7 +323,7 @@ preprocessing, it should compile on a stock compiler on other machines.
 The syntax should also fit within the target machine limits.  
 For example, old Apple II's can't generate curly brackets ({}) or  
 underscores (_). I would substitute the dollar sign ($) for _, and  
-use ] instead of {} - again, to support self-hosting.  
+use [] instead of {} - again, to support self-hosting.  
   
 As far as parsing it goes, recursive descent is often easy to understand,  
 but I suspect an LL(1) parser would be better (see Fisher, page 120).  

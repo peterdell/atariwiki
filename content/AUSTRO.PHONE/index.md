@@ -23,7 +23,7 @@ Nach aktuellen Stand konnte folgende Software aus dem Hause AUSTRO.COM ermittelt
 - [AUSTRO.PHONE ATX-Image von Version 1.03](attachments/Austro_Phone.ATX) ; MD5-Checksum: fdbce44f2bab08cc059a0a40c51a75c4 ; Mega-Dank an Floppydoc für das Erstellen der ATX-Datei aus den Kryo-RAW-Dateien einer gebrauchten Diskette. Leider haben wir derzeit nur so eine Version, kein Original! Sofern jemand eine originale Diskette besitzt, würden wir uns sehr freuen, wenn diese leihweise zur Verfügung gestellt werden könnte. :-)))  
   
 ## ATR-Image  
-- [AUSTRO.PHONE ATR-Image von Version 1.03](attachments/Austro.Phone_(1985)(Austro.Com)(AT)(cr_CSS).atr) ; MD5-Checksum: 9d5351f486c61d05c0b619d23637662e ; Mega-Dank an DjayBee von AtariAge für das Erstellen der ATR-Datei aus der oben stehenden ATX-Datei. Damit hast Du allen Atari-Usern einen großen Gefallen getan! :-) Bitte weiter so. :-)))  
+- [AUSTRO.PHONE ATR-Image von Version 1.03](attachments/Austro.Phone_1985Austro.ComATcr_CSS.atr) ; MD5-Checksum: 9d5351f486c61d05c0b619d23637662e ; Mega-Dank an DjayBee von AtariAge für das Erstellen der ATR-Datei aus der oben stehenden ATX-Datei. Damit hast Du allen Atari-Usern einen großen Gefallen getan! :-) Bitte weiter so. :-)))  
   
 ## Handbuch  
 __Leider haben wir derzeit kein Handbuch zu AUSTRO.PHONE. Jede Hilfe hierzu ist auf das Herzlichste willkommen. :-)))__  

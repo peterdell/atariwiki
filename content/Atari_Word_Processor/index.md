@@ -17,7 +17,7 @@ Diskette Labels
 - [The_ATARI_Word_Processor_Training_Data_Diskette_CX8120-Original.atr](attachments/The_ATARI_Word_Processor_Training_Data_Diskette_CX8120-Original.atr) ; Thank you soo much Fred Meijer for saving this original diskette! :-)))  
 - [ATARI_810_MASTER_DISKETTE_II-CX8104-Original.atr](attachments/ATARI_810_MASTER_DISKETTE_II-CX8104-Original.atr) ; __this diskette has 12(!) index holes and can't be read in by Kryoflux as of 2017!__  
 - [The Atari Word Processor Demonstration Data Kit CX8128.atr](attachments/Atari_Word_Processor_Demonstration_Data_CX8128.atr) ; Giga-thanks goes to Tempest from AtariAge for bringing that artifact from the darkness to the light! We owe you a lot!  
-- [The Atari Word Processor Demonstration Data Kit CX8128.atx](attachments/Atari_Word_Processor_Demonstration_Data_Kit_(1981)(Atari)(US).atx) ; verified atx image of the untouched original diskette. Thank you so much Farb from AtariAge for providing this. We really appreciate your help! Please go ahead. :-)))  
+- [The Atari Word Processor Demonstration Data Kit CX8128.atx](attachments/Atari_Word_Processor_Demonstration_Data_Kit_1981AtariUS.atx) ; verified atx image of the untouched original diskette. Thank you so much Farb from AtariAge for providing this. We really appreciate your help! Please go ahead. :-)))  
   
 ## Cassette (WAV- and FLAC format) from the original cassette, which contains audio content only:  
 ![](attachments/The+Atari+Word+Processor+Audio+Master+Cassette+CX4122+Side+1.jpg)  

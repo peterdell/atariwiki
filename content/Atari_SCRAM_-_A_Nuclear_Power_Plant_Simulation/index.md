@@ -11,12 +11,12 @@
 - [Atari_CX4123-Scram-A_Nuclear_Power_Plant_Simulation-Users_Manual.pdf](attachments/Atari_CX4123-Scram-A_Nuclear_Power_Plant_Simulation-Users_Manual.pdf)  
   
 ## ATR-Images:  
-- [Scram_24K-Version_(english)_(Basic).atr](attachments/Scram_24K-Version_(english)_(Basic).atr) CX4123  
-- [Scram_24K-Version_(deutsch)_(Basic).atr](attachments/Scram_24K-Version_(deutsch)_(Basic).atr) TXG4123  
+- [Scram_24K-Version_english_Basic.atr](attachments/Scram_24K-Version_english_Basic.atr) CX4123  
+- [Scram_24K-Version_deutsch_Basic.atr](attachments/Scram_24K-Version_deutsch_Basic.atr) TXG4123  
   
 ## CAS-Images:  
-- [SCRAM_(16K).cas](attachments/SCRAM_(16K).cas)  
-- [SCRAM_(24K).cas](attachments/SCRAM_(24K).cas)  
+- [SCRAM_16K.cas](attachments/SCRAM_16K.cas)  
+- [SCRAM_24K.cas](attachments/SCRAM_24K.cas)  
   
 ## Images:  
 ![](attachments/scram_k7.jpg)  

@@ -7,30 +7,30 @@ Kyan Pascal is the most advanced Pascal compiler for the Atari 8bit. Kyan Pascal
 ### ATR-Images  
 - [Kyan Pascal 1.1](attachments/KP1_SS_ED_V3_GBXL.atr) ; Kyan Pascal V. 1.1 complete restored by GoodByteXL ; thank you so much GoodByteXL for your help. We really appreciate that! :-)  
 __Please take into account, that the DOS was modified by Kyan! It is not possible to use a normal DOS 2.5 from another disk! The modifications (loading-routines) are moved into $480 up to $6FF. This is mentioned in the document in chapter DOS 2.5, but only there!__  
-- [Kyan_Pascal_(Side_A)_(1986).atr](attachments/Kyan_Pascal_(Side_A)_(1986).atr) ; Kyan Pascal V. 2.0x  
-- [Kyan_Pascal_(Side_B)_(1986).atr](attachments/Kyan_Pascal_(Side_B)_(1986).atr) ; Kyan Pascal V. 2.0x  
-- [Kyan Pascal DOS 2.5 MD (restored)](attachments/Kyan_Pascal_DOS_2.5_MD_(restored).atr) ; from atarionline.pl, complete restored and runable, thank you atarionline.pl  
+- [Kyan_Pascal_Side_A_1986.atr](attachments/Kyan_Pascal_Side_A_1986.atr) ; Kyan Pascal V. 2.0x  
+- [Kyan_Pascal_Side_B_1986.atr](attachments/Kyan_Pascal_Side_B_1986.atr) ; Kyan Pascal V. 2.0x  
+- [Kyan Pascal DOS 2.5 MD (restored)](attachments/Kyan_Pascal_DOS_2.5_MD_restored.atr) ; from atarionline.pl, complete restored and runable, thank you atarionline.pl  
 - [Kyan_Pascal_10.atr](attachments/Kyan_Pascal_10.atr) ; thanks to a kind soul from the midwest, we really appreciate your help for the whole community! Please go ahead, we really need your help!  
 - [Kyan Pascal 1.1 A](attachments/Kyan_Pascal_1.1_A.atr) ; thanks to Serious Computerist  
 - [Kyan_Pascal_1.1 B](attachments/Kyan_Pascal_1.1_B.atr) ; thanks to Serious Computerist  
-- [Kyan_Pascal_1.1_(1987).atr](attachments/Kyan_Pascal_1.1_(1987).atr) ; highly likely that 1987 is wrong  
-- [Kyan_Pascal_2.02_(1986)_side_1.atr](attachments/Kyan_Pascal_2.02_(1986)_side_1.atr) ; thanks to Mr. Bacardi  
-- [Kyan_Pascal_2.02_(1986)_side_1.atr](attachments/Kyan_Pascal_2.02_(1986)_side_1.atr) ; thanks to Mr. Bacardi  
+- [Kyan_Pascal_1.1_1987.atr](attachments/Kyan_Pascal_1.1_1987.atr) ; highly likely that 1987 is wrong  
+- [Kyan_Pascal_2.02_1986_side_1.atr](attachments/Kyan_Pascal_2.02_1986_side_1.atr) ; thanks to Mr. Bacardi  
+- [Kyan_Pascal_2.02_1986_side_1.atr](attachments/Kyan_Pascal_2.02_1986_side_1.atr) ; thanks to Mr. Bacardi  
 - [Kyan_Pascal_2.02-01.atr](attachments/Kyan_Pascal_2.02-01.atr) ; thanks to a kind soul from the midwest, we really appreciate your help for the whole community! Please go ahead, we really need your help!  
 - [Kyan_Pascal_2.02-02.atr](attachments/Kyan_Pascal_2.02-02.atr) ; thanks to a kind soul from the midwest, we really appreciate your help for the whole community! Please go ahead, we really need your help!  
 - [Kyan Pascal 2.04 with utilities](attachments/Kyan_Pascal_2.04_with_utilities.zip) ; 4 ATRs in one zip-file; Version 2.02 and 2.04 are binary identical, thanks to GoodByteXL for checking  
 - [Kyan_Pascal_System_Utilities_Demo_Programs.atr](attachments/Kyan_Pascal_System_Utilities_Demo_Programs.atr) ; thanks to a kind soul from the midwest, we really appreciate your help for the whole community! Please go ahead, we really need your help!  
 - [Kyan_Pascal_System_Utilities_V1.00_Side1.atr](attachments/Kyan_Pascal_System_Utilities_V1.00_Side1.atr) ; thanks to a kind soul from the midwest, we really appreciate your help for the whole community! Please go ahead, we really need your help!  
-- [Kyan_Pascal-ToolKit_I_(System_Utilities)_A.atr](attachments/Kyan_Pascal-ToolKit_I_(System_Utilities)_A.atr) ; thanks to Serious Computerist  
-- [Kyan_Pascal-ToolKit_I_(System_Utilities)_B.atr](attachments/Kyan_Pascal-ToolKit_I_(System_Utilities)_B.atr) ; thanks to Serious Computerist  
-- [Kyan_Pascal_Utils_(s1).atr](attachments/Kyan_Pascal_Utils_(s1).atr) ; Toolkit System Utilities part 1  
-- [Kyan_Pascal_Utils_(s2).atr](attachments/Kyan_Pascal_Utils_(s2).atr) ; Toolkit System Utilities part 2  
+- [Kyan_Pascal-ToolKit_I_System_Utilities_A.atr](attachments/Kyan_Pascal-ToolKit_I_System_Utilities_A.atr) ; thanks to Serious Computerist  
+- [Kyan_Pascal-ToolKit_I_System_Utilities_B.atr](attachments/Kyan_Pascal-ToolKit_I_System_Utilities_B.atr) ; thanks to Serious Computerist  
+- [Kyan_Pascal_Utils_s1.atr](attachments/Kyan_Pascal_Utils_s1.atr) ; Toolkit System Utilities part 1  
+- [Kyan_Pascal_Utils_s2.atr](attachments/Kyan_Pascal_Utils_s2.atr) ; Toolkit System Utilities part 2  
 - [Kyan Pascal Utilities with missing sector 451 (file REPEAT.I)](attachments/KYANUTILS1.ATR) ; Kyan Pascal Utilities with missing sector 451 (file REPEAT.I) ; thanks to [Atari_Ace](https://atariage.com/forums/topic/262217-lets-make-kyan-pascal-great-again-atari-first/?do=findComment&comment=4673610) from AtariAge  
 - [Kyan Pascal - Advanced Graphics Toolkit](attachments/Toolkit_III.atr) ; Kyan Pascal - Advanced Graphics Toolkit for Kyan Pascal Version 2.xx  
-- [Kyan_Pascal_Tutorial_(s1).atr](attachments/Kyan_Pascal_Tutorial_(s1).atr)  
-- [Kyan_Pascal_Tutorial_(s2).atr](attachments/Kyan_Pascal_Tutorial_(s2).atr)  
-- [Kyan_Pascal_Tutorial_(s3).atr](attachments/Kyan_Pascal_Tutorial_(s3).atr)  
-- [Kyan_Pascal_Tutorial_(s4).atr](attachments/Kyan_Pascal_Tutorial_(s4).atr)  
+- [Kyan_Pascal_Tutorial_s1.atr](attachments/Kyan_Pascal_Tutorial_s1.atr)  
+- [Kyan_Pascal_Tutorial_s2.atr](attachments/Kyan_Pascal_Tutorial_s2.atr)  
+- [Kyan_Pascal_Tutorial_s3.atr](attachments/Kyan_Pascal_Tutorial_s3.atr)  
+- [Kyan_Pascal_Tutorial_s4.atr](attachments/Kyan_Pascal_Tutorial_s4.atr)  
   
 ### __Still Missing__  
 The community with the help of all has made great progress regarding Kyan Pascal. Tom Eckmann, CEO of Kyan Pascal, was so nice to us, by giving Kyan Pascal into PD. To complete Kyan Pascal, we need your help again. The missing list is as follows:  
@@ -59,7 +59,7 @@ __Please take into account, that the DOS was modified by Kyan! It is not possibl
 - [KYAN PASCAL - A PROGRAMMING LANGUAGE](http://cerebro.xu.edu/~ryanr/atari/kyan.html)  
   
 ### Errata  
-- [Kyan Pascal Error $89 (137)](../Kyan_Pascal_Error_$89_(137)/index.md)  
+- [Kyan Pascal Error $89 (137)](../Kyan_Pascal_Error_$89_137/index.md)  
   
 ### Examples  
   
@@ -74,7 +74,7 @@ __Please take into account, that the DOS was modified by Kyan! It is not possibl
 - [Kyan Pascal Manual (part)](http://cerebro.xu.edu/~ryanr/atari/kyan.html)  
 - [Kyan Pascal Review from ANTIC](http://www.atarimagazines.com/v4n7/kyanpascal.html)  
 - [Kyan Pascal Information Page (Apple Version)](http://www.appleoldies.ca/kix/)  
-- [Kyan_Pascal_Update_(Apple).pdf](attachments/Kyan_Pascal_Update_(Apple).pdf)  
+- [Kyan_Pascal_Update_Apple.pdf](attachments/Kyan_Pascal_Update_Apple.pdf)  
   
 from Steven N. Hirsch in 2002 (maybe just for the Apple version; status up to now unclear):  
   

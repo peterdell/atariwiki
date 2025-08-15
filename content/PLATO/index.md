@@ -9,7 +9,7 @@ PLATO (Programmed Logic for Automatic Teaching Operations) was the first general
 ## ROM image  
 - [The_Learning_Phone](../The_Learning_Phone/index.md) ; original Atari software for PLATO on cartridge and with manuals  
 - [The_Learning_Phone-patched.rom](attachments/The_Learning_Phone-patched.rom) ; thank you so much AtariAge  
-- [Learning_Phone_(2400_baud_alt_character_set).rom](attachments/Learning_Phone_(2400_baud_alt_character_set).rom) ; thank you so much AtariAge  
+- [Learning_Phone_2400_baud_alt_character_set.rom](attachments/Learning_Phone_2400_baud_alt_character_set.rom) ; thank you so much AtariAge  
   
 ## PlatoTerm  
 by Thomas ‘Thom‘ Cherryhomes (tschak909)  
@@ -31,7 +31,7 @@ Port: 8005 (ASCII Protocol)
 - [Introduction to Tutor-University of Illinois (1974)](attachments/Introduction_to_Tutor.pdf) ; size: 2.3 MB ; 163 pages with OCR ; thank you so much Thom! Great work!  
 - [PLATO User's Guide (1981)](https://data.atariwiki.org/DOC/PLATO Users Guide April 1981.pdf) ; size: 14.4 MB  
 - [The TUTOR Language by Bruce Arne Sherwood (1978)](https://data.atariwiki.org/DOC/The TUTOR Language 1978 ocr.pdf) ; size: 14.7 MB ; 288 pages with OCR  
-- [The Plato IV Architecture by Jack Stifle (1972)](attachments/The_Plato_IV_Architecture_by_Jack_Stifle_(1972).pdf) ; size: 2.6 MB ; 24 pages  
+- [The Plato IV Architecture by Jack Stifle (1972)](attachments/The_Plato_IV_Architecture_by_Jack_Stifle_1972.pdf) ; size: 2.6 MB ; 24 pages  
 - [PLATOTerm Cart Manual Draft - 20190324.pdf](..//index.md) ; size: xx.x MB ; in progress  
   
 ## PLATO-Servers:  

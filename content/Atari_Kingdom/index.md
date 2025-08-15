@@ -4,7 +4,7 @@ Atari Kingdom CX4102 is one of the first simulation game from Atari with a short
 - [Kingdom_side_A_with_instructions.cas](attachments/Kingdom_side_A_with_instructions.cas) ; CAS-image of Kingdom with instructions  
 - [Kingdom_side_B_without_instructions.cas](attachments/Kingdom_side_B_without_instructions.cas) ; CAS-image of Kindom without instructions  
 ## ATR-image  
-- [Kingdom_with_DOS_2.0S_(complete_cassette_import).atr](attachments/Kingdom_with_DOS_2.0S_(complete_cassette_import).atr) ; Atari Kingdom CX4102 complete cassette import on an ATR-image with DOS 2.0S  
+- [Kingdom_with_DOS_2.0S_complete_cassette_import.atr](attachments/Kingdom_with_DOS_2.0S_complete_cassette_import.atr) ; Atari Kingdom CX4102 complete cassette import on an ATR-image with DOS 2.0S  
 ## Manual  
 - [Atari_Kingdom_Manual.pdf](attachments/Atari_Kingdom_Manual.pdf) ; size: 561 KB ; Atari Kingdom CX4102 manual, 4 pages  
 ## Video with voice, music and data  

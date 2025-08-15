@@ -59,7 +59,7 @@ Atari Pilot Cartridge CXL4018
 - [Atari_PILOT.rom](attachments/Atari_PILOT.rom)  
   
 ## BIN-Images  
-- [Pilot_(1981).bin](attachments/Pilot_(1981).bin)  
+- [Pilot_1981.bin](attachments/Pilot_1981.bin)  
   
 ## ATR-Images  
 - [Atari_PILOT_Demonstration_Program_Cassettes_CX4113-A_and_B-Side_1_and_2.atr](attachments/Atari_PILOT_Demonstration_Program_Cassettes_CX4113-A_and_B-Side_1_and_2.atr)  

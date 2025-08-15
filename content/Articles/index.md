@@ -164,7 +164,7 @@
 # Programming  
 - [Atari_8-Bit_Error-Codes.pdf](attachments/Atari_8-Bit_Error-Codes.pdf) ; Error-Codes for ACTION!, Atari Assembler Cartridge, Atari BASIC & OSS BASIC XL/XE, DOS or other Operating System, MAC/65 and Microsoft BASIC II  
 - [ASCII-Tabelle](../ASCII-Tabelle/index.md)  
-- [DEZ-HEX-BIN-OKT-PEN_(Excel_2016).xlsx](attachments/DEZ-HEX-BIN-OKT-PEN_(Excel_2016).xlsx) ; Excel sheet for number conversions ; base conversions require Excel 2016  
+- [DEZ-HEX-BIN-OKT-PEN_Excel_2016.xlsx](attachments/DEZ-HEX-BIN-OKT-PEN_Excel_2016.xlsx) ; Excel sheet for number conversions ; base conversions require Excel 2016  
 - [OpCodes](../OpCodes/index.md)  
 - [CIO Special Command Filter](../CIO_Special_Command_Filter/index.md)  
 - [Atari Password](http://www.atarimagazines.com/compute/issue73/atari_password.php)  
@@ -253,7 +253,7 @@
 ##[Musica](../Musica/index.md)  
   
 *Remote Data Transfer  
-##[ATARI_Bildschirmtext_(BTX)](../ATARI_Bildschirmtext_(BTX)/index.md)  
+##[ATARI_Bildschirmtext_BTX](../ATARI_Bildschirmtext_BTX/index.md)  
 ##[ATARI_TELELINK_II](../ATARI_TELELINK_II/index.md)  
 ##[ATARI_TELELINK_I](../ATARI_TELELINK_I/index.md)  
 ##[ATARI_The_Communicator_II](../ATARI_The_Communicator_II/index.md)  
@@ -296,7 +296,7 @@
 - [Atari_Learning_System_Software](../Atari_Learning_System_Software/index.md)  
   
 ## Atari Program Exchange (APX) Software  
-- [Atari_Program_Exchange_(APX)_Software](../Atari_Program_Exchange_(APX)_Software/index.md)  
+- [Atari_Program_Exchange_APX_Software](../Atari_Program_Exchange_APX_Software/index.md)  
   
 ## ATARI Cartridge Serial Numbers  
 - [ATARI_Cartridge_Serial_Numbers](../ATARI_Cartridge_Serial_Numbers/index.md)  
@@ -490,9 +490,9 @@ The below broken links will be filled up with content in the future, meanwhile, 
   
 - Programmeren  
 ## [Atari Home Computer Audio Training ](../Atari_Home_Computer_Audio_Training/index.md)  
-## [Programmeren... Hoe Doe Je Dat? (Deel 1) - (Cassette: TXN 4101)](../Programmeren..._Hoe_Doe_Je_Dat_(Deel_1)/index.md)  
-## [Programmeren... Hoe Doe Je Dat? (Deel 2) - (Cassette: TXN 4106)](../Programmeren..._Hoe_Doe_Je_Dat_(Deel_2)/index.md)  
-## [Programmeren... Hoe Doe Je Dat? (Deel 3) - (Cassette: TXN 4117)](../Programmeren..._Hoe_Doe_Je_Dat_(Deel_3)/index.md)  
+## [Programmeren... Hoe Doe Je Dat? (Deel 1) - (Cassette: TXN 4101)](../Programmeren..._Hoe_Doe_Je_Dat_Deel_1/index.md)  
+## [Programmeren... Hoe Doe Je Dat? (Deel 2) - (Cassette: TXN 4106)](../Programmeren..._Hoe_Doe_Je_Dat_Deel_2/index.md)  
+## [Programmeren... Hoe Doe Je Dat? (Deel 3) - (Cassette: TXN 4117)](../Programmeren..._Hoe_Doe_Je_Dat_Deel_3/index.md)  
 - Kantoor Thuis  
 ## [Atari Adressenbestand (Cassette: CXN 4104)](../Atari_Adressenbestand/index.md)  
 ## [Atari Grafieken (Cassette: TXN 4109)](../Atari_Grafieken/index.md)  
@@ -709,5 +709,5 @@ Others:
 1. Atari XL Operating System Source Listing ; [Rev. 2 ASM-file](attachments/Atari_XL_OS_Rev.2.asm) ; [Rev. 11 ASM-file](attachments/Atari_XL_OS_Rev.11.asm)  
 #Carol Shaw's more accurate Colleen Floating Point Routines - ultimately not used in the OS: [asm file](attachments/Colleen_Floating_Point_Routines_Source_Code.asm), [text file](attachments/Colleen_Floating_Point_Routines.txt), [original document](https://archive.org/details/ColleenFloatingPointRoutines); see [Atari_Calculator](../Atari_Calculator/index.md) for more info  
 #[FAST FLOATING POINT source code for the ATARI from Newell Industries & Charles W. Marslett](../FAST_FLOATING_POINT_source_code_for_the_ATARI/index.md)  
-#[Atari OS Rev. A & B (1979) & Rev. 2 (1983) (Atari) (NTSC & PAL) (400-800-XL-XE) with FAST FLOATING POINT from above](attachments/Atari_OS_Rev._A_and_B_(1979)_Rev_2_(1983)_(Atari)_(NTSC_and_PAL)_(400-800-XL-XE)_with_FastFP.zip)  
+#[Atari OS Rev. A & B (1979) & Rev. 2 (1983) (Atari) (NTSC & PAL) (400-800-XL-XE) with FAST FLOATING POINT from above](attachments/Atari_OS_Rev._A_and_B_1979_Rev_2_1983_Atari_NTSC_and_PAL_400-800-XL-XE_with_FastFP.zip)  
 #[Backus–Naur form](../Backus-Naur_form/index.md)  

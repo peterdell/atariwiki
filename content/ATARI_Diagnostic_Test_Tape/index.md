@@ -23,7 +23,7 @@ coming soon
 coming soon  
   
 ## ATR-Image  
-- [ATARI_Diagnostic_Test_Tape_(FD100008).atr](attachments/ATARI_Diagnostic_Test_Tape_(FD100008).atr) ; ATARI Diagnostic Test program on an atr image with DOS 2.0S  
+- [ATARI_Diagnostic_Test_Tape_FD100008.atr](attachments/ATARI_Diagnostic_Test_Tape_FD100008.atr) ; ATARI Diagnostic Test program on an atr image with DOS 2.0S  
   
 ## Manuals  
 - [Atari_1010_Cassette_Recorder_Field_Service_Manual-FD_100223_Rev._02.pdf](attachments/Atari_1010_Cassette_Recorder_Field_Service_Manual-FD_100223_Rev._02.pdf) ; size: 3.9 MB  

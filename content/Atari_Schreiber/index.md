@@ -80,7 +80,7 @@ BF5F: 60                RTS
 - [Atari_Schreiber_DXG8036__Atari_Germany.atx](attachments/Atari_Schreiber_DXG8036__Atari_Germany.atx) ; MD5-Prüfsumme: 5ed746a6e0c5f1734f0983fc3893a516 ; von BigBen von AtariAge, erstellt mit SuperCard Pro, besser geht es nicht! Mega-Danke BigBen, wir stehen tief in Deiner Schuld! :-)  
   
 ## ATR-Image  
-- [Atari_Schreiber_(cracked)_DjayBee.atr](attachments/Atari_Schreiber_(cracked)_DjayBee.atr) ; erstes ATR-Image überhaupt von DjayBee veröffentlicht auf AtariAge ; Mega-Danke von der deutschen Atari-Gemeinde. Wir stehen tief in Deiner Schuld! :-)  
+- [Atari_Schreiber_cracked_DjayBee.atr](attachments/Atari_Schreiber_cracked_DjayBee.atr) ; erstes ATR-Image überhaupt von DjayBee veröffentlicht auf AtariAge ; Mega-Danke von der deutschen Atari-Gemeinde. Wir stehen tief in Deiner Schuld! :-)  
 - [Atari_Schreiber.atr](attachments/Atari_Schreiber.atr) ; Version von 1983 ; total entschützt, als Datei mit DOS 2.0S auf einer Diskette  
 - [AtariSchreiber1985_2AD_2AE_Schutz.atr](attachments/AtariSchreiber1985_2AD_2AE_Schutz.atr) ; Version von 1985 ; Man braucht dies nur auf eine Disk kopieren und die Sektoren 685 & 686 auf den Status gemäß nachstehendem Bild zu setzen und schon hat man eine Originalkopie! Weitere Infos dazu hier: [Info1](attachments/AtariSchreiber1985_2AD_2AE_ohne_Schutz_bootlog.txt) und [Info2](attachments/AtariSchreiber1985protected_bootlog.txt) ; Ganz herzlichen Dank an GoodByteXL von AtariAge, super Arbeit! :-)))  
 ![](attachments/AtariSchreiber1985_Kopierschutz.jpg)  

@@ -8,13 +8,13 @@ ATARI LOGO (C) 1983 LCSI
 ![](attachments/Logo.gif)  
 ATARI LOGO RX8032 (C) 1983 Logo Computer Systems, Inc. (LCSI), All Rights Reserved  
 - [Atari_Logo.rom](attachments/Atari_Logo.rom)  
-- [Logo_(1983)_(LCSI).rom](attachments/Logo_(1983)_(LCSI).rom)  
+- [Logo_1983_LCSI.rom](attachments/Logo_1983_LCSI.rom)  
   
 ## CAR-Images  
-- [ATARI_LOGO_(C)_1983_LCSI.car](attachments/ATARI_LOGO_(C)_1983_LCSI.car)  
+- [ATARI_LOGO_C_1983_LCSI.car](attachments/ATARI_LOGO_C_1983_LCSI.car)  
   
 ## BIN-Images  
-- [Logo_(1983)_(LCSI).bin](attachments/Logo_(1983)_(LCSI).bin)  
+- [Logo_1983_LCSI.bin](attachments/Logo_1983_LCSI.bin)  
   
 ## ATR-Images  
 - [Atari_Logo_LCSI.atr](attachments/Atari_Logo_LCSI.atr)  
@@ -23,10 +23,10 @@ ATARI LOGO RX8032 (C) 1983 Logo Computer Systems, Inc. (LCSI), All Rights Reserv
 - [Atari_LOGO.cas](attachments/Atari_LOGO.cas)  
   
 ## Manuals  
-- [Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_(1-sided).pdf](attachments/Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_(1-sided).pdf)  
-- [Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_(2-sided).pdf](attachments/Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_(2-sided).pdf)  
+- [Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_1-sided.pdf](attachments/Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_1-sided.pdf)  
+- [Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_2-sided.pdf](attachments/Atari_LOGO_Introduction_To_Programing_Through_Turtle_Graphics_2-sided.pdf)  
 - [Atari Logo Quick Reference Guide](attachments/AtariLogoQuickReferenceGuide.pdf) (1-sided)  
-- [Atari_LOGO_Quick_Reference_Guide_(2-sided).pdf](attachments/Atari_LOGO_Quick_Reference_Guide_(2-sided).pdf)  
+- [Atari_LOGO_Quick_Reference_Guide_2-sided.pdf](attachments/Atari_LOGO_Quick_Reference_Guide_2-sided.pdf)  
 - [Atari Logo Reference Manual](attachments/Atari_LOGO_Reference_Manual.pdf) (1-sided)  
 - [Atari Logo German](attachments/Atari_Logo_Geerman.pdf) ; Größe: 1.9 MB ; deutsches Script zu Atari Logo. Großer Dank an: Atarifriend :-)  
   

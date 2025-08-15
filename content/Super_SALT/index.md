@@ -2,7 +2,7 @@
   
 ## ROM-Image  
   
-- [Super_SALT_(1983).rom](attachments/Super_SALT_(1983).rom)  
+- [Super_SALT_1983.rom](attachments/Super_SALT_1983.rom)  
   
 ## Image  
 ![](attachments/Super_SALT_%281983%29.jpg)  

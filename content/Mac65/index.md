@@ -105,7 +105,7 @@ Version 1.02 followed still in the same year, with yet more bugfixes and a sligh
   
 ## Manual scans  
 - [Mac/65 Manual Rev. 1.2 - original scan](attachments/Mac-65_Rev._1.2_Manual.pdf) ; size: 2 MB  
-- [Mac/65 with DDT manual - good quality](attachments/Mac-65_with_DDT_manual_(p._108)-Rev_1.2.pdf) ; size: 25.4 MB  
+- [Mac/65 with DDT manual - good quality](attachments/Mac-65_with_DDT_manual_p._108-Rev_1.2.pdf) ; size: 25.4 MB  
 - [Optimized Systems Software, Inc. - SOFTWARE LICENSE AGREEMENT](attachments/Optimized_Systems_Software_Software_License_Agreement.pdf)  
   
 ## Images  
@@ -155,9 +155,9 @@ The resulting file NEWMAIN.OBJ is a binary DOS file that loads itself into the $
 Here are cartridge images created by building the sources.  
   
 - MAC/65 1.01 (1986) - two-chip cartridge:  
-** 043M bank order: [BIN image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(043M).bin), [CAR image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(043M).car)  
-** 034M bank order: [BIN image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(034M).bin), [CAR image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(034M).car)  
-- MAC/65 1.01 (1986) - one-chip cartridge: [BIN image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(M091).bin), [CAR image](attachments/MAC-65_v1.01_(1984)(OSS)(Lawrow_Stephen_D.)(US)(M091).car)  
+** 043M bank order: [BIN image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.US043M.bin), [CAR image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.US043M.car)  
+** 034M bank order: [BIN image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.US034M.bin), [CAR image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.US034M.car)  
+- MAC/65 1.01 (1986) - one-chip cartridge: [BIN image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.USM091.bin), [CAR image](attachments/MAC-65_v1.01_1984OSSLawrow_Stephen_D.USM091.car)  
   
 ## MAC XE 3.4i (1986-02-11)  
   
@@ -176,9 +176,9 @@ This version is identical to the "Assembler v. 3.4" version (described in the [n
 The following cartridge images were created by building the Assembler 3.4 sources after modifying them as described above.  
   
 - MAC XE 3.4i with DDT - two-chip cartridge  
-** 043M bank order: [BIN image](attachments/MAC_XE_v3.4i_(1986-02-11)(Lawrow_Stephen_D.)(US)(043M).bin), [CAR image](attachments/MAC_XE_v3.4i_(1986-02-11)(Lawrow_Stephen_D.)(US)(043M).car)  
-** 034M bank order: [BIN image](attachments/MAC_XE_v3.4i_(1986-02-11)(Lawrow_Stephen_D.)(US)(034M).bin), [CAR image](attachments/MAC_XE_v3.4i_with_DDT-034M.car)  
-- MAC XE v3.4i with DDT - one-chip cartridge: [BIN image](attachments/MAC_XE_v3.4i_(1986-02-11)(Lawrow_Stephen_D.)(US)(M091).bin), [CAR image](attachments/MAC_XE_v3.4i_(1986-02-11)(Lawrow_Stephen_D.)(US)(M091).car)  
+** 043M bank order: [BIN image](attachments/MAC_XE_v3.4i_1986-02-11Lawrow_Stephen_D.US043M.bin), [CAR image](attachments/MAC_XE_v3.4i_1986-02-11Lawrow_Stephen_D.US043M.car)  
+** 034M bank order: [BIN image](attachments/MAC_XE_v3.4i_1986-02-11Lawrow_Stephen_D.US034M.bin), [CAR image](attachments/MAC_XE_v3.4i_with_DDT-034M.car)  
+- MAC XE v3.4i with DDT - one-chip cartridge: [BIN image](attachments/MAC_XE_v3.4i_1986-02-11Lawrow_Stephen_D.USM091.bin), [CAR image](attachments/MAC_XE_v3.4i_1986-02-11Lawrow_Stephen_D.USM091.car)  
   
 ## Assembler 3.4 (1987-12-21)  
   
@@ -202,9 +202,9 @@ As noted in the [previous section](../Mac65MACXE3.4i19860211/index.md), the resu
 Here are cartridge images created by building the sources.  
   
 - Assembler 3.4 with DDT - two-chip cartridge  
-** 043M bank order:  [BIN image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(043M).bin), [CAR image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(043M).car)  
-** 034M bank order: [BIN image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(034M).bin), [CAR image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(034M).car)  
-- Assembler 3.4 with DDT - one-chip cartridge: [BIN image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(M091).bin), [CAR image](attachments/Assembler_v3.4_(1987-12-21)(Lawrow_Stephen_D.)(US)(M091).car)  
+** 043M bank order:  [BIN image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.US043M.bin), [CAR image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.US043M.car)  
+** 034M bank order: [BIN image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.US034M.bin), [CAR image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.US034M.car)  
+- Assembler 3.4 with DDT - one-chip cartridge: [BIN image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.USM091.bin), [CAR image](attachments/Assembler_v3.4_1987-12-21Lawrow_Stephen_D.USM091.car)  
   
 ## MAC/65 3.6 (1988-01-07)  
   
@@ -232,10 +232,10 @@ The resulting file MASTER.OBJ is a binary DOS file that loads itself into the $3
 Here are cartridge images created by building the sources.  
   
 - MAC/65 3.6 with DDT - two-chip cartridge  
-** 043M bank order: [BIN image](attachments/MAC-65_v3.6_(1988-01-07)(Lawrow_Stephen_D.)(US)(043M).bin), [CAR image](attachments/MAC-65_v3.6_(1988-01-07)(Lawrow_Stephen_D.)(US)(043M).car)  
-** 034M bank order: [BIN image](attachments/MAC-65_v3.6_(1988-01-07)(Lawrow_Stephen_D.)(US)(034M).bin), [CAR image](attachments/MAC-65_3.6_with_DDT-034M.car)  
+** 043M bank order: [BIN image](attachments/MAC-65_v3.6_1988-01-07Lawrow_Stephen_D.US043M.bin), [CAR image](attachments/MAC-65_v3.6_1988-01-07Lawrow_Stephen_D.US043M.car)  
+** 034M bank order: [BIN image](attachments/MAC-65_v3.6_1988-01-07Lawrow_Stephen_D.US034M.bin), [CAR image](attachments/MAC-65_3.6_with_DDT-034M.car)  
 *** a hack with black-on-white letters: [CAR image](attachments/MAC-65_3.6_with_DDT_S-W-034M.CAR)  
-- MAC/65 3.6 with DDT - one-chip cartridge: [BIN image](attachments/MAC-65_v3.6_(1988-01-07)(Lawrow_Stephen_D.)(US)(M091).bin), [CAR image](attachments/MAC-65_v3.6_(1988-01-07)(Lawrow_Stephen_D.)(US)(M091).car)  
+- MAC/65 3.6 with DDT - one-chip cartridge: [BIN image](attachments/MAC-65_v3.6_1988-01-07Lawrow_Stephen_D.USM091.bin), [CAR image](attachments/MAC-65_v3.6_1988-01-07Lawrow_Stephen_D.USM091.car)  
   
 # Other resources  
   
@@ -261,7 +261,7 @@ Here are cartridge images created by building the sources.
 - [MOUSE_ROUTINE_IN_AN_INTERRUPT](../MOUSE_ROUTINE_IN_AN_INTERRUPT/index.md)  
 - [RAF_Commander](../RAF_Commander/index.md) - a Norton Commander Clone for the 8bit Atari  
 - [Sweet16Mac65](../Sweet16Mac65/index.md) a virtual 16bit machine for the 8bit ATARI  
-- [MAC/65 Text Generator v 1.0 (Basic)](attachments/MAC-65_Text_Generator_v1.0_(1988)(Amte)(-)BASIC).atr)  
+- [MAC/65 Text Generator v 1.0 (Basic)](attachments/MAC-65_Text_Generator_v1.0_1988Amte-BASIC.atr)  
   
 ![](attachments/Mac+65+Dissassembler.jpg)  
   

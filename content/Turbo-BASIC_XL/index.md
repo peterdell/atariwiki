@@ -64,12 +64,12 @@ Well, sometimes miracles happen, so today: 5/22/17 ; Somewhere out there in the 
   
 ## CAR-Images  
 - [TURBO-BASIC_XL-Cartridge.car](attachments/TURBO-BASIC_XL-Cartridge.car)  
-- [TURBO-BASIC_XL-built_in_(XE).car](attachments/TURBO-BASIC_XL-built_in_(XE).car)  
-- [Turbo-BASIC_XL_1.5_(Switchable_XEGS).car](attachments/Turbo-BASIC_XL_1.5_(Switchable_XEGS).car) ; thank you MrFish from AtariAge for your help! :-)  
+- [TURBO-BASIC_XL-built_in_XE.car](attachments/TURBO-BASIC_XL-built_in_XE.car)  
+- [Turbo-BASIC_XL_1.5_Switchable_XEGS.car](attachments/Turbo-BASIC_XL_1.5_Switchable_XEGS.car) ; thank you MrFish from AtariAge for your help! :-)  
 - [TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker.car](attachments/TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker.car) ; TURBO-BASIC XL 1.5, Compiler 1.1, Runtime and Linker in just one single cartridge; thank you MrFish from AtariAge for your help! :-)  
   
 ## ROM-Images  
-- [Turbo-BASIC_XL_1.5_(Switchable_XEGS).rom](attachments/Turbo-BASIC_XL_1.5_(Switchable_XEGS).rom) ; thank you MrFish from AtariAge for your help! :-)  
+- [Turbo-BASIC_XL_1.5_Switchable_XEGS.rom](attachments/Turbo-BASIC_XL_1.5_Switchable_XEGS.rom) ; thank you MrFish from AtariAge for your help! :-)  
 - [TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker.rom](attachments/TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker.rom) ; for use with Atari800MacX emulator ; thank you MrFish from AtariAge for your help! :-)  
 - [TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker_Altirra.rom](attachments/TURBO-BASIC_XL_1.5_Compiler_1.1_Runtime_and_Linker_Altirra.rom) ; for use with Altirra emulator ; thank you MrFish from AtariAge for your help! :-)  
   
@@ -95,7 +95,7 @@ TODO: (The following is not correct!) There is only a one-byte difference betwee
 - [Turbo-Basic_XL_3.2q-SpartaDOS_3.2g_720K.atr](attachments/Turbo-Basic_XL_3.2q-SpartaDOS_3.2g_720K.atr) ; Turbo-Basic XL 3.2q on a SpartaDOS 3.2g formatted 720 KiB disk  
 - [TURBO-BASIC_XL-3.2q-SpartaDOS.atr](attachments/TURBO-BASIC_XL-3.2q-SpartaDOS.atr) ; file version of Turbo-BASIC XL 3.2q for SpartaDOS, but on a TURBO-DOS XE formatted diskette; Thank you sooo much Tom Hunt for giving the community the [SpartaDOS suite for TURBO-BASIC XL](attachments/Turbo_Basic_XL_for_Sparta_DOS_3.2d.zip)! We really appreciate your help so much. Please go ahead! :-)))  
 - [TURBO-BASIC_XL_for_SpartaDOS_3.2d.atr](attachments/TURBO-BASIC_XL_for_SpartaDOS_3.2d.atr) ; file version of Turbo-BASIC XL 3.2q for SpartaDOS, but on a DOS 2.5 formatted diskette  
-- [TURBO-BASIC_XL-(NTSC)_with_DOS_2.5.atr](attachments/TURBO-BASIC_XL-(NTSC)_with_DOS_2.5.atr) ; slightly adapted version for NTSC, see [Turbo-Basic_XL_1.5-NTSC.txt](attachments/Turbo-Basic_XL_1.5-NTSC.txt) for the differences  
+- [TURBO-BASIC_XL-NTSC_with_DOS_2.5.atr](attachments/TURBO-BASIC_XL-NTSC_with_DOS_2.5.atr) ; slightly adapted version for NTSC, see [Turbo-Basic_XL_1.5-NTSC.txt](attachments/Turbo-Basic_XL_1.5-NTSC.txt) for the differences  
 - [TURBO-BASIC_XL_suite.atr](attachments/TURBO-BASIC_XL_suite.atr)  
 - [All Turbo-Basic versions](attachments/TBXL_Versions.zip) ; size: 290 KB ; all 7 versions of Turbo-Basic in one zipped folder ; incredible work from CharlieChaplin from AtariAge. Thank you so much, Charlie Chaplin, for preserving this part of culture. :-)))  
 - [Turbo-Basic_XL_Versionen-komplett.zip](attachments/Turbo-Basic_XL_Versionen-komplett.zip) ; size: 576 KB ; same as above, but with version 1.6 from Thor  

@@ -26,7 +26,7 @@ Working images tested against Altirra 3.90 - provided by a kind soul on AtariAge
   
 ## fig-Forth images  
   
-- [Forth_with_DOS_2.5_SD_(OS-B).atr](attachments/Forth_with_DOS_2.5_SD_(OS-B).atr) ; fig-Forth 1.1 and valForth 1.1 with DOS 2.5 color ; OS B required  
+- [Forth_with_DOS_2.5_SD_OS-B.atr](attachments/Forth_with_DOS_2.5_SD_OS-B.atr) ; fig-Forth 1.1 and valForth 1.1 with DOS 2.5 color ; OS B required  
 - [Forth26-S1.atr](attachments/Forth26-S1.atr) ; fig-FORTH 1.4S  
 - [Forth26-S2.atr](attachments/Forth26-S2.atr) ; fig-FORTH 1.4S  
   

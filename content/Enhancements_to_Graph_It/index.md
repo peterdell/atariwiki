@@ -16,7 +16,7 @@ Even more luckily, Kay Savetz has the original diskette as an atr-image on his g
   
 Therefore, we are able to publish from that source the following working, already merged program as an atr-image:  
   
-[Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock-Working.atr](attachments/Enhancements_to_Graph_It_APX-20074_(C)_1982_Howard_D._Siebenrock-Working.atr)  
+[Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock-Working.atr](attachments/Enhancements_to_Graph_It_APX-20074_C_1982_Howard_D._Siebenrock-Working.atr)  
   
 This saves you a lot of time. :-)  
   
@@ -40,10 +40,10 @@ Enhancements to Graph It - Original Disk Content
 - [Saved_Plots.atr](attachments/Saved_Plots.atr) ; all plots from the original Graph It manual, this time with Enhancements to Graph It; stored in suffix-format below  
 - [Atari Graph It CX4109 cassettes](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20Graph%20It) ; all cassettes are on one atr-diskette-image  
 - [Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock-Original.atr](http://gury.atari8.info/details_software/1026.php) ; the original APX-diskette-image on Bostjan Gorisek's great site  
-- [Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock-Working.atr](attachments/Enhancements_to_Graph_It_APX-20074_(C)_1982_Howard_D._Siebenrock-Working.atr) ; working, already merged program on an atr-image  
+- [Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock-Working.atr](attachments/Enhancements_to_Graph_It_APX-20074_C_1982_Howard_D._Siebenrock-Working.atr) ; working, already merged program on an atr-image  
 ## Manuals:  
 - [Atari Graph It CX4109 cassettes](https://atariwiki.org/wiki/Wiki.jsp?page=Atari%20Graph%20It) ; please see here for the original, corrected and bug free Graph It-manual  
-- [Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock](attachments/Enhancements_to_Graph_It_APX-20074_(C)_1982_Howard_D._Siebenrock.pdf) ; size: 7.8 MB  
+- [Enhancements to Graph It, APX-20074 (C) 1982 Howard D. Siebenrock](attachments/Enhancements_to_Graph_It_APX-20074_C_1982_Howard_D._Siebenrock.pdf) ; size: 7.8 MB  
 ## ZIP-Images:  
 - [Screenshots.zip](attachments/Screenshots.zip) all plots from the original Graph It manual, this time with Enhancements to Graph It and in JPG-format; size: 1.4 MB  
 ## Suffix:  

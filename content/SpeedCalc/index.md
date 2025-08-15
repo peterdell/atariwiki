@@ -206,7 +206,7 @@ SpeedCalc - Keyboard
 ...  
   
 ## ATR Images  
-- [SpeedCalc_(1986)_(K._Martin_and_C._Brannon).atr](attachments/SpeedCalc_(1986)_(K._Martin_and_C._Brannon).atr)  
+- [SpeedCalc_1986_K._Martin_and_C._Brannon.atr](attachments/SpeedCalc_1986_K._Martin_and_C._Brannon.atr)  
 - [SpeedCalc.atr](attachments/SpeedCalc.atr)  
 - [SpeedCalc_enhanced.atr](attachments/SpeedCalc_enhanced.atr)  
   

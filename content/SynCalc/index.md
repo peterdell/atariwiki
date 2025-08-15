@@ -38,15 +38,15 @@ See also [http://atariage.com/forums/topic/208094-who-can-crack-this-one](http:/
 - [SynCalc-1985 Version](attachments/Synapse_SynCalc_1985.pdf) ; size: 13,3 MB  
 - [SynCalc Template Disk](attachments/SynCalc_Template_Disk_Synapse.pdf) ; size: 8 MB  
 ## ATR images  
-- [SynCalc_(1983)(Synapse_Software)(US).atx](attachments/SynCalc_(1983)(Synapse_Software)(US).atx) ; atx-image of the 1983 version which runs properly, icluding the VisiCalc import program, which is missed on nearly all(!) versions  
-- [SynCalc_(1985)(Synapse_Software)(US).atx](attachments/SynCalc_(1985)(Synapse_Software)(US).atx) ; atx-image of the 1985 version which runs properly, icluding the VisiCalc import program, which is missed on nearly all(!) versions  
-- [SynCalc 128K atx-version](attachments/SynCalc_128K_(1985).atx) ; atx-image which runs on Altirra, but not with the Atari800MacX emulator (2016)  
-- [SynCalc 128K atr-version](attachments/SynCalc_128K_(1993).atr) ; atr-image which runs on all emulators, but not verified yet regarding reliable calculations  
-- [SynCalc Template Disk](attachments/Syncalc_Template_(original).atr) ; atr-image from the original diskette  
+- [SynCalc_1983Synapse_SoftwareUS.atx](attachments/SynCalc_1983Synapse_SoftwareUS.atx) ; atx-image of the 1983 version which runs properly, icluding the VisiCalc import program, which is missed on nearly all(!) versions  
+- [SynCalc_1985Synapse_SoftwareUS.atx](attachments/SynCalc_1985Synapse_SoftwareUS.atx) ; atx-image of the 1985 version which runs properly, icluding the VisiCalc import program, which is missed on nearly all(!) versions  
+- [SynCalc 128K atx-version](attachments/SynCalc_128K_1985.atx) ; atx-image which runs on Altirra, but not with the Atari800MacX emulator (2016)  
+- [SynCalc 128K atr-version](attachments/SynCalc_128K_1993.atr) ; atr-image which runs on all emulators, but not verified yet regarding reliable calculations  
+- [SynCalc Template Disk](attachments/Syncalc_Template_original.atr) ; atr-image from the original diskette  
 - [SynCalc Data Disk.atr](attachments/SynCalc_Data_Disk.atr) ; atr-image with some examples and templates  
   
-- [SynCalc Classic for 400-800 Ataris](attachments/SynCalc_(Classic).atr) ; not yet tested, use on your own risk  
-- [SynCalc for XL-XE-Ataris](attachments/SynCalc_(XL-XE).atr) ; not yet tested, use on your own risk  
+- [SynCalc Classic for 400-800 Ataris](attachments/SynCalc_Classic.atr) ; not yet tested, use on your own risk  
+- [SynCalc for XL-XE-Ataris](attachments/SynCalc_XL-XE.atr) ; not yet tested, use on your own risk  
 - [SynCalc with OSS DOS XL 2.30 as file version](attachments/SynCalc_with_OSS_DOS_XL_2.30.atr) ; not yet tested, use on your own risk  
 ## RAW files from the Kryoflux  
 - [Kryoflux-raw-no-flippy.zip](attachments/Kryoflux-raw-no-flippy.zip) ; size: 22.9 MB ; A very big thank you goes to Freddy Offenga for creating the raw files from our original SynCalc 128K diskette. Freddy, great work! Thank you so much! :-)  

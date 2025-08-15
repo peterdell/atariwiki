@@ -3,9 +3,9 @@ With Atari Stock Charting you can track and study selected stocks and their mark
   
 Requires 24 KB minimum of RAM, Atari Basic and Atari Disk drive.  
 ## ATR images  
-- [Stock_Charting_CX8108_(Basic)_Original.atr](attachments/Stock_Charting_CX8108_(Basic)_Original.atr) ; Stock Charting CX8108 Original disk (protected)  
-- [Stock_Charting_CX8108_(Basic)_(working).atr](attachments/Stock_Charting_CX8108_(Basic)_(working).atr) ; Stock Charting CX8108 disk (working)  
-- [Stock_Charting_CX8108_(Basic)-Version_from_Wade_Ripkowski.atr](attachments/Stock_Charting_CX8108_(Basic)-Version_from_Wade_Ripkowski.atr) ; Stock Charting CX8108 disk (version from Wade Ripkowski, which works even today! :-))  
+- [Stock_Charting_CX8108_Basic_Original.atr](attachments/Stock_Charting_CX8108_Basic_Original.atr) ; Stock Charting CX8108 Original disk (protected)  
+- [Stock_Charting_CX8108_Basic_working.atr](attachments/Stock_Charting_CX8108_Basic_working.atr) ; Stock Charting CX8108 disk (working)  
+- [Stock_Charting_CX8108_Basic-Version_from_Wade_Ripkowski.atr](attachments/Stock_Charting_CX8108_Basic-Version_from_Wade_Ripkowski.atr) ; Stock Charting CX8108 disk (version from Wade Ripkowski, which works even today! :-))  
 - [Stock Charting CX8111 Blank Diskette](attachments/Blank_Diskette.atr) ; Stock Charting CX8111 Blank Diskette  
   
 - [Stock Charting Data Diskette 1](attachments/Stock_Data_Diskette.atr) ; Stock Charting Data Diskette, already formatted with some data  

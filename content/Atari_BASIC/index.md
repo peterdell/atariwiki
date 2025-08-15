@@ -54,12 +54,12 @@ Atari Basic Cartridge - silver - Revison C ; Revision B was soldered in the mach
 - [Atari_Basic_Rev._A.rom](attachments/Atari_Basic_Rev._A.rom) ; ? PEEK(43234) should return: 162  
 - [Atari_Basic_Rev._B.rom](attachments/Atari_Basic_Rev._B.rom) ; ? PEEK(43234) should return: 96  
 - [Atari_Basic_Rev._C.rom](attachments/Atari_Basic_Rev._C.rom) ; ? PEEK(43234) should return: 234  
-- [Monkey_Wrench_with_BASIC_(Rev._C).rom](attachments/Monkey_Wrench_with_BASIC_(Rev._C).rom) ; both roms in just one 16 KiB file  
+- [Monkey_Wrench_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
 - [Monkey_Wrench_II_OS-B_right_v1.rom](attachments/Monkey_Wrench_II_OS-B_right_v1.rom) ; thanks to [serious computerist](http://seriouscomputerist.altervista.org/pages/utility/utility.atari.htm), we really appreciate! :-)  
 - [Monkey_Wrench_II_OS-B_right_v2.rom](attachments/Monkey_Wrench_II_OS-B_right_v2.rom) ; thanks to [serious computerist](http://seriouscomputerist.altervista.org/pages/utility/utility.atari.htm), we really appreciate! :-)  
-- [Monkey_Wrench_II_(OS-B_right_v1)_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_II_(OS-B_right_v1)_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
-- [Monkey_Wrench_II_(OS-B_right_v2)_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_II_(OS-B_right_v2)_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
-- [Monkey_Wrench_II_XL_with_BASIC_(Rev._C).rom](attachments/Monkey_Wrench_II_XL_with_BASIC_(Rev._C).rom) ; both roms in just one 16 KiB file  
+- [Monkey_Wrench_II_OS-B_right_v1_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_II_OS-B_right_v1_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
+- [Monkey_Wrench_II_OS-B_right_v2_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_II_OS-B_right_v2_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
+- [Monkey_Wrench_II_XL_with_BASIC_Rev._C.rom](attachments/Monkey_Wrench_II_XL_with_BASIC_Rev._C.rom) ; both roms in just one 16 KiB file  
   
 To create one 16 KiB-ROM out of 2 8 KiB ROMs, use the following method:  
   
@@ -83,10 +83,10 @@ and the resulting rom file can be found in the same directory.
 - [Atari_Basic_Rev._C.car](attachments/Atari_Basic_Rev._C.car) ; ? PEEK(43234) should return: 234  
 - [The_Monkey_Wrench.car](attachments/The_Monkey_Wrench.car) Tool for better editing Basic programs, version I  
 - [The_Monkey_Wrench_II.car](attachments/The_Monkey_Wrench_II.car) Tool for better editing Basic programs, version II v2  
-- [Monkey_Wrench_with_BASIC_(Rev._C).car](attachments/Monkey_Wrench_with_BASIC_(Rev._C).car) ; both cartridges in just one 16 KiB file  
+- [Monkey_Wrench_with_BASIC_Rev._C.car](attachments/Monkey_Wrench_with_BASIC_Rev._C.car) ; both cartridges in just one 16 KiB file  
 - [Monkey_Wrench_II_OS-B_right_v1.car](attachments/Monkey_Wrench_II_OS-B_right_v1.car) ; thanks to [serious computerist](http://seriouscomputerist.altervista.org/pages/utility/utility.atari.htm), we really appreciate! :-)  
 - [Monkey_Wrench_II_OS-B_right_v2.car](attachments/Monkey_Wrench_II_OS-B_right_v2.car) ; thanks to [serious computerist](http://seriouscomputerist.altervista.org/pages/utility/utility.atari.htm), we really appreciate! :-)  
-- [Monkey_Wrench_II_XL_with_BASIC_(Rev._C).car](attachments/Monkey_Wrench_II_XL_with_BASIC_(Rev._C).car) ; both cartridges in just one 16 KiB file. This is a patched BASIC, when initialized jumps to $8002 (right cartridge). Only this way it is runnig on a XL machine.  
+- [Monkey_Wrench_II_XL_with_BASIC_Rev._C.car](attachments/Monkey_Wrench_II_XL_with_BASIC_Rev._C.car) ; both cartridges in just one 16 KiB file. This is a patched BASIC, when initialized jumps to $8002 (right cartridge). Only this way it is runnig on a XL machine.  
   
 ## Manuals  
 - [Atari Basic Reference Manual Rev. A (1980)](https://data.atariwiki.org/DOC/ATARI_BASIC_Reference_Manual.pdf) ; size: 77.7 MB ; 122 pages  

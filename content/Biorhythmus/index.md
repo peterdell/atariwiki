@@ -7,8 +7,8 @@ Derzeit existiert nur die 16K-Version in deutsch. Die 8K-Version wird noch gesuc
   
 Bitte beachten Sie, dass die deutsche Version noch den Y2K-Bug enthält und daher nur bis zum Jahr 2000 funktioniert. Es gibt eine englischen Version [Atari_Biorhythm](../Atari_Biorhythm/index.md), die den Bug bereits bereinigt hat. Diese Version müsste lediglich entsprechend in die deutsche Version übertragen werden.  
 ## ATR-Images  
-- [Atari_Biorhythmus_CX4107_und_DXG_5727_(deutsch-englisch)_(Basic)_komplett.atr](attachments/Atari_Biorhythmus_CX4107_und_DXG_5727_(deutsch-englisch)_(Basic)_komplett.atr) ;  
-- [Atari_Biorhythmus_DXG_5727_(deutsch)_(Basic)_16K_mit_Y2K-Bug--HH-READY-Version.atr](attachments/Atari_Biorhythmus_DXG_5727_(deutsch)_(Basic)_16K_mit_Y2K-Bug--HH-READY-Version.atr) ; deutsche, geänderte Version von HH-READY mit dem Y2K-Bug  
+- [Atari_Biorhythmus_CX4107_und_DXG_5727_deutsch-englisch_Basic_komplett.atr](attachments/Atari_Biorhythmus_CX4107_und_DXG_5727_deutsch-englisch_Basic_komplett.atr) ;  
+- [Atari_Biorhythmus_DXG_5727_deutsch_Basic_16K_mit_Y2K-Bug--HH-READY-Version.atr](attachments/Atari_Biorhythmus_DXG_5727_deutsch_Basic_16K_mit_Y2K-Bug--HH-READY-Version.atr) ; deutsche, geänderte Version von HH-READY mit dem Y2K-Bug  
 ## Bilder  
 ![](attachments/Cover+1-D.jpg)  
 Atari Biorhythmus DXG 5727 - Box - Vorderseite - Dank an Atarimania für den Scan  

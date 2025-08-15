@@ -2,13 +2,13 @@
 The Home Filing Manager is a databank program Atari provided in 1982  
   
 ## ATR Images  
-- [The_Home_Filing_Manager_(Basic).atr](attachments/The_Home_Filing_Manager_(Basic).atr) ; thanks to [Atari Preservation Project!](http://a8preservation.com/#/home) ; please use with Basic Cartridge  
-- [The_Home_Filing_Manager(Side_B)(User_Guide).atr](attachments/The_Home_Filing_Manager(Side_B)(User_Guide).atr) ; backside of the master diskette with user guide  
+- [The_Home_Filing_Manager_Basic.atr](attachments/The_Home_Filing_Manager_Basic.atr) ; thanks to [Atari Preservation Project!](http://a8preservation.com/#/home) ; please use with Basic Cartridge  
+- [The_Home_Filing_ManagerSide_BUser_Guide.atr](attachments/The_Home_Filing_ManagerSide_BUser_Guide.atr) ; backside of the master diskette with user guide  
 - [Formatted_Diskette_II-CX8111.atr](attachments/Formatted_Diskette_II-CX8111.atr) ; thanks to FloppyDoc and BigBen for creating!  
-- [The_Home_Filing_Manager_(Autorun).atr](attachments/The_Home_Filing_Manager_(Autorun).atr) ; The Home Filing Manager as autotun.sys on a DOS II 2.0 diskette  
+- [The_Home_Filing_Manager_Autorun.atr](attachments/The_Home_Filing_Manager_Autorun.atr) ; The Home Filing Manager as autotun.sys on a DOS II 2.0 diskette  
 - [The_Home_Filing_Manager-com_file.atr](attachments/The_Home_Filing_Manager-com_file.atr) ;The Home Filing Manager as com file on a DOS II 2.0 diskette  
 - [Home_Filing_Manager_Print_Utility.atr](attachments/Home_Filing_Manager_Print_Utility.atr) ; The Home Filing Manager Print Utilities  
-- [Atari_Home_Filing_Manager_Converter_1.0_(1994)_(MTG).atr](attachments/Atari_Home_Filing_Manager_Converter_1.0_(1994)_(MTG).atr) ; Home Filing Manager to delimited DOS files converter  
+- [Atari_Home_Filing_Manager_Converter_1.0_1994_MTG.atr](attachments/Atari_Home_Filing_Manager_Converter_1.0_1994_MTG.atr) ; Home Filing Manager to delimited DOS files converter  
 - [The_Home_Filing_Manager-Games_Data-Disk.atr](attachments/The_Home_Filing_Manager-Games_Data-Disk.atr) ; The Home Filing Manager - Data Disk example  
 - [The_Home_Filing_Manager-Games_Data-Cheats.atr](attachments/The_Home_Filing_Manager-Games_Data-Cheats.atr) ; The Home Filing Manager - Data Disk example for Cheats  
   

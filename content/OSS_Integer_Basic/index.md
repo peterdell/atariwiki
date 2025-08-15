@@ -12,11 +12,11 @@ Enabling the building of a M091 Integer BASIC is less straightforward, because t
   
 Thank you so much Tomasz 'Kr0tki' Krasuski for the info in building the runtime, we owe you so much. :-)))  
 ## CAR-Image  
-- [Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)034M.car](attachments/Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)034M.car) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st cartridge, we owe you so much. :-)))  
+- [Integer_BASIC_v1.00_C_1986-11-19OSSUS034M.car](attachments/Integer_BASIC_v1.00_C_1986-11-19OSSUS034M.car) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st cartridge, we owe you so much. :-)))  
 ## BIN-Images  
-- [Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)034M.bin](attachments/Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)034M.bin) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st binary, we owe you so much. :-)))  
-- [Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)043M.bin](attachments/Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(US)043M.bin) ; just runs in Altirra with OSS '043M' ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st binary, we owe you so much. :-)))  
-- [Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(Lawrow_Stephen_D.)(US)(M091).bin](attachments/Integer_BASIC_v1.00_C_(1986-11-19)(OSS)(Lawrow_Stephen_D.)(US)(M091).bin) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the binary, we owe you so much. :-)))  
+- [Integer_BASIC_v1.00_C_1986-11-19OSSUS034M.bin](attachments/Integer_BASIC_v1.00_C_1986-11-19OSSUS034M.bin) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st binary, we owe you so much. :-)))  
+- [Integer_BASIC_v1.00_C_1986-11-19OSSUS043M.bin](attachments/Integer_BASIC_v1.00_C_1986-11-19OSSUS043M.bin) ; just runs in Altirra with OSS '043M' ; thank you so much Tomasz 'Kr0tki' Krasuski for building the 1st binary, we owe you so much. :-)))  
+- [Integer_BASIC_v1.00_C_1986-11-19OSSLawrow_Stephen_D.USM091.bin](attachments/Integer_BASIC_v1.00_C_1986-11-19OSSLawrow_Stephen_D.USM091.bin) ; thank you so much Tomasz 'Kr0tki' Krasuski for building the binary, we owe you so much. :-)))  
 ## ATR-Image  
 - [Integer_BASIC_1.00_with_DOS_2.5_MD.atr](attachments/Integer_BASIC_1.00_with_DOS_2.5_MD.atr) ; just the file version  
 ## Manuals ; who is making a manual for OSS Integer Basic?  

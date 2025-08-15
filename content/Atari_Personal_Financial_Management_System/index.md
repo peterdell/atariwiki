@@ -14,14 +14,14 @@ The goal here would be to get rid of this, create a DD diskette, which holds bot
   
 At that point Mr. Bacardi has already taken over:  
   
-- [Personal_Finance_Management_System_CX8113_(SD-DOS_2.5).atr](attachments/Personal_Finance_Management_System_CX8113_(SD-DOS_2.5).atr) ; a)  
-- [Personal_Finance_Management_System_CX8114_(MD-DOS_2.5).atr](attachments/Personal_Finance_Management_System_CX8114_(MD-DOS_2.5).atr) ; b)  
+- [Personal_Finance_Management_System_CX8113_SD-DOS_2.5.atr](attachments/Personal_Finance_Management_System_CX8113_SD-DOS_2.5.atr) ; a)  
+- [Personal_Finance_Management_System_CX8114_MD-DOS_2.5.atr](attachments/Personal_Finance_Management_System_CX8114_MD-DOS_2.5.atr) ; b)  
   
 and delivered us a SD image for the CX8113 type and a MD image for the CX8114 type.  
   
 Have already started to bring both images on just one DD image:  
   
-- [Personal_Finance_Management_System_CX8113-4_(DD-DOS_2.0D).atr](attachments/Personal_Finance_Management_System_CX8113-4_(DD-DOS_2.0D).atr) ; c)  
+- [Personal_Finance_Management_System_CX8113-4_DD-DOS_2.0D.atr](attachments/Personal_Finance_Management_System_CX8113-4_DD-DOS_2.0D.atr) ; c)  
   
 up to now, PFMS is not running with c). Who can help us?  
   

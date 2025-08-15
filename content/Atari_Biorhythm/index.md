@@ -41,11 +41,11 @@ After entry the biorhythm will proceed to printout. Use CONTROL 1 to halt printo
 ## Manual  
 - [Atari_Biorhythm_CX4107.pdf](attachments/Atari_Biorhythm_CX4107.pdf) ; size: 1.3 MB ; thanks to Atarimania for the JPG-scans. :-)))  
 ## CAS-Images  
-- [Biorhythm_(8K)_without_limit.cas](attachments/Biorhythm_(8K)_without_limit.cas) ; patched version without the Y2K-bug; __The German 8K-version is still missing, please help us. Thank you in advance.__  
-- [Biorhythm_(16K)_-_2000.cas](attachments/Biorhythm_(16K)_-_2000.cas) ; version with the Y2K-bug, limited up to the year 2000  
+- [Biorhythm_8K_without_limit.cas](attachments/Biorhythm_8K_without_limit.cas) ; patched version without the Y2K-bug; __The German 8K-version is still missing, please help us. Thank you in advance.__  
+- [Biorhythm_16K_-_2000.cas](attachments/Biorhythm_16K_-_2000.cas) ; version with the Y2K-bug, limited up to the year 2000  
 ## ATR-Images  
-- [Atari_Biorhythmus_CX4107_(--_XL_english_no_limit_no_BASIC).atr](attachments/Atari_Biorhythmus_CX4107_(--_XL_english_no_limit_no_BASIC).atr) ; compiled Turbo-Basic XL version  
-- [Atari_Biorhythmus_CX4107_und_DXG_5727_(deutsch-englisch)_(Basic)_komplett.atr](attachments/Atari_Biorhythmus_CX4107_und_DXG_5727_(deutsch-englisch)_(Basic)_komplett.atr) ; English and German version  
+- [Atari_Biorhythmus_CX4107_--_XL_english_no_limit_no_BASIC.atr](attachments/Atari_Biorhythmus_CX4107_--_XL_english_no_limit_no_BASIC.atr) ; compiled Turbo-Basic XL version  
+- [Atari_Biorhythmus_CX4107_und_DXG_5727_deutsch-englisch_Basic_komplett.atr](attachments/Atari_Biorhythmus_CX4107_und_DXG_5727_deutsch-englisch_Basic_komplett.atr) ; English and German version  
 ## Pictures  
 ![](attachments/biorythm.jpg)  
 Atari Biorhythm CX4107 - box ; thanks to rhod for scanning  
